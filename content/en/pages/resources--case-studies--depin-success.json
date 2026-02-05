@@ -1,0 +1,82 @@
+{
+  "path": "/resources/case-studies/depin-success",
+  "meta": {
+    "title": "DePIN Success Stories | Proof of Profitability",
+    "description": "Real-world examples of how low energy costs in Kenya drive superior yields for Render and Akash node operators."
+  },
+  "hero": {
+    "headline": "Real Assets, Real Yields: The DePIN Proof",
+    "subheadline": "See how our $0.04/kWh energy advantage translates into top-tier reputation scores and high token earnings for our node operators.",
+    "badge": "Case Studies",
+    "cta": [
+      {
+        "label": "Tokenomics Guide",
+        "href": "/compute/depin/tokenomics",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Industrializing DePIN Profitability",
+      "body": "The theory of DePIN is compelling, but the reality is won through operational efficiency. These case studies highlight how Kenya AI Compute is transforming the economics of decentralized networks. For example, a managed GPU cluster operating on Render Network within our facility achieved a 65% higher net margin compared to a similar setup in the European Union, purely due to the disparity in electricity costs. Another study of our CPU nodes on the Akash marketplace shows that our Tier II+ reliability allows our operators to win 30% more auctions than residential-based nodes. These success stories provide the 'Proof of Profit' for institutional investors looking to move from crypto-speculation into infrastructure-based token earnings. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit econ"
+    },
+    {
+      "type": "bullets",
+      "title": "Key Case Study Findings",
+      "items": [
+        "Energy Arbitrage: 70% reduction in monthly electricity bills for node operators.",
+        "Reputation Score: Constant 99.9% uptime leads to 'Gold' tier status on major networks.",
+        "Task Completion: High-speed 100G fiber ensures faster upload/download for rendering jobs.",
+        "Scaling Speed: New capacity onboarded to io.net in under 48 hours from arrival.",
+        "Managed ROI: Automated maintenance increases GPU lifespan and reduces downtime losses."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Success Visualization",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/case-study-earnings-graph.jpg",
+          "alt": "Node earnings comparison chart",
+          "caption": "Kenya AI vs Traditional Hosting: The DePIN Yield Gap."
+        },
+        {
+          "kind": "video",
+          "src": "/media/operator-testimonial-en.mp4",
+          "poster": "/media/depin-poster.jpg",
+          "caption": "Why I moved my GPU farm from the US to our Kenyan facility."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Success Metrics",
+      "items": [
+        {
+          "label": "Net Margin Increase",
+          "value": "60% - 70%"
+        },
+        {
+          "label": "Uptime Reputation",
+          "value": "Tier 1 (Highest)"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Launch Your Case Study",
+      "copy": "Join the most profitable DePIN community in the Global South. Start your node hosting today.",
+      "primary": {
+        "label": "Node Hosting Plans",
+        "href": "/compute/depin/node-hosting"
+      },
+      "secondary": {
+        "label": "Full Library",
+        "href": "/resources/case-studies"
+      }
+    }
+  ]
+}

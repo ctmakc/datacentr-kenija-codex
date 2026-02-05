@@ -1,0 +1,82 @@
+{
+  "path": "/project/phases/phase-1",
+  "meta": {
+    "title": "Phase 1: 300kW Deployment | Quick Start Strategy",
+    "description": "Phase 1 details: 300kW IT load, 2 container modules, and immediate DePIN network integration."
+  },
+  "hero": {
+    "headline": "Phase 1: Launching the Future",
+    "subheadline": "Our 300kW initial deployment focuses on immediate revenue generation through DePIN and AI rendering workloads.",
+    "badge": "Phase 1: 300kW",
+    "cta": [
+      {
+        "label": "Phase 1 Financials",
+        "href": "/investors/financials/capex",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Strategic Pilot",
+      "body": "Phase 1 is our tactical entry into the market, designed to establish operational presence and generate immediate cash flow. This phase consists of two 40ft High-Cube container modules with a combined IT load of 300kW. The hardware configuration is specifically weighted toward GPU-heavy tasks (100kW GPU, 150kW CPU, 50kW Storage) to take advantage of the high demand from networks like Render and io.net. This stage allows us to finalize all local operational procedures, train our core engineering team in Kenya, and demonstrate the efficiency of our $0.04/kWh energy model. Construction is planned for 9-12 months, with a CAPEX of $6M-$8M. This phase serves as the foundation upon which the 1MW expansion will be built. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity"
+    },
+    {
+      "type": "bullets",
+      "title": "Phase 1 Specifications",
+      "items": [
+        "Capacity: 300kW IT load delivered via 2 modular units.",
+        "Hardware: NVIDIA-heavy GPU clusters + AMD EPYC CPU nodes.",
+        "Timeline: 9-12 months from funding to first revenue.",
+        "CAPEX: $6.0 - $8.0 Million.",
+        "Revenue Target: $1.5M - $2.5M per year at 50% utilization."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Phase 1 Visualization",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/phase-1-render.jpg",
+          "alt": "Phase 1 containers on site",
+          "caption": "Our first two modules deployed and integrated with the power plant."
+        },
+        {
+          "kind": "video",
+          "src": "/media/container-setup-en.mp4",
+          "poster": "/media/phase-poster.jpg",
+          "caption": "How we deploy modular compute units in record time."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Phase 1 Goals",
+      "items": [
+        {
+          "label": "Deployment Speed",
+          "value": "9 Months"
+        },
+        {
+          "label": "Target Utilization",
+          "value": "50%+"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Investment Opportunity",
+      "copy": "Phase 1 is currently open for anchor investors seeking early entry into the project.",
+      "primary": {
+        "label": "Invest in Phase 1",
+        "href": "/contact/investors"
+      },
+      "secondary": {
+        "label": "Scaling to Phase 2",
+        "href": "/project/phases/phase-2"
+      }
+    }
+  ]
+}

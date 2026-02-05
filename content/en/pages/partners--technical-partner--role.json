@@ -1,0 +1,82 @@
+{
+  "path": "/partners/technical-partner/role",
+  "meta": {
+    "title": "Technical Partner Role | DC Engineering & Design",
+    "description": "Collaborate on Africa's most efficient AI infrastructure. Roles and responsibilities for global technical partners."
+  },
+  "hero": {
+    "headline": "Engineering the Backbone of African AI",
+    "subheadline": "We invite world-class data center architects and engineers to join our technical consortium for the 1MW project.",
+    "badge": "Technical Collaboration",
+    "cta": [
+      {
+        "label": "Partner RFI",
+        "href": "/partners/technical-partner/apply",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "A Synergy of Expertise",
+      "body": "The technical partner is the 'intellectual engine' of the Kenya AI Compute project. This role focuses on the high-level design and ongoing technical optimization of the facility. Responsibilities include the selection of modular container vendors, the design of high-density cooling loops, and the orchestration of the 100G/400G network fabric. We look for partners who have a proven track record in High-Performance Computing (HPC) environments and who can bring innovative solutions to the challenges of tropical data center operations. By joining our consortium, technical partners gain a footprint in the world's fastest-growing digital market and participate in the revenue-sharing model of a vertically integrated infrastructure asset. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: the project follows a c"
+    },
+    {
+      "type": "bullets",
+      "title": "Collaboration Areas",
+      "items": [
+        "Architecture: Modular Tier II/III design for extreme GPU densities.",
+        "Energy: Optimization of hybrid power plant-to-rack distribution.",
+        "Software: Implementation of DCIM and MLOps management layers.",
+        "Networking: Architecting the Spine-Leaf fabric and international IXP peering.",
+        "R&D: Testing next-gen liquid cooling solutions for Phase 3 scaling."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Engineering Standards",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/technical-partner-collab.jpg",
+          "alt": "Engineers discussing blueprints",
+          "caption": "Defining the technical standards for Africa's AI future."
+        },
+        {
+          "kind": "video",
+          "src": "/media/cto-partnership-vision.mp4",
+          "poster": "/media/team-poster.jpg",
+          "caption": "Our CTO on the benefits of being a technical partner in Kenya."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Technical Targets",
+      "items": [
+        {
+          "label": "Target PUE",
+          "value": "1.3 - 1.5"
+        },
+        {
+          "label": "Uptime SLA",
+          "value": "99.9%"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "View Engagement Models",
+      "copy": "Discover the different ways to participate: from consulting roles to equity partnerships.",
+      "primary": {
+        "label": "Engagement Models",
+        "href": "/partners/technical-partner/engagement-models"
+      },
+      "secondary": {
+        "label": "Supplier Portal",
+        "href": "/partners/equipment-suppliers"
+      }
+    }
+  ]
+}

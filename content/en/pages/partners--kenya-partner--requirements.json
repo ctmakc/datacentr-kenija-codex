@@ -1,0 +1,82 @@
+{
+  "path": "/partners/kenya-partner/requirements",
+  "meta": {
+    "title": "Local Partner Requirements | Construction & Logistics",
+    "description": "Technical and financial criteria for Kenyan partners. What we look for in power plant operators and site developers."
+  },
+  "hero": {
+    "headline": "Excellence for Africa's Digital Gateway",
+    "subheadline": "We hold our local partners to the highest international standards to ensure the success of this 1MW infrastructure asset.",
+    "badge": "Partner Standards",
+    "cta": [
+      {
+        "label": "Apply for Partnership",
+        "href": "/partners/kenya-partner/apply",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Standards of a Global AI Hub",
+      "body": "To build a facility that competes with the best in the world, our local Kenyan partners must demonstrate a commitment to operational excellence and technical precision. We are looking for established entities in the energy and construction sectors that have a proven track record of delivering multi-million dollar industrial projects on time and within budget. Our requirements go beyond simple financing; we seek partners who can navigate the local regulatory landscape with integrity, manage a skilled technical workforce, and maintain the complex systems of a 24/7 data center. In return, we offer a world-class technology transfer, international currency revenue, and a seat at the table of the most innovative infrastructure project in East Africa. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models."
+    },
+    {
+      "type": "bullets",
+      "title": "Criteria for Kenyan Partners",
+      "items": [
+        "Energy Capacity: Proven ability to build and operate 2MW+ hybrid generation plants.",
+        "Financial Health: Audited financial statements and clear proof of capital for local CAPEX share.",
+        "Regulatory Record: Clean history of compliance with Kenyan licensing and environmental laws.",
+        "Human Capital: Access to certified mechanical and electrical engineers (Certs: KETRACO/EPRA).",
+        "Commitment: Long-term vision for scaling from 1MW to 3MW+ over the next 5 years."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Partnership Standards",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/kenya-engineering-standards.jpg",
+          "alt": "Certified Kenyan engineers on site",
+          "caption": "We prioritize local talent with world-class certifications."
+        },
+        {
+          "kind": "video",
+          "src": "/media/local-impact-interview.mp4",
+          "poster": "/media/partner-poster.jpg",
+          "caption": "How we maintain international Tier II/III standards in the Kenyan market."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Partner Vitals",
+      "items": [
+        {
+          "label": "Min. Project Value Exp.",
+          "value": "$5M+"
+        },
+        {
+          "label": "Target Local Staffing",
+          "value": "80% of Operations"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Start the Evaluation Process",
+      "copy": "Submit your company profile and track record for review by our project management office.",
+      "primary": {
+        "label": "Submit Profile",
+        "href": "/partners/kenya-partner/apply"
+      },
+      "secondary": {
+        "label": "About the Project",
+        "href": "/project/overview"
+      }
+    }
+  ]
+}

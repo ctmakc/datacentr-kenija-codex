@@ -1,0 +1,82 @@
+{
+  "path": "/datacenter/equipment/compute",
+  "meta": {
+    "title": "AI Server Hardware & GPU Specs | Hybrid Compute",
+    "description": "Details of our hybrid GPU/CPU park. NVIDIA and AMD configurations optimized for high-yield AI and DePIN workloads."
+  },
+  "hero": {
+    "headline": "Pragmatic Hardware for High-Yield AI",
+    "subheadline": "We focus on high-utilization hardware (30% GPU / 50% CPU) to ensure maximum profitability and flexible workload handling.",
+    "badge": "Hardware Specs",
+    "cta": [
+      {
+        "label": "Pricing Calculator",
+        "href": "/compute/pricing/calculator",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Balanced Infrastructure for a Global Market",
+      "body": "In building Kenya AI Compute, we avoided the trap of chasing 'vanity' top-tier GPUs that often come with low margins and long supply waits. Instead, we have engineered a hybrid server park designed for maximum utilization and rapid ROI. Our fleet is composed of 30% GPU nodes (focused on A100-class and modern AMD Instinct alternatives) for AI training and 3D rendering, and 50% high-core-count CPU nodes (AMD EPYC/Intel Xeon) for the massive demand in inference, edge computing, and decentralized cloud services. This 30/50/20 mix (GPU/CPU/Storage) ensures that we can fulfill the requirements of both the DePIN networks (like Render and Akash) and enterprise clients simultaneously. By utilizing high-performance but cost-effective hardware, we keep our CAPEX within the $14M-$18M range for the server park, allowing us to offer clients pricing that is 40% more affordable than global hyperscalers. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptim"
+    },
+    {
+      "type": "bullets",
+      "title": "Server Fleet Configuration",
+      "items": [
+        "GPU Nodes: NVIDIA A100-80GB / L40S and AMD MI250X clusters.",
+        "CPU Nodes: Dual-socket AMD EPYC 7003/9004 series for high vCPU density.",
+        "RAM: Minimum 512GB DDR4/DDR5 per node for large model inference.",
+        "Storage: Direct-attach NVMe Gen4 for ultra-fast data access.",
+        "Interconnect: Dual 100G NICs per node with RDMA support."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Server Gallery",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/gpu-server-node.jpg",
+          "alt": "A100 GPU server node",
+          "caption": "One of our standard 8-GPU training nodes being unboxed."
+        },
+        {
+          "kind": "video",
+          "src": "/media/benchmarks-en.mp4",
+          "poster": "/media/compute-poster.jpg",
+          "caption": "Performance benchmarks of our hybrid nodes vs AWS g5 instances."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Hardware Assets",
+      "items": [
+        {
+          "label": "GPU Fleet Share",
+          "value": "30%"
+        },
+        {
+          "label": "CPU Fleet Share",
+          "value": "50%"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Scale Your Tasks",
+      "copy": "Rent individual cards or entire clusters. Check our available inventory and reserve your capacity.",
+      "primary": {
+        "label": "Check Inventory",
+        "href": "/portal/customer-dashboard/services"
+      },
+      "secondary": {
+        "label": "Storage Specs",
+        "href": "/datacenter/equipment/storage"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "path": "/news/blog/kenya-tech-revolution",
+  "meta": {
+    "title": "The Kenya Tech Revolution: Why Nairobi is the Next AI Hub",
+    "description": "From M-Pesa to AI Infrastructure. Why Kenya's Silicon Savannah is the ideal launchpad for Africa's compute future."
+  },
+  "hero": {
+    "headline": "Kenya: The Silicon Savannah Enters the AI Age",
+    "subheadline": "Kenya has a history of disrupting global industries. Now, with 1MW of AI compute, we are setting the stage for the next digital leap.",
+    "badge": "Regional Insights",
+    "cta": [
+      {
+        "label": "Why Kenya?",
+        "href": "/project/location/kenya",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Beyond Mobile Payments: Building the Hard Assets",
+      "body": "Kenya has long been a global case study for digital transformation, famously leapfrogging the West in mobile payments with M-Pesa. However, the next stage of growth requires more than just clever software; it requires 'Hard Tech' infrastructure. The Kenya AI Compute project marks a significant shift in the regional ecosystem—moving from being a consumer of global compute to being a producer. Nairobi is currently home to the highest concentration of tech talent in East Africa, with thousands of developers entering the AI and Data Science space every year. By providing this talent with local, affordable, and high-performance infrastructure, we are removing the last barrier to a true African AI boom. Our project is the foundational layer that will allow local startups to train their own LLMs for African languages and build computer vision systems for local agriculture and urban planning. Additional context: the project follows a clear rollout"
+    },
+    {
+      "type": "bullets",
+      "title": "The Silicon Savannah Advantage",
+      "items": [
+        "Proven Talent: Over 60,000 professional developers in the Nairobi metro area alone.",
+        "Connectivity: Africa’s most stable submarine cable landing points in Mombasa.",
+        "Pro-Tech Policy: Government-led 'Digital Masterplan' supporting high-tech FDI.",
+        "Economic Stability: A diversified economy with a strong English-speaking business culture.",
+        "Strategic Gate: The gateway to the 400M+ people in the East African Community."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Local Tech Growth",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/nairobi-innovation-hub.jpg",
+          "alt": "Nairobi Tech Hub Environment",
+          "caption": "The vibrant tech ecosystem of Nairobi, the heart of East African innovation."
+        },
+        {
+          "kind": "video",
+          "src": "/media/kenya-digital-future.mp4",
+          "poster": "/media/blog-poster.jpg",
+          "caption": "Documentary: How infrastructure will build the next billion-dollar African tech firm."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Kenya Tech Metrics",
+      "items": [
+        {
+          "label": "Annual Tech FDI",
+          "value": "$1B+"
+        },
+        {
+          "label": "Renewable Power Share",
+          "value": "90%+"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Visit Our Site",
+      "copy": "Experience the revolution firsthand. Schedule a site visit or a virtual tour of our 1MW facility.",
+      "primary": {
+        "label": "Schedule Visit",
+        "href": "/contact/general"
+      },
+      "secondary": {
+        "label": "Site Details",
+        "href": "/project/location/site"
+      }
+    }
+  ]
+}

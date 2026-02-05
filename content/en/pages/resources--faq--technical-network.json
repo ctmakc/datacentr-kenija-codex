@@ -1,0 +1,82 @@
+{
+  "path": "/resources/faq/technical-network",
+  "meta": {
+    "title": "Network Technical FAQ | Connectivity & Latency",
+    "description": "Deep dive into our network: fiber routes, IXP peering, DDoS protection, and inter-rack bandwidth for AI clusters."
+  },
+  "hero": {
+    "headline": "Network Engineering FAQ",
+    "subheadline": "Answers to the most rigorous networking questions from CTOs and Infrastructure Leads.",
+    "badge": "Technical Deep Dive",
+    "cta": [
+      {
+        "label": "Latency Map",
+        "href": "/project/location/connectivity-deep-dive",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Speed of AI Sync",
+      "body": "Networking in a high-performance compute environment is fundamentally different from standard enterprise IT. When training a model across multiple GPU nodes, the network becomes the backplane of the supercomputer. This FAQ addresses the specific architectural choices we made to ensure that Kenya AI Compute provides the 'Industrial Throughput' required for these tasks. We cover our diverse fiber paths to Mombasa, our internal RoCE v2 implementation, and our strategy for mitigating global network threats. If you are architecting a distributed training run and need to know about our MTU settings or specific BGP community strings, this section provides the raw data you need. Our goal is to provide a transparent network environment where your data moves at the speed of light, not the speed of regional gridlock. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and un"
+    },
+    {
+      "type": "bullets",
+      "title": "Networking Deep Dive",
+      "items": [
+        "External Peering: Who are your Tier-1 upstream providers? (SEACOM, TEAMS, Liquid).",
+        "DDoS Mitigation: How do you handle 100Gbps+ attacks? (Hardware-based scrubbing).",
+        "Internal Fabric: Is it non-blocking? (Yes, full 1:1 oversubscription ratio core).",
+        "IPv6 Support: Is the facility future-proof? (Full native dual-stack deployment).",
+        "Private Interconnect: Can I get a direct cross-connect? (Yes, via our Meet-Me-Room)."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Network Schematics",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/spine-leaf-blueprint.jpg",
+          "alt": "Network topology diagram",
+          "caption": "Visualizing our non-blocking internal compute fabric."
+        },
+        {
+          "kind": "video",
+          "src": "/media/network-performance-test.mp4",
+          "poster": "/media/network-poster.jpg",
+          "caption": "Live test: Throughput and latency between racks."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Network Performance",
+      "items": [
+        {
+          "label": "External Fiber Paths",
+          "value": "4 Redundant"
+        },
+        {
+          "label": "Core Port Speed",
+          "value": "400 Gbps"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Need a Network Quote?",
+      "copy": "Contact our solutions team for custom bandwidth or dedicated IP transit packages.",
+      "primary": {
+        "label": "Contact Network Team",
+        "href": "/contact/sales"
+      },
+      "secondary": {
+        "label": "Technical Docs",
+        "href": "/compute/onboarding/documentation"
+      }
+    }
+  ]
+}

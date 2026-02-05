@@ -1,0 +1,82 @@
+{
+  "path": "/compute/pricing/calculator",
+  "meta": {
+    "title": "AI Compute Pricing Calculator | GPU & CPU Rates",
+    "description": "Calculate your savings. Compare our $0.70/hour GPU rates with AWS and GCP in real-time."
+  },
+  "hero": {
+    "headline": "Transparent Pricing, Massive Savings",
+    "subheadline": "Stop paying for cloud-provider margins. Use our calculator to see how much you save by moving your workloads to Kenya.",
+    "badge": "Pricing Tool",
+    "cta": [
+      {
+        "label": "Request Custom Quote",
+        "href": "/contact/sales",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Fair Value for Global Compute",
+      "body": "Pricing at Kenya AI Compute is based on physics, not speculation. Our rates are a direct reflection of our $0.04/kWh energy cost and efficient modular OPEX. We offer three primary billing tiers. 'On-Demand' is perfect for rapid testing and short experiments. 'Reserved' (1, 6, or 12 months) offers deep discounts for predictable workloads like model fine-tuning or steady-state inference. Finally, our 'Spot' instances allow you to bid on spare capacity at market-bottom rates, ideal for non-critical rendering or training tasks. When you compare our $0.70-$1.00 per GPU-hour against the $2.00-$4.00 charged by US-based providers, the decision becomes simple: your R&D budget goes 2-3 times further with Kenya AI Compute. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructur"
+    },
+    {
+      "type": "bullets",
+      "title": "Cost Components",
+      "items": [
+        "Compute: Pure GPU/CPU hourly rate with no hidden overhead.",
+        "Storage: Fixed monthly GB rates for NVMe and Object storage.",
+        "Networking: Generous included bandwidth with low-cost egress to major regions.",
+        "Discounts: Up to 50% savings for annual commitments.",
+        "DePIN Credits: Special rates for projects integrating with our partner networks."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Savings Analysis",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/pricing-table-en.jpg",
+          "alt": "Price comparison vs AWS/GCP",
+          "caption": "Real-world examples of TCO reduction for AI startups."
+        },
+        {
+          "kind": "video",
+          "src": "/media/calculator-demo-en.mp4",
+          "poster": "/media/pricing-poster.jpg",
+          "caption": "How to use our calculator to optimize your infrastructure spend."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Price Advantage",
+      "items": [
+        {
+          "label": "Avg. GPU Hour Savings",
+          "value": "40% - 60%"
+        },
+        {
+          "label": "On-Demand GPU Rate",
+          "value": "$1.00 / hr"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Start Your Calculation",
+      "copy": "Input your requirements and get an instant estimate for your next AI project.",
+      "primary": {
+        "label": "Open Calculator",
+        "href": "/compute/pricing/calculator"
+      },
+      "secondary": {
+        "label": "Billing Plans",
+        "href": "/compute/pricing/plans"
+      }
+    }
+  ]
+}

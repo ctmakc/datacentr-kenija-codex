@@ -1,0 +1,82 @@
+{
+  "path": "/datacenter/architecture/power",
+  "meta": {
+    "title": "Power Infrastructure & Energy Distribution | Kenya AI Compute",
+    "description": "Technical overview of our data center power systems: direct plant integration, UPS redundancy, and intelligent load balancing for AI racks."
+  },
+  "hero": {
+    "headline": "Uninterrupted Power for High-Density AI",
+    "subheadline": "Directly integrated with a captive power source, our facility eliminates grid instability and ensures a consistent 1MW flow to your hardware.",
+    "badge": "Power Engineering",
+    "cta": [
+      {
+        "label": "Energy Arbitrage Model",
+        "href": "/news/blog/energy-arbitrage-kenya",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Industrial-Grade Power Architecture",
+      "body": "The lifeblood of Kenya AI Compute is our proprietary power distribution network. Unlike traditional facilities that rely on aging national grids, we are connected via a dedicated, zero-distance high-voltage link to our captive hybrid power plant. This eliminates the risk of regional blackouts and provides a clean, stable sine wave required for the most sensitive H100 and A100 GPU clusters. Inside each modular unit, we deploy a sophisticated N+1 UPS (Uninterruptible Power Supply) architecture using high-density lithium-ion battery arrays. These systems act as a critical buffer, providing instantaneous failover while our secondary gas and diesel generation units synchronize. Every rack is serviced by redundant A+B power feeds, ensuring that even during scheduled maintenance of our primary generators, your computational tasks remain active and profitable. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase inclu"
+    },
+    {
+      "type": "bullets",
+      "title": "Electrical Specifications",
+      "items": [
+        "Source: Direct captive hybrid generation (Solar + Gas) with industrial backup.",
+        "Distribution: Dual-path A+B power feeds to every server cabinet.",
+        "UPS System: N+1 modular lithium-ion UPS with >96% efficiency.",
+        "Monitoring: Per-outlet energy tracking via intelligent PDU units.",
+        "Surge Protection: Multi-stage TVSS protection throughout the electrical chain."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Power Distribution Systems",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/ups-arrays-en.jpg",
+          "alt": "Industrial UPS battery arrays",
+          "caption": "Our high-density battery storage ensures 99.9% uptime."
+        },
+        {
+          "kind": "video",
+          "src": "/media/power-failover-test.mp4",
+          "poster": "/media/power-poster.jpg",
+          "caption": "Live demonstration of our instantaneous power failover sequence."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Power Reliability",
+      "items": [
+        {
+          "label": "Switchover Time",
+          "value": "0 ms (UPS)"
+        },
+        {
+          "label": "Grid Dependency",
+          "value": "0% (Captive)"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Thermal Management",
+      "copy": "High power density generates massive heat. See how we efficiently dissipate 1MW of thermal energy.",
+      "primary": {
+        "label": "Cooling Architecture",
+        "href": "/datacenter/architecture/cooling"
+      },
+      "secondary": {
+        "label": "PUE Efficiency",
+        "href": "/project/energy/efficiency"
+      }
+    }
+  ]
+}

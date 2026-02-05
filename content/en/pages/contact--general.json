@@ -1,0 +1,82 @@
+{
+  "path": "/contact/general",
+  "meta": {
+    "title": "Contact Us | Kenya AI Compute Headquarters",
+    "description": "Get in touch for investment, compute sales, or partnership inquiries. We respond within 24 hours."
+  },
+  "hero": {
+    "headline": "Let’s Power the Future Together",
+    "subheadline": "Have a question about our infrastructure, investment terms, or compute capacity? Our team is ready to assist you.",
+    "badge": "Get In Touch",
+    "cta": [
+      {
+        "label": "Schedule a Call",
+        "href": "/contact/investors",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Direct Lines for Every Inquiry",
+      "body": "We believe in direct communication and fast response times. Depending on your interest, we have dedicated teams ready to handle your request. For institutional investors seeking Data Room access or term sheet discussions, our Investor Relations (IR) team is available across major time zones. For AI startups and DePIN node operators looking to secure 300kW-1MW capacity, our Sales & Solutions team can provide customized quotes and technical consultations. We also welcome inquiries from technology partners and equipment suppliers who want to participate in our upcoming tenders. Whether you are in Nairobi, Dubai, or Silicon Valley, we are only a click away from starting a productive partnership. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase in"
+    },
+    {
+      "type": "bullets",
+      "title": "Departmental Contacts",
+      "items": [
+        "Investors: Direct access to the CFO and project initiators.",
+        "Compute Sales: GPU clusters, Cloud, and Storage inquiries.",
+        "DePIN Support: Node hosting and protocol integration.",
+        "Partnerships: Local Kenyan partners and technical collaborators.",
+        "Press & Media: Media kit requests and interview scheduling."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Office Locations",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/nairobi-office-view.jpg",
+          "alt": "Our office in Nairobi tech district",
+          "caption": "Our headquarters in the heart of the Silicon Savannah."
+        },
+        {
+          "kind": "video",
+          "src": "/media/contact-message.mp4",
+          "poster": "/media/office-poster.jpg",
+          "caption": "A quick message from our team on how to reach us."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Response Standard",
+      "items": [
+        {
+          "label": "Initial Response",
+          "value": "< 12 Hours"
+        },
+        {
+          "label": "Meeting Availability",
+          "value": "Same Week"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Choose Your Path",
+      "copy": "Select the form that best fits your inquiry to help us route you to the right expert faster.",
+      "primary": {
+        "label": "Investment Inquiries",
+        "href": "/contact/investors"
+      },
+      "secondary": {
+        "label": "Compute Sales",
+        "href": "/contact/sales"
+      }
+    }
+  ]
+}

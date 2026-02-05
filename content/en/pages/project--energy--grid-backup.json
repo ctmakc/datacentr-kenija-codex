@@ -1,0 +1,82 @@
+{
+  "path": "/project/energy/grid-backup",
+  "meta": {
+    "title": "Grid Integration & Power Redundancy | Kenya AI Compute",
+    "description": "How our facility interacts with the Kenyan national grid. N+1 backup strategy and power failover protocols."
+  },
+  "hero": {
+    "headline": "Redundant by Nature, Stable by Design",
+    "subheadline": "While we generate our own power, our integration with the national grid provides a critical third layer of energy security.",
+    "badge": "Power Redundancy",
+    "cta": [
+      {
+        "label": "Energy Model",
+        "href": "/project/energy/generation",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Triple-Layer Power Strategy",
+      "body": "Uptime in the AI world is non-negotiable. To ensure 99.9% availability, Kenya AI Compute utilizes a 'Triple-Layer' power strategy. Layer 1 is our primary captive hybrid power plant, providing 1MW+ of direct power at $0.04/kWh. Layer 2 is our industrial UPS and high-density battery arrays, capable of supporting the full IT load during generation transitions. Layer 3 is our strategic connection to the Kenyan national grid (Kenya Power). This connection acts as a giant 'safety net' and secondary N+1 source. In the event of primary generation maintenance, the facility can seamlessly switch to the grid, ensuring that client GPUs never lose power. This integration also allows us to explore future grid-export opportunities, contributing to Kenya's energy stability while diversifying our project's revenue streams. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, an"
+    },
+    {
+      "type": "bullets",
+      "title": "Backup & Redundancy Specs",
+      "items": [
+        "Failover: Automated transition between captive, UPS, and grid sources.",
+        "Grid Access: Dedicated substation for high-reliability industrial feed.",
+        "Diesel Buffer: On-site storage for 48+ hours of full-load operation.",
+        "Maintenance: Ability to service primary generators with zero IT downtime.",
+        "Stability: Advanced power conditioning at every stage to prevent GPU surges."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Power Redundancy Flow",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/power-failover-diagram.jpg",
+          "alt": "Energy failover flowchart",
+          "caption": "Visualizing our N+1+1 power path for maximum uptime."
+        },
+        {
+          "kind": "video",
+          "src": "/media/grid-sync-test.mp4",
+          "poster": "/media/power-poster.jpg",
+          "caption": "Watch: Synchronizing our captive plant with the national grid."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Redundancy Vitals",
+      "items": [
+        {
+          "label": "Power Failover Paths",
+          "value": "3 Independent"
+        },
+        {
+          "label": "Battery Buffer Time",
+          "value": "15+ Minutes (Full Load)"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Technical Audit",
+      "copy": "Download our full electrical engineering report and single-line diagrams for technical review.",
+      "primary": {
+        "label": "Download Report",
+        "href": "/resources/documents/public"
+      },
+      "secondary": {
+        "label": "Energy Efficiency",
+        "href": "/project/energy/efficiency"
+      }
+    }
+  ]
+}

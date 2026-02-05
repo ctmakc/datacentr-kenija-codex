@@ -1,0 +1,81 @@
+{
+  "path": "/about/vision",
+  "meta": {
+    "title": "Mission and Long-term Vision | Kenya AI Compute",
+    "description": "Transforming Africa into a global hub for AI computation. Our mission to democratize access to high-performance computing."
+  },
+  "hero": {
+    "headline": "Democratizing AI Through Energy Efficiency",
+    "subheadline": "We believe that affordable computation is the backbone of the 21st-century economy. Our vision is to build Africa’s most efficient AI compute cluster.",
+    "badge": "Our Vision",
+    "cta": [
+      {
+        "label": "See Our Roadmap",
+        "href": "/about/roadmap",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Beyond Traditional Power Generation",
+      "body": "Traditional energy projects in emerging markets often suffer from low margins and restricted local demand. Our vision flips this model by using energy as the fuel for a global digital product. By building high-density AI infrastructure in Kenya, we are creating a bridge between local natural resources and the global demand for machine learning. We aim to empower the next generation of AI researchers, developers, and startups by providing them with the compute power they need at a price point that was previously impossible. Long-term, Kenya AI Compute aims to become the pan-African backbone for AI services, replicating our modular, energy-efficient model across the continent to foster technological sovereignty and economic growth. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can tra"
+    },
+    {
+      "type": "bullets",
+      "title": "Our Strategic Pillars",
+      "items": [
+        "Infrastructure First: Focusing on hard assets (GPU clusters, power plants) rather than speculative software.",
+        "Technological Neutrality: Building an open platform that supports both centralized enterprise and decentralized Web3 networks.",
+        "Sustainability: Prioritizing renewable energy sources to minimize the environmental impact of heavy AI workloads.",
+        "Localized Value: Creating high-tech employment and skill transfer within the Kenyan tech ecosystem."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "The Vision in Motion",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/vision-impact-map.jpg",
+          "alt": "Impact of AI Compute in Africa",
+          "caption": "Visualizing our planned expansion across East Africa."
+        },
+        {
+          "kind": "video",
+          "src": "/media/vision-statement.mp4",
+          "poster": "/media/vision-poster.jpg",
+          "caption": "A message from our founders on why the future of AI is African."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Long-term Targets",
+      "items": [
+        {
+          "label": "Projected Network Capacity",
+          "value": "10+ MW"
+        },
+        {
+          "label": "Renewable Energy Goal",
+          "value": "100%"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Be Part of the Journey",
+      "copy": "We are seeking partners who share our belief in a decentralized and accessible AI future.",
+      "primary": {
+        "label": "Partner With Us",
+        "href": "/partners"
+      },
+      "secondary": {
+        "label": "Read Our Blog",
+        "href": "/news/blog"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "path": "/about/team/join",
+  "meta": {
+    "title": "Join the Team | Careers at the Frontier of AI",
+    "description": "Help us build the backbone of African intelligence. Open roles for engineers, architects, and managers in Nairobi and remotely."
+  },
+  "hero": {
+    "headline": "Be the Architect of an AI Continent",
+    "subheadline": "We are looking for elite engineers and bold strategists to help us scale from 1MW to 10MW across East Africa.",
+    "badge": "Join the Revolution",
+    "cta": [
+      {
+        "label": "Open Positions",
+        "href": "/careers/positions",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "A Mission Beyond Infrastructure",
+      "body": "Kenya AI Compute is more than a data center; it is a catalyst for the next generation of global innovation. Working here means solving technical challenges that have never been tackled in this region—from optimizing GPU thermals in the tropics to architecting decentralized compute fabrics on a continental scale. We are a multidisciplinary team that values results over titles and data over opinions. Whether you are a local Kenyan engineer looking to work at the cutting edge of HPC or an international specialist seeking to leave a legacy in an emerging market, we offer a environment where your work has immediate, tangible impact. We are growing fast, and we need people who are ready to own entire segments of our infrastructure roadmap. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can"
+    },
+    {
+      "type": "bullets",
+      "title": "What We Look For",
+      "items": [
+        "Technical Mastery: Expertise in Linux, networking (Spine-Leaf), or high-density cooling.",
+        "Operational Grit: The ability to troubleshoot complex systems under high pressure.",
+        "Mission Alignment: A passion for democratizing compute and the digital future of Africa.",
+        "Global Mindset: Experience working in multicultural, distributed teams.",
+        "Innovation Bias: A constant desire to automate, optimize, and simplify."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Life at Kenya AI",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/team-whiteboarding-session.jpg",
+          "alt": "Team collaborating on architecture",
+          "caption": "Engineering honesty and open discussion drive our best technical decisions."
+        },
+        {
+          "kind": "video",
+          "src": "/media/employee-vlog-nairobi.mp4",
+          "poster": "/media/career-poster.jpg",
+          "caption": "A day in the life of a Network Operations Engineer at our Nairobi hub."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Team Vitals",
+      "items": [
+        {
+          "label": "Planned Staff Growth",
+          "value": "2x in 2026"
+        },
+        {
+          "label": "Employee Equity Pool",
+          "value": "10% Reserve"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Submit Your CV",
+      "copy": "Don't see your dream role? Send us your GitHub or LinkedIn, and we'll keep you in our talent pool.",
+      "primary": {
+        "label": "General Application",
+        "href": "/careers/apply"
+      },
+      "secondary": {
+        "label": "Our Culture",
+        "href": "/careers/culture"
+      }
+    }
+  ]
+}

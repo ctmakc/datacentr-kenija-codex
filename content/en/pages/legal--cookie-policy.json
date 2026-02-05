@@ -1,0 +1,82 @@
+{
+  "path": "/legal/cookie-policy",
+  "meta": {
+    "title": "Cookie Policy | Transparency in Tracking",
+    "description": "How Kenya AI Compute uses cookies to improve your portal experience and site performance."
+  },
+  "hero": {
+    "headline": "Our Use of Technology to Improve Your Experience",
+    "subheadline": "We use minimal, privacy-first cookies to ensure the security and efficiency of our member portal and site features.",
+    "badge": "Privacy Policy",
+    "cta": [
+      {
+        "label": "Privacy Policy",
+        "href": "/legal/privacy-policy",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Respecting Your Digital Footprint",
+      "body": "Kenya AI Compute uses cookies and similar tracking technologies primarily to ensure the security of our member portal and to analyze our website traffic to improve user experience. We believe in the principle of data minimization; therefore, we do not use invasive tracking for advertising purposes. The cookies we utilize are categorized into 'Essential' (required for login and security), 'Performance' (to help us understand how users interact with our content), and 'Functional' (to remember your language and interface preferences). By using our site and portal, you agree to our use of these technologies as described in this policy. You have full control over your cookie settings through your browser and our integrated consent management tool, ensuring your right to privacy is always respected. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progr"
+    },
+    {
+      "type": "bullets",
+      "title": "Cookie Categories",
+      "items": [
+        "Essential: Necessary for 2FA, session management, and portal security.",
+        "Performance: Help us measure PUE dashboard response times and site speed.",
+        "Functional: Remembering your preferred locale (EN, RU, ZH) and theme settings.",
+        "Third-Party: Limited to essential analytics tools like Vercel and Google Analytics.",
+        "Management: Clear instructions on how to disable or clear cookies in any browser."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Transparency Tools",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/cookie-consent-ui.jpg",
+          "alt": "Cookie consent interface",
+          "caption": "You are in control of what data we collect."
+        },
+        {
+          "kind": "video",
+          "src": "/media/data-privacy-explainer.mp4",
+          "poster": "/media/regulatory-poster.jpg",
+          "caption": "How we handle digital privacy for our international partners."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Tracking Level",
+      "items": [
+        {
+          "label": "Ad-Tracking Cookies",
+          "value": "None"
+        },
+        {
+          "label": "First-Party Focus",
+          "value": "100%"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Manage Preferences",
+      "copy": "Adjust your cookie settings or learn more about our commitment to the Kenya Data Protection Act.",
+      "primary": {
+        "label": "Cookie Settings",
+        "href": "#settings"
+      },
+      "secondary": {
+        "label": "Legal Overview",
+        "href": "/investors/structure/legal"
+      }
+    }
+  ]
+}

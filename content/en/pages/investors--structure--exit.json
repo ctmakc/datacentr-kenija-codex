@@ -1,0 +1,82 @@
+{
+  "path": "/investors/structure/exit",
+  "meta": {
+    "title": "Exit Strategy and Liquidity | Investor Information",
+    "description": "Our long-term vision for asset monetization. Strategic sales, IPO prospects, and secondary market liquidity for the 1MW project."
+  },
+  "hero": {
+    "headline": "A Clear Path to Liquidity",
+    "subheadline": "We build infrastructure assets with an institutional exit in mind, targeting global tech buyers and infrastructure funds within a 5-7 year horizon.",
+    "badge": "Exit Strategy",
+    "cta": [
+      {
+        "label": "Financial Scenarios",
+        "href": "/investors/financials/scenarios",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Monetizing the Infrastructure Backbone",
+      "body": "Kenya AI Compute is designed to be a highly attractive target for institutional acquisition. As the global AI market matures, the value of 'distressed' or 'unoptimized' grid-connected data centers will fall, while the premium for facilities with locked-in, low-cost captive power—like ours—будет grow exponentially. Our exit strategy is focused on a 5-to-7 year window, by which time Phase 2 (1MW) and Phase 3 (3MW+) will be fully operational and delivering consistent cash flows. Potential exit routes include a strategic sale to global hyperscalers (AWS, Google, Microsoft) looking to expand their African footprint, acquisition by a dedicated infrastructure fund, or a public listing on an international exchange. We maintain 'IPO-ready' governance and audit standards from day one to ensure a frictionless transition for our equity partners. Additional context: the project f"
+    },
+    {
+      "type": "bullets",
+      "title": "Strategic Exit Routes",
+      "items": [
+        "Strategic Sale: Acquisition by global cloud providers seeking to secure low-cost compute nodes.",
+        "Infrastructure Consolidation: Sale to major data center REITs (Equinix, Digital Realty) entering the region.",
+        "Dividend Recapitalization: Providing early liquidity through senior debt while retaining equity ownership.",
+        "Secondary Market: Facilitating share transfers between institutional investors as the project matures.",
+        "Public Listing: A long-term path toward a regional or international tech IPO."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Market Comps",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/exit-multiples-chart.jpg",
+          "alt": "Data Center Acquisition Multiples",
+          "caption": "Analysis of recent infrastructure exits in emerging markets."
+        },
+        {
+          "kind": "video",
+          "src": "/media/investor-exit-talk.mp4",
+          "poster": "/media/financial-poster.jpg",
+          "caption": "Our strategy for maximizing terminal value and investor returns."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Liquidity Targets",
+      "items": [
+        {
+          "label": "Target Exit Horizon",
+          "value": "5 - 7 Years"
+        },
+        {
+          "label": "Expected Exit Multiple",
+          "value": "3x - 5x MOIC"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Join the Initial Round",
+      "copy": "Secure your stake in Phase 1 and participate in the full lifecycle of Africa's premier AI infrastructure asset.",
+      "primary": {
+        "label": "Contact IR",
+        "href": "/contact/investors"
+      },
+      "secondary": {
+        "label": "Equity Structure",
+        "href": "/investors/structure/equity"
+      }
+    }
+  ]
+}

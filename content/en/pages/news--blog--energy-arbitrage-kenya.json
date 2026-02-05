@@ -1,0 +1,82 @@
+{
+  "path": "/news/blog/energy-arbitrage-kenya",
+  "meta": {
+    "title": "Energy Arbitrage: The Core Logic of Kenya AI Compute",
+    "description": "How we convert low-cost Kenyan energy into high-value digital exports. The economic engine behind our 1MW infrastructure project."
+  },
+  "hero": {
+    "headline": "Energy is the New Oil, Compute is the New Gasoline",
+    "subheadline": "Traditional power projects suffer from low margins. We flip the script by using energy as a raw material for a global digital product.",
+    "badge": "Economic Strategy",
+    "cta": [
+      {
+        "label": "Financial Model",
+        "href": "/investors/financials/model",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Arbitrage Opportunity in Emerging Markets",
+      "body": "In many energy-rich developing nations, the power sector is hampered by a 'local demand ceiling.' You can generate gigawatts of electricity, but the local grid often lacks the industrial capacity to consume it at a profitable rate. Kenya AI Compute addresses this inefficiency through vertical integration. We don't sell electricity to the grid; we feed it directly into our GPU and CPU clusters. By doing so, we are performing a sophisticated form of energy arbitrage. We purchase or generate energy at an industrial cost of $0.04/kWh and export it via fiber optics as computational power, which is sold on the global market for $0.70-$1.00 per unit of GPU work. This effectively turns a local utility into a global high-tech exporter, shielded from local currency fluctuations and grid bottlenecks. The result is an infrastructure asset with the profit margins of a SaaS company. Additional con"
+    },
+    {
+      "type": "bullets",
+      "title": "Why Arbitrage Works",
+      "items": [
+        "Price Disparity: $0.04/kWh production cost vs. high-value global compute demand.",
+        "Zero Transmission Loss: Power is consumed within 200 meters of the generation source.",
+        "Currency Hedging: Costs are settled in local currency while revenue is strictly in USD.",
+        "Infinite Demand: The global AI market acts as a buyer of last resort for every watt we produce.",
+        "Regulatory Buffer: Operating in Special Economic Zones secures our low-cost base for decades."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Value Chain Visualization",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/arbitrage-flow-en.jpg",
+          "alt": "Energy to Compute Flowchart",
+          "caption": "The transformation of local resources into global digital assets."
+        },
+        {
+          "kind": "video",
+          "src": "/media/arbitrage-explainer.mp4",
+          "poster": "/media/blog-poster.jpg",
+          "caption": "Our CFO explains the mathematics of our energy arbitrage engine."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Arbitrage Metrics",
+      "items": [
+        {
+          "label": "Energy Cost Gap",
+          "value": "4x Lower than EU"
+        },
+        {
+          "label": "Target EBITDA Margin",
+          "value": "35% - 50%"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Invest in Efficiency",
+      "copy": "Join the leading infrastructure project that scales Kenya’s natural energy advantage into a global AI powerhouse.",
+      "primary": {
+        "label": "Request Investor Deck",
+        "href": "/resources/documents/request"
+      },
+      "secondary": {
+        "label": "Technical Design",
+        "href": "/datacenter/architecture/design"
+      }
+    }
+  ]
+}

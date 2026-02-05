@@ -1,0 +1,82 @@
+{
+  "path": "/careers/culture",
+  "meta": {
+    "title": "Our Culture & Values | Life at Kenya AI Compute",
+    "description": "Radical transparency, engineering honesty, and African energy. Learn what it’s like to build the future of AI in Kenya."
+  },
+  "hero": {
+    "headline": "A Culture of Innovation and Responsibility",
+    "subheadline": "We combine the speed of a Silicon Valley startup with the operational rigor of a global infrastructure fund.",
+    "badge": "Our Culture",
+    "cta": [
+      {
+        "label": "Join the Team",
+        "href": "/careers/positions",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Foundation of Our Performance",
+      "body": "Culture at Kenya AI Compute is not a buzzword; it is our primary risk-mitigation tool. In an environment as complex as high-density AI infrastructure in an emerging market, we rely on three core pillars: Engineering Honesty, Radical Transparency, and Local Impact. We empower our team members to speak up when they see an inefficiency, we share our financial and operational goals openly across the entire organization, and we never forget that our work must contribute to the prosperity of the Kenyan people. We value curious minds that aren't afraid to get their hands dirty—whether it's debugging a 100G network fabric or coordinating logistics at the Port of Mombasa. Here, the best idea always wins, regardless of hierarchy. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy,"
+    },
+    {
+      "type": "bullets",
+      "title": "Our Core Values",
+      "items": [
+        "Data Over Opinion: We make decisions based on metrics and technical reality.",
+        "Radical Ownership: Every team member is an owner of the project's success.",
+        "Respect for Local Context: We are proud to be part of the Kenyan tech community.",
+        "Sustainability Obsession: We fight for every percentage of PUE and carbon efficiency.",
+        "Continuous Evolution: We learn, we adapt, and we scale—every single day."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Team Life",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/team-offsite-nairobi.jpg",
+          "alt": "Team bonding in Kenya",
+          "caption": "Building trust and vision beyond the office walls."
+        },
+        {
+          "kind": "video",
+          "src": "/media/culture-vlog.mp4",
+          "poster": "/media/career-poster.jpg",
+          "caption": "What does a typical day at Kenya AI Compute look like?"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Team Sentiment",
+      "items": [
+        {
+          "label": "Staff Retention",
+          "value": "95%"
+        },
+        {
+          "label": "Internal Promotion Rate",
+          "value": "30%"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Are You One of Us?",
+      "copy": "If you are driven by mission and technical excellence, we want to hear from you.",
+      "primary": {
+        "label": "View Vacancies",
+        "href": "/careers/positions"
+      },
+      "secondary": {
+        "label": "General Application",
+        "href": "/careers/apply"
+      }
+    }
+  ]
+}

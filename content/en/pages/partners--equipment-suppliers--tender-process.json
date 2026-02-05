@@ -1,0 +1,82 @@
+{
+  "path": "/partners/equipment-suppliers/tender-process",
+  "meta": {
+    "title": "Tender Process & Supplier Registration | Kenya AI Compute",
+    "description": "How to become an approved vendor. Procurement schedule, evaluation criteria, and registration form for $20M+ in equipment."
+  },
+  "hero": {
+    "headline": "Building a Global Supply Chain",
+    "subheadline": "We are seeking reliable partners to supply over $18M in compute and infrastructure hardware for our 1MW project.",
+    "badge": "Procurement Portal",
+    "cta": [
+      {
+        "label": "Register as Supplier",
+        "href": "/partners/equipment-suppliers/register",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "A Transparent and Fair Procurement Framework",
+      "body": "Our procurement philosophy is based on three principles: technical excellence, cost-efficiency, and logistical reliability. For the 1MW Phase, Kenya AI Compute is managing a multi-stage tender process for server hardware, networking equipment, and data center engineering systems. We encourage vendors from across the globe—especially those with a strong presence in the EMEA and Asian markets—to participate. Our evaluation criteria prioritize 'Total Cost of Ownership' (TCO), warranty terms, and the supplier's ability to provide regional support in Kenya. By registering through this portal, you will gain access to our detailed Request for Proposals (RFPs) and become part of our long-term supplier ecosystem as we scale toward our 3MW target. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with conf"
+    },
+    {
+      "type": "bullets",
+      "title": "Tender Categories",
+      "items": [
+        "Compute: GPU servers (NVIDIA/AMD), CPU nodes, and specialized AI accelerators.",
+        "Storage: High-density NVMe arrays and object storage solutions.",
+        "Infrastructure: Modular containers, UPS units, and precision cooling systems.",
+        "Networking: Core/Leaf switches, fiber cabling, and security appliances.",
+        "Operations: Monitoring software, BMS integration, and on-site maintenance tools."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Procurement Timeline",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/procurement-roadmap.jpg",
+          "alt": "Hardware procurement schedule",
+          "caption": "Key dates for the Phase 1 and Phase 2 equipment tenders."
+        },
+        {
+          "kind": "video",
+          "src": "/media/supplier-onboarding.mp4",
+          "poster": "/media/ops-poster.jpg",
+          "caption": "Step-by-step guide to our vendor registration and bidding process."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Budget Scope",
+      "items": [
+        {
+          "label": "Equipment Budget",
+          "value": "$18M+"
+        },
+        {
+          "label": "Phase 1 Tender Status",
+          "value": "Open"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "View Active Tenders",
+      "copy": "Check the list of current equipment requirements and submit your Expression of Interest.",
+      "primary": {
+        "label": "Active Tenders",
+        "href": "/partners/equipment-suppliers/categories"
+      },
+      "secondary": {
+        "label": "Technical Requirements",
+        "href": "/partners/technical-partner"
+      }
+    }
+  ]
+}

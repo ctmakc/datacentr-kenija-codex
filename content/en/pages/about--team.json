@@ -1,0 +1,81 @@
+{
+  "path": "/about/team",
+  "meta": {
+    "title": "Leadership and Expertise | The Team Behind the Project",
+    "description": "Meet the experts in data center engineering, energy infrastructure, and AI technologies leading the Kenya AI Compute project."
+  },
+  "hero": {
+    "headline": "World-Class Expertise in Local Markets",
+    "subheadline": "Our leadership team combines decades of experience in international consulting, energy systems, and high-performance computing.",
+    "badge": "Our Experts",
+    "cta": [
+      {
+        "label": "View Advisory Board",
+        "href": "#board",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "A Multidisciplinary Approach to Infrastructure",
+      "body": "Building a 1MW data center in Kenya requires more than just technical knowledge; it requires a deep understanding of local logistics, regulatory frameworks, and global capital markets. Our team is composed of professionals who have operated in over 50 countries, bringing a wealth of experience in managing large-scale CAPEX projects. From data center architects who specialize in modular cooling systems to financial strategists with deep roots in the East African market, we have assembled the talent necessary to ensure 99.9% uptime and 35-50% EBITDA margins. We pride ourselves on engineering honesty and radical transparency, ensuring that every phase of the project is executed with precision and accountability. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track prog"
+    },
+    {
+      "type": "bullets",
+      "title": "Our Key Competencies",
+      "items": [
+        "Project Initiation: Experts in economic modeling and investor positioning for multi-million dollar assets.",
+        "Technical Engineering: Specialists in Tier II/III data center design and high-density GPU cooling.",
+        "Local Governance: Deep connections with Kenyan authorities to navigate licensing and Special Economic Zone incentives.",
+        "AI/ML Operations: Specialists in optimizing hardware for LLM training and DePIN network integration."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Team at Work",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/team-site-inspection.jpg",
+          "alt": "Engineering team on site in Kenya",
+          "caption": "Our engineers conducting final site surveys for Phase 1 construction."
+        },
+        {
+          "kind": "video",
+          "src": "/media/team-values.mp4",
+          "poster": "/media/team-poster.jpg",
+          "caption": "The core values that drive our operational excellence."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Combined Experience",
+      "items": [
+        {
+          "label": "Countries Operated In",
+          "value": "50+"
+        },
+        {
+          "label": "Total Infrastructure CAPEX Managed",
+          "value": "$500M+"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Work With the Best",
+      "copy": "We are always looking for talented engineers and managers to join our growing team in Nairobi and beyond.",
+      "primary": {
+        "label": "Explore Careers",
+        "href": "/careers"
+      },
+      "secondary": {
+        "label": "Contact IR Team",
+        "href": "/contact/investors"
+      }
+    }
+  ]
+}

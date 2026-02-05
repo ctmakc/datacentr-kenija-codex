@@ -1,0 +1,82 @@
+{
+  "path": "/resources/media/brand-assets",
+  "meta": {
+    "title": "Official Brand Assets & Guidelines | Kenya AI Compute",
+    "description": "Download our logo kit, color palettes, and typography for official project use and media reporting."
+  },
+  "hero": {
+    "headline": "Building the Visual Identity of African AI",
+    "subheadline": "We maintain a consistent and professional brand image across all global touchpoints.",
+    "badge": "Brand Identity",
+    "cta": [
+      {
+        "label": "Media Kit",
+        "href": "/resources/media",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Look and Feel of High-Performance",
+      "body": "The Kenya AI Compute brand identity is designed to reflect our core values: technological precision, industrial stability, and the vibrant energy of the East African tech scene. Our visual language uses a primary palette of Deep Tech Blue and Cyber Cyan, balanced with the earth tones of our Kenyan roots. We provide these assets to our partners, media outlets, and contractors to ensure that every representation of our project meets our global standards for quality. Please follow our Brand Guidelines (available for download) regarding clear space, minimum size, and proper color usage to ensure the integrity of our visual identity is maintained in your communications. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deploymen"
+    },
+    {
+      "type": "bullets",
+      "title": "What’s in the Kit?",
+      "items": [
+        "Logos: Vector and raster versions in primary, inverse, and mono colors.",
+        "Color Palette: HEX, RGB, and CMYK values for our brand colors.",
+        "Typography: Official project fonts and usage hierarchy.",
+        "Social Templates: Approved graphics for LinkedIn, X, and Instagram updates.",
+        "Iconography: Custom technical icons for AI, Energy, and Infrastructure diagrams."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Brand Visualization",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/brand-style-guide-en.jpg",
+          "alt": "Project brand guidelines",
+          "caption": "A preview of our visual identity and design philosophy."
+        },
+        {
+          "kind": "video",
+          "src": "/media/brand-reveal.mp4",
+          "poster": "/media/brand-poster.jpg",
+          "caption": "The story behind the Kenya AI Compute logo and brand colors."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Asset Vitals",
+      "items": [
+        {
+          "label": "Logo Formats",
+          "value": "SVG, EPS, PNG"
+        },
+        {
+          "label": "Guidelines Version",
+          "value": "1.2 (2026)"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Download Full Kit",
+      "copy": "Access our complete brand asset package (ZIP, 45MB) for your marketing and reporting needs.",
+      "primary": {
+        "label": "Download Assets",
+        "href": "/media/brand-assets-full.zip"
+      },
+      "secondary": {
+        "label": "Contact PR",
+        "href": "/contact/media"
+      }
+    }
+  ]
+}

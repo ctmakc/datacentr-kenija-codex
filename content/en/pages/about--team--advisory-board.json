@@ -1,0 +1,82 @@
+{
+  "path": "/about/team/advisory-board",
+  "meta": {
+    "title": "Advisory Board | Global Experts for Kenya AI Compute",
+    "description": "Meet our strategic advisors in data center engineering, African finance, and AI research guiding the 1MW project."
+  },
+  "hero": {
+    "headline": "Guided by Global Best Practices",
+    "subheadline": "Our advisory board consists of industry veterans who ensure that every technical and financial decision meets international standards.",
+    "badge": "Our Advisors",
+    "cta": [
+      {
+        "label": "Core Team",
+        "href": "/about/team",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Strategic Guidance for Infrastructure Success",
+      "body": "Navigating the intersection of high-performance computing and the Kenyan energy sector requires more than just operational staff; it requires high-level strategic oversight. Kenya AI Compute is proud to be supported by an advisory board that includes recognized leaders from the global data center industry, veterans of African infrastructure finance, and leading AI researchers from both Silicon Valley and Europe. These advisors bring a 'triple-threat' of perspective: they ensure our technical architecture is future-proof, they vet our financial structures for institutional investors, and they provide the global networking necessary to secure multi-megawatt compute contracts. Their involvement is a testament to the credibility and potential of our 1MW vision. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress wit"
+    },
+    {
+      "type": "bullets",
+      "title": "Advisory Expertise",
+      "items": [
+        "DC Industry Expert: Former executive at a top-3 global data center operator.",
+        "Africa Finance Specialist: Veteran of regional development banking and FDI.",
+        "AI Research Lead: Specialist in distributed LLM training and hardware optimization.",
+        "Kenya/Regional Expert: Deep experience in local regulatory and GR frameworks.",
+        "Energy Architect: Specialist in hybrid renewable systems and industrial power plants."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Advisory Insights",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/advisory-board-meeting.jpg",
+          "alt": "Advisory Board Session",
+          "caption": "Strategic planning session with our global experts."
+        },
+        {
+          "kind": "video",
+          "src": "/media/advisor-testimonial.mp4",
+          "poster": "/media/team-poster.jpg",
+          "caption": "Watch: Why global DC experts are backing the Kenya AI Compute project."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Expert Network",
+      "items": [
+        {
+          "label": "Total Advisor Years",
+          "value": "120+"
+        },
+        {
+          "label": "Global DC Patents held",
+          "value": "15+"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Connect with Us",
+      "copy": "Our board ensures we build with institutional-grade quality. Learn more about our leadership.",
+      "primary": {
+        "label": "Full Leadership",
+        "href": "/about/team"
+      },
+      "secondary": {
+        "label": "Investor FAQ",
+        "href": "/resources/faq/investors"
+      }
+    }
+  ]
+}

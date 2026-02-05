@@ -1,0 +1,82 @@
+{
+  "path": "/project/phases/phase-1-specs",
+  "meta": {
+    "title": "Phase 1 Technical Specifications | 300kW Pilot",
+    "description": "Deep dive into the Phase 1 configuration: modular units, server counts, and power distribution details."
+  },
+  "hero": {
+    "headline": "Phase 1: The Tactical Foundation",
+    "subheadline": "A 300kW blueprint designed for rapid validation and immediate DePIN network onboarding.",
+    "badge": "Technical Specs",
+    "cta": [
+      {
+        "label": "Phase 1 Financials",
+        "href": "/project/phases/phase-1",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Inside the 300kW Pilot Module",
+      "body": "Phase 1 of Kenya AI Compute is engineered to be a self-contained, high-performance ecosystem. This phase consists of two 40ft High-Cube modular containers, each delivering 150kW of net IT load. The primary focus is high-density GPU hosting, with each cabinet pre-configured to support 30kW+ loads. We utilize industrial-grade UPS systems with lithium-ion backup for instantaneous failover and N+1 precision cooling to maintain optimal operating temperatures. The network core for Phase 1 is built on a 100G Spine-Leaf architecture, ensuring that our initial GPU clusters have the high-bandwidth connectivity required for Render and io.net tasks. This phase is not just a test; it is a fully operational, high-yield infrastructure asset that establishes our technical standard for the 1MW expansion. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: th"
+    },
+    {
+      "type": "bullets",
+      "title": "Technical Highlights (Phase 1)",
+      "items": [
+        "Modules: 2x 40ft modular units with full environmental isolation.",
+        "Hardware: ~120 GPUs (training focus) and ~1,500 CPU cores.",
+        "Cooling: N+1 DX Precision Cooling with hot-aisle containment.",
+        "Networking: Dedicated 40G/100G uplinks for every compute node.",
+        "Uptime Target: 99.9% backed by captive generation and UPS redundancy."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Phase 1 Blueprints",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/phase-1-module-blueprint.jpg",
+          "alt": "Modular container layout",
+          "caption": "Internal rack configuration for maximum cooling efficiency."
+        },
+        {
+          "kind": "video",
+          "src": "/media/module-factory-tour.mp4",
+          "poster": "/media/phase-poster.jpg",
+          "caption": "Inside the factory: assembling our first compute modules."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Phase 1 Vitals",
+      "items": [
+        {
+          "label": "Max Rack Density",
+          "value": "40 kW"
+        },
+        {
+          "label": "Total GPU Teraflops",
+          "value": "1,500+"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Reserve Phase 1 Capacity",
+      "copy": "Limited 300kW capacity is available for early partners. Contact our sales team to secure your racks.",
+      "primary": {
+        "label": "Contact Sales",
+        "href": "/contact/sales"
+      },
+      "secondary": {
+        "label": "Phase 2 Scaling",
+        "href": "/project/phases/phase-2"
+      }
+    }
+  ]
+}

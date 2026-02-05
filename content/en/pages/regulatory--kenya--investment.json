@@ -1,0 +1,82 @@
+{
+  "path": "/regulatory/kenya/investment",
+  "meta": {
+    "title": "Kenya Investment Regulations | SEZ and Tax Benefits",
+    "description": "A guide for foreign investors in Kenya. Special Economic Zones, tax holidays, and profit repatriation laws."
+  },
+  "hero": {
+    "headline": "A Pro-Investment Regulatory Environment",
+    "subheadline": "Kenya offers world-class incentives for high-tech infrastructure through Special Economic Zones and robust legal protections.",
+    "badge": "Legal & Regulatory",
+    "cta": [
+      {
+        "label": "Legal FAQ",
+        "href": "/investors/due-diligence/faq",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Protecting Global Capital",
+      "body": "Kenya is widely recognized as one of the most investor-friendly nations in Africa. Our project is structured to take full advantage of the Special Economic Zones (SEZ) Act, which provides a comprehensive package of fiscal and non-fiscal incentives. For investors, this means a drastically reduced corporate tax rate of 10% for the first 10 years, exemption from VAT on all project-related expenditures, and zero customs duties on imported high-tech equipment. Furthermore, Kenya has a fully liberalized capital account, meaning there are no restrictions on the repatriation of profits, dividends, or capital in USD. Our legal structure is designed to be familiar to international funds, utilizing standard Joint Venture agreements and arbitration clauses to ensure maximum transparency and security for all stakeholders. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes"
+    },
+    {
+      "type": "bullets",
+      "title": "Incentive Framework",
+      "items": [
+        "Corporate Tax: 10% for the first decade of operation within SEZ.",
+        "Import Duties: 0% on servers, UPS systems, and specialized cooling equipment.",
+        "Profit Repatriation: 100% freedom to remit earnings globally in USD.",
+        "Investment Protection: Guaranteed against expropriation via the Foreign Investment Protection Act.",
+        "Work Permits: Facilitated entry for key technical and management personnel."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Regulatory Overview",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/kenya-sez-benefits.jpg",
+          "alt": "SEZ Benefit Summary",
+          "caption": "The financial impact of Special Economic Zone status on project ROI."
+        },
+        {
+          "kind": "video",
+          "src": "/media/legal-briefing-kenya.mp4",
+          "poster": "/media/regulatory-poster.jpg",
+          "caption": "Our legal counsel explains the framework of our Joint Venture."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Compliance Status",
+      "items": [
+        {
+          "label": "Ease of Doing Business",
+          "value": "Top 3 in Africa"
+        },
+        {
+          "label": "Tax Incentives Period",
+          "value": "10 - 20 Years"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Request Legal Memorandum",
+      "copy": "For a detailed breakdown of our corporate structure and tax strategy, please contact our legal team.",
+      "primary": {
+        "label": "Contact Legal",
+        "href": "/investors/contact"
+      },
+      "secondary": {
+        "label": "Data Protection",
+        "href": "/regulatory/kenya/data-protection"
+      }
+    }
+  ]
+}

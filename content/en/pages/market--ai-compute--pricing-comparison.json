@@ -1,0 +1,82 @@
+{
+  "path": "/market/ai-compute/pricing-comparison",
+  "meta": {
+    "title": "Pricing Comparison: Kenya vs Global Clouds | Save 40%",
+    "description": "Detailed cost analysis. Why training models in Kenya is up to 50% cheaper than AWS, Azure, or Google Cloud."
+  },
+  "hero": {
+    "headline": "Stop Paying the 'Cloud Tax'",
+    "subheadline": "Traditional cloud providers charge massive margins. We offer infrastructure at the cost of Kenyan physics and industrial energy.",
+    "badge": "Cost Analysis",
+    "cta": [
+      {
+        "label": "Open Calculator",
+        "href": "/compute/pricing/calculator",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Economic Reality of GPU Hosting",
+      "body": "High-performance AI computing has a 'hidden tax'—the cost of inefficiency and corporate overhead. Global cloud giants charge between $2.00 and $4.50 per GPU-hour for enterprise training nodes. This price includes expensive real estate in Northern Virginia, high utility taxes in Europe, and 70% gross margins for the provider. Kenya AI Compute operates on a different logic. By leveraging $0.04/kWh energy and lean modular OPEX in a Special Economic Zone, we provide the same computational power for $0.70 to $1.00 per hour. For a startup training a 70B parameter model, this isn't just a small saving—it's the difference between 3 months of runway and 6 months. We are enabling a new class of AI companies that are built on efficiency, not just venture capital. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: the proj"
+    },
+    {
+      "type": "bullets",
+      "title": "Comparative Metrics",
+      "items": [
+        "Energy Cost: $0.15-$0.25 (Global Avg) vs $0.04 (Kenya AI).",
+        "Effective Tax: 25-30% (Standard) vs 10% (Our SEZ Status).",
+        "Egress Fees: High 'lock-in' fees (Hyperscalers) vs Transparent transit (Our Network).",
+        "Reserved Savings: Up to 50% discount for long-term compute commitments.",
+        "TCO reduction: Average 40% lower Total Cost of Ownership for AI labs."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Price Breakdown",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/pricing-comparison-chart-en.jpg",
+          "alt": "Cloud vs Kenya AI Price Comparison",
+          "caption": "Where the money goes: Energy arbitrage in action."
+        },
+        {
+          "kind": "video",
+          "src": "/media/pricing-logic-explainer.mp4",
+          "poster": "/media/pricing-poster.jpg",
+          "caption": "How we maintain world-class hardware at regional-bottom prices."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Customer Value",
+      "items": [
+        {
+          "label": "Hourly GPU Saving",
+          "value": "40% - 60%"
+        },
+        {
+          "label": "Model Training ROI",
+          "value": "2.5x Increase"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Verify Your Savings",
+      "copy": "Upload your current cloud bill and our analysts will provide a free TCO comparison report.",
+      "primary": {
+        "label": "Request TCO Report",
+        "href": "/contact/sales"
+      },
+      "secondary": {
+        "label": "Billing Plans",
+        "href": "/compute/pricing/plans"
+      }
+    }
+  ]
+}

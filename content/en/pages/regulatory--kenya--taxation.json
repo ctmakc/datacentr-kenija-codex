@@ -1,0 +1,82 @@
+{
+  "path": "/regulatory/kenya/taxation",
+  "meta": {
+    "title": "Tax Incentives & SEZ Benefits | Investing in Kenya",
+    "description": "Learn about the 10-year tax holidays and 0% duty exemptions available to our AI infrastructure project in Kenya."
+  },
+  "hero": {
+    "headline": "Fiscal Efficiency for Global Investors",
+    "subheadline": "Kenya’s pro-innovation tax regime ensures that more of your project’s revenue translates into net profit.",
+    "badge": "Tax & Incentives",
+    "cta": [
+      {
+        "label": "View Legal Structure",
+        "href": "/investors/structure/legal",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Maximizing ROI through Strategic Tax Planning",
+      "body": "Tax efficiency is a core component of the Kenya AI Compute financial model. By operating within the Special Economic Zones (SEZ) framework, our project benefits from a world-class incentive package. This includes a reduced corporate income tax rate of just 10% for the first ten years of operation—a significant reduction from the standard 30% rate. Furthermore, the SEZ status grants us full exemption from Value Added Tax (VAT) on all project-related purchases and zero customs duties on imported high-tech equipment (servers, GPUs, cooling units). For international investors, the most critical benefit is the 0% withholding tax on dividends and interest payments remitted globally. This ensures a frictionless flow of capital and maximizes the cash yield for our equity partners, making Kenya one of the most fiscally attractive jurisdictions for infrastructure investment in the world. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase inc"
+    },
+    {
+      "type": "bullets",
+      "title": "Incentive Highlights",
+      "items": [
+        "Corporate Tax: 10% for the first 10 years (Standard: 30%).",
+        "Import Duties: 0% on all specialized IT and power equipment.",
+        "VAT Exemption: 0% on capital goods and operational expenditures.",
+        "Withholding Tax: 0% on dividends paid to international shareholders.",
+        "Stamp Duty: Fully exempted on the acquisition of land and project assets."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Tax Efficiency Comparison",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/tax-benefits-chart-en.jpg",
+          "alt": "Comparison: SEZ vs Standard Tax",
+          "caption": "The cumulative impact of SEZ benefits on project IRR."
+        },
+        {
+          "kind": "video",
+          "src": "/media/kenya-tax-briefing.mp4",
+          "poster": "/media/regulatory-poster.jpg",
+          "caption": "Expert interview: How SEZ status protects infrastructure investments."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Tax Load",
+      "items": [
+        {
+          "label": "Effective Tax Rate",
+          "value": "10%"
+        },
+        {
+          "label": "Import Duty Savings",
+          "value": "Up to 25%"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Request Tax Memorandum",
+      "copy": "Get a detailed breakdown of our fiscal strategy and legal compliance for your investment committee.",
+      "primary": {
+        "label": "Contact Finance Team",
+        "href": "/investors/contact"
+      },
+      "secondary": {
+        "label": "Investment Overview",
+        "href": "/investors/overview"
+      }
+    }
+  ]
+}

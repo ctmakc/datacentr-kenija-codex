@@ -1,0 +1,82 @@
+{
+  "path": "/compute/depin/tokenomics",
+  "meta": {
+    "title": "DePIN Revenue & Tokenomics | Project Yield",
+    "description": "Understanding how we monetize decentralized networks. Revenue sharing, staking, and token earnings for our hardware."
+  },
+  "hero": {
+    "headline": "The Mathematics of Protocol Yield",
+    "subheadline": "We bridge the gap between physical hardware and digital tokenomics, maximizing the IRR of our compute assets through DePIN.",
+    "badge": "Network Economics",
+    "cta": [
+      {
+        "label": "DePIN Overview",
+        "href": "/compute/depin/overview",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "A New Yield Asset Class",
+      "body": "DePIN (Decentralized Physical Infrastructure Networks) introduces a revolutionary revenue model for data centers. Instead of fixed monthly contracts, our revenue is a dynamic function of network tasks, uptime incentives, and protocol token appreciation. For the Kenya AI Compute project, DePIN serves as a 'High-Frequency Revenue Layer.' When a GPU is not rented by a private enterprise client, it automatically switches to performing tasks for networks like Render or io.net. This ensures that our 1MW capacity maintains nearly 100% 'utility' load, even if the 'commercial' utilization is lower. We carefully manage our token treasury, converting protocol rewards into stablecoins or USD to secure our OPEX, while retaining a portion for long-term appreciation. This dual-revenue approach—fiat and token—provides our investors with a unique risk-reward profile that outperforms traditional real estate infrastructure. Additional context: the project follows a"
+    },
+    {
+      "type": "bullets",
+      "title": "DePIN Revenue Logic",
+      "items": [
+        "Uptime Rewards: Consistent base earnings for providing certified hardware to the network.",
+        "Task Fees: Variable revenue from actual compute jobs (Rendering, Training).",
+        "Multiplier Bonuses: Higher rewards for low-latency and high-bandwidth connectivity.",
+        "Treasury Management: Strategic hedging of protocol tokens (RNDR, AKT, etc.) into USD.",
+        "Liquidity: Instant cash flow from protocol payouts with zero accounts receivable delay."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Earnings Dashboard",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/token-earnings-chart.jpg",
+          "alt": "Live token earnings dashboard",
+          "caption": "Real-time tracking of our hardware's protocol yields."
+        },
+        {
+          "kind": "video",
+          "src": "/media/tokenomics-explainer.mp4",
+          "poster": "/media/depin-poster.jpg",
+          "caption": "How DePIN tokenomics acts as a financial hedge for the data center."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "DePIN Performance",
+      "items": [
+        {
+          "label": "Avg. Reward Multiplier",
+          "value": "1.5x (Industrial)"
+        },
+        {
+          "label": "Utilization Floor",
+          "value": "100% Through Protocols"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Analyze the Yields",
+      "copy": "Use our scenario builder to see how DePIN token prices impact the overall project EBITDA.",
+      "primary": {
+        "label": "Yield Calculator",
+        "href": "/investors/financials/calculator"
+      },
+      "secondary": {
+        "label": "Render Network",
+        "href": "/compute/depin/render-network"
+      }
+    }
+  ]
+}

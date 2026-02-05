@@ -1,0 +1,82 @@
+{
+  "path": "/project/energy/efficiency",
+  "meta": {
+    "title": "Energy Efficiency and PUE | Kenya AI Compute",
+    "description": "Our engineering approach to PUE. Smart cooling, load balancing, and how we achieve 1.3-1.5 efficiency."
+  },
+  "hero": {
+    "headline": "Efficiency in Every Watt",
+    "subheadline": "We don't just use cheap power; we use it wisely. Our target PUE of 1.3-1.5 sets the standard for data centers in Africa.",
+    "badge": "PUE Excellence",
+    "cta": [
+      {
+        "label": "Cooling Tech",
+        "href": "/datacenter/architecture/cooling",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Maximizing Yield Through Smart Engineering",
+      "body": "Power Usage Effectiveness (PUE) is the gold standard for measuring data center efficiency. While many African data centers struggle with PUEs above 2.0 due to high ambient temperatures and outdated cooling tech, Kenya AI Compute targets a hyper-efficient range of 1.3 to 1.5. We achieve this through a combination of outside air economizers, evaporative cooling, and a strict hot/cold aisle containment strategy. By leveraging Kenya's specific climate, which features moderate temperatures and low humidity in our site location, we can utilize 'free cooling' for a significant portion of the year. Every rack is equipped with intelligent PDU units that monitor consumption down to the individual server, allowing our AI-driven BMS to dynamically adjust cooling and power distribution for maximum performance and minimum waste. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity,"
+    },
+    {
+      "type": "bullets",
+      "title": "Efficiency Drivers",
+      "items": [
+        "Hot/Cold Aisle Containment: Eliminates air mixing and reduces cooling load.",
+        "Variable Frequency Drives (VFDs): Automatically adjust fan speeds based on real-time heat load.",
+        "LED Smart Lighting: Zero-waste auxiliary power consumption.",
+        "AI-BMS: Predictive load balancing to prevent thermal hotspots.",
+        "Modular Expansion: Only cooling the active load, avoiding the 'empty hall' cooling waste."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Efficiency Dashboard",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/pue-monitor-en.jpg",
+          "alt": "PUE Monitoring Interface",
+          "caption": "Live tracking of our energy efficiency and carbon footprint."
+        },
+        {
+          "kind": "video",
+          "src": "/media/cooling-demo-en.mp4",
+          "poster": "/media/efficiency-poster.jpg",
+          "caption": "Technical demonstration of our modular air-flow design."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Efficiency Targets",
+      "items": [
+        {
+          "label": "Target PUE",
+          "value": "1.3 - 1.5"
+        },
+        {
+          "label": "Cooling Power Savings",
+          "value": "30%+"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Green Compute Strategy",
+      "copy": "Efficiency is the cornerstone of our sustainability mission. See our full ESG framework.",
+      "primary": {
+        "label": "Sustainability",
+        "href": "/project/energy/sustainability"
+      },
+      "secondary": {
+        "label": "Power Architecture",
+        "href": "/datacenter/architecture/power"
+      }
+    }
+  ]
+}

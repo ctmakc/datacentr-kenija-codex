@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "title": "Kenya AI Compute | AI-инфраструктура для Африки",
+    "description": "Доступные GPU, CPU и storage-мощности с собственной генерацией и инфраструктурой DePIN.",
+    "ogImage": "/images/og/home.jpg"
+  },
+  "hero": {
+    "badge": "1MW AI Compute + Собственная генерация",
+    "headline": "Энергия для будущего AI в Африке",
+    "subheadline": "Kenya AI Compute объединяет доступные вычисления и собственную генерацию энергии для глобальных AI‑нагрузок.",
+    "cta": [
+      { "label": "Инвестиции", "href": "/investors", "variant": "primary" },
+      { "label": "Купить вычисления", "href": "/compute", "variant": "secondary" },
+      { "label": "Стать партнёром", "href": "/partners", "variant": "ghost" }
+    ],
+    "metrics": [
+      { "label": "Мощность", "value": "1MW" },
+      { "label": "Стоимость энергии", "value": "$0.04/kWh" },
+      { "label": "Доступность", "value": "99.9%" }
+    ]
+  },
+  "valueProps": {
+    "title": "Почему Kenya AI Compute",
+    "subtitle": "Инфраструктура для AI‑нагрузок с фокусом на энергоэффективность, масштабирование и DePIN.",
+    "items": [
+      {
+        "title": "Для инвесторов",
+        "copy": "Инфраструктурный актив с потенциалом 35–50% EBITDA."
+      },
+      {
+        "title": "Для AI-компаний",
+        "copy": "GPU‑вычисления до 40% дешевле рыночных цен."
+      },
+      {
+        "title": "Для DePIN‑сетей",
+        "copy": "Сертифицированные ноды на «зелёной» энергии."
+      },
+      {
+        "title": "Для партнёров",
+        "copy": "Создаём AI‑инфраструктуру вместе с локальными и глобальными игроками."
+      }
+    ]
+  },
+  "overview": {
+    "title": "Кратко о проекте",
+    "bullets": [
+      "Гибридная энергетика: солнечная + резервная генерация",
+      "Масштабирование от 300kW до 1MW и далее",
+      "Carrier‑neutral связь с доступом к подводным кабелям",
+      "DePIN‑готовая инфраструктура (Render, Akash, io.net и др.)"
+    ],
+    "map": {
+      "label": "Кения",
+      "note": "Стратегический хаб Восточной Африки для AI."
+    }
+  },
+  "media": {
+    "title": "Медиа",
+    "items": [
+      {
+        "kind": "image",
+        "src": "/media/hero/datacenter-exterior.jpg",
+        "alt": "Внешний вид модульного дата‑центра",
+        "caption": "Концепт‑рендер модульного дата‑центра.",
+        "aspect": "16:9"
+      },
+      {
+        "kind": "video",
+        "src": "/media/hero/site-flyover.mp4",
+        "poster": "/media/hero/site-flyover-poster.jpg",
+        "caption": "Обзор площадки и план кампуса.",
+        "aspect": "16:9"
+      }
+    ]
+  },
+  "networks": {
+    "title": "Поддерживаемые сети",
+    "subtitle": "Размещаем и сертифицируем инфраструктуру для ведущих AI‑сетей.",
+    "items": [
+      { "name": "Render" },
+      { "name": "Akash" },
+      { "name": "io.net" },
+      { "name": "Gensyn" },
+      { "name": "Bittensor" }
+    ]
+  },
+  "updates": {
+    "title": "Новости",
+    "items": [
+      {
+        "title": "Фаза 1: завершена предварительная оценка с партнёрами по энергии",
+        "date": "2026-02-01",
+        "href": "/news/updates/phase-1-feasibility"
+      },
+      {
+        "title": "Идут переговоры по поставкам GPU для запуска 300kW",
+        "date": "2026-01-20",
+        "href": "/news/updates/gpu-supply"
+      },
+      {
+        "title": "Отбор площадки в Кении: финалисты — две зоны",
+        "date": "2026-01-05",
+        "href": "/news/updates/site-selection"
+      }
+    ]
+  },
+  "trust": {
+    "title": "Нам доверяют",
+    "items": [
+      { "name": "Региональные энергетические компании" },
+      { "name": "Партнёры по инфраструктуре" },
+      { "name": "Cloud‑интеграторы" },
+      { "name": "AI‑лаборатории" }
+    ]
+  },
+  "cta": {
+    "title": "Строим AI‑инфраструктуру нового поколения",
+    "copy": "Свяжитесь с нами для инвестиций, закупки мощностей или партнёрства.",
+    "primary": { "label": "Запросить investor deck", "href": "/contact/investors" },
+    "secondary": { "label": "Связаться с продажами", "href": "/contact/sales" }
+  }
+}

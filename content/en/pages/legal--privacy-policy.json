@@ -1,0 +1,82 @@
+{
+  "path": "/legal/privacy-policy",
+  "meta": {
+    "title": "Privacy Policy & Data Trust | Kenya AI Compute",
+    "description": "How we safeguard your digital assets. Adherence to Kenya Data Protection Act and global GDPR standards."
+  },
+  "hero": {
+    "headline": "Privacy Built into the Fabric of Our Facility",
+    "subheadline": "We provide a secure, legally compliant environment where your proprietary models and datasets remain your exclusive property.",
+    "badge": "Privacy & Trust",
+    "cta": [
+      {
+        "label": "Data Compliance",
+        "href": "/regulatory/kenya/data-protection",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Our Commitment to Digital Sovereignty",
+      "body": "At Kenya AI Compute, we view data privacy as a fundamental engineering requirement, not just a legal obligation. Operating under the robust Kenya Data Protection Act (2019)—which is functionally aligned with the EU's GDPR—we ensure that your intellectual property is protected by international-grade legal standards. We maintain a strict 'No-Access' policy for our engineering staff to client server environments, unless explicitly authorized through our ticketing system. Every administrative action within our management network is logged and auditable. We do not engage in data harvesting or model training on client data. In our facility, you are the sole owner of your 'compute results,' and we provide the physical and logical isolation necessary to protect that value from both external and internal threats. Additional context: the project follows a clear rollout roadmap that aligns low-cos"
+    },
+    {
+      "type": "bullets",
+      "title": "Core Privacy Principles",
+      "items": [
+        "Zero Data Harvesting: Your models and training data are never used for our internal research.",
+        "Hardware Isolation: Option for physically separated server and network hardware (Private Cloud).",
+        "Auditable Access: Comprehensive logging of all physical and logical entries to the data halls.",
+        "Encryption Enforced: Mandatory encryption for all data-at-rest in our managed storage tiers.",
+        "Compliance Ready: Our policies facilitate your own GDPR and SOC 2 audits."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Trust Framework",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/security-layers-infographic.jpg",
+          "alt": "Data Privacy Layers",
+          "caption": "How we secure your data at the legal, network, and physical levels."
+        },
+        {
+          "kind": "video",
+          "src": "/media/data-privacy-briefing.mp4",
+          "poster": "/media/regulatory-poster.jpg",
+          "caption": "Our DPO explains the core protections for international AI firms in Kenya."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Trust Metrics",
+      "items": [
+        {
+          "label": "Regulatory Alignment",
+          "value": "GDPR / Kenya DPA"
+        },
+        {
+          "label": "Admin Access Logging",
+          "value": "100% Comprehensive"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Contact Our DPO",
+      "copy": "Have specific questions about data residency or cross-border transfers? Our Data Protection Officer is ready to help.",
+      "primary": {
+        "label": "Contact DPO",
+        "href": "/contact/general"
+      },
+      "secondary": {
+        "label": "Legal Structure",
+        "href": "/investors/structure/legal"
+      }
+    }
+  ]
+}

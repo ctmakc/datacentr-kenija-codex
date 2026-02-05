@@ -1,0 +1,82 @@
+{
+  "path": "/market/africa/datacenters",
+  "meta": {
+    "title": "The Africa Data Center Gap | Market Analysis 2026",
+    "description": "Why Africa is the most underserved infrastructure market in the world. The massive opportunity in East African compute."
+  },
+  "hero": {
+    "headline": "Bridging the Most Critical Infrastructure Gap on Earth",
+    "subheadline": "Africa represents 17% of the world's population but less than 1% of its data center capacity. We are closing that gap in Kenya.",
+    "badge": "Market Gap",
+    "cta": [
+      {
+        "label": "Kenya Tech Hub",
+        "href": "/market/africa/kenya",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Hidden Opportunity in Digital Infrastructure",
+      "body": "When global investors look at Africa, they often see a mobile-first economy, but they forget the physical backbone that makes that economy possible. The continent is currently facing a 'compute crisis.' As African banks, governments, and startups move to the cloud, they are forced to host their data in Europe or the US, resulting in high latencies and massive capital flight. Kenya AI Compute is building the alternative. Our market analysis shows that for every 1MW of high-quality data center capacity built in Kenya, there is an immediate 5MW of latent demand. By focusing specifically on AI-grade, high-density infrastructure, we are skipping the 'basic hosting' stage and moving straight to providing the HPC power that will define the continent's digital sovereignty over the next twenty years. Additional context: the project follows a clear rollout roadmap that"
+    },
+    {
+      "type": "bullets",
+      "title": "Market Realities",
+      "items": [
+        "Capacity Shortage: Total African DC capacity is currently equivalent to that of a mid-sized European city.",
+        "Demand Surge: Enterprise cloud spend in East Africa is growing at 20% CAGR.",
+        "Sovereignty Mandate: Multiple African nations are drafting 'Local Data' residency laws.",
+        "Cost Arbitrage: Local compute in Kenya can be 30-50% cheaper than 'importing' cloud from the West.",
+        "First Mover Advantage: We are establishing the standard for high-density GPU hosting in the region."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Regional Deficit",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/africa-compute-gap-chart.jpg",
+          "alt": "Global Data Center Distribution",
+          "caption": "Visualizing the massive infrastructure deficit in Africa vs the Global North."
+        },
+        {
+          "kind": "video",
+          "src": "/media/africa-digital-growth.mp4",
+          "poster": "/media/market-poster.jpg",
+          "caption": "Analyst report: Why data centers are the 'New Real Estate' for African investment."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Market Metrics",
+      "items": [
+        {
+          "label": "Regional Demand Growth",
+          "value": "20% CAGR"
+        },
+        {
+          "label": "Current Market Gap",
+          "value": "5x Undersupplied"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Invest in Growth",
+      "copy": "Capitalize on the most significant infrastructure story of the decade. See our investment thesis.",
+      "primary": {
+        "label": "Investor Thesis",
+        "href": "/investors/overview"
+      },
+      "secondary": {
+        "label": "Africa Opportunity",
+        "href": "/market/africa/opportunity"
+      }
+    }
+  ]
+}

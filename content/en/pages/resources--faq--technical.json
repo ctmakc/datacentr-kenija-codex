@@ -1,0 +1,82 @@
+{
+  "path": "/resources/faq/technical",
+  "meta": {
+    "title": "Technical FAQ for Engineers | Hardware & Network Specs",
+    "description": "Deep dive answers for architects: RoCE v2, Spine-Leaf details, PDU specs, and GPU thermal management in our modular pods."
+  },
+  "hero": {
+    "headline": "Under the Hood: Technical Deep Dive",
+    "subheadline": "No marketing fluff. Just the raw specifications and engineering details that system architects need to know.",
+    "badge": "Technical FAQ",
+    "cta": [
+      {
+        "label": "View Documentation",
+        "href": "/compute/onboarding/documentation",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Reliability and Performance by Design",
+      "body": "Engineering excellence is the cornerstone of the Kenya AI Compute project. We understand that for data scientists and infrastructure leads, the 'magic' of AI disappears if the underlying hardware is unstable or poorly networked. This section addresses the specific engineering questions raised by our technical partners during due diligence. We provide transparency on our choice of networking fabrics, our approach to managing GPU thermals in the Kenyan climate, and our electrical failover protocols. Our facility is designed to support the next generation of 'high-voltage' AI chips, ensuring that we can host H100 and B200 clusters without power or cooling bottlenecks. If your specific technical query isn't covered here, our NOC engineers are available in our developer Discord for direct consultation. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure r"
+    },
+    {
+      "type": "bullets",
+      "title": "Top Engineering Queries",
+      "items": [
+        "Network Fabric: Do you support RDMA/RoCE v2? (Yes, standard for all GPU clusters).",
+        "Rack Density: What is the maximum kW per cabinet? (Up to 40kW in specialized modules).",
+        "Cooling Type: Do you use immersion cooling? (Not in Phase 1; planned for Phase 3).",
+        "PDU Monitoring: Can I see my energy usage per server? (Yes, via the Customer Portal).",
+        "Data Security: How is the physical disk disposal handled? (NIST 800-88 compliant wiping/shredding)."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Technical Schematics",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/internal-network-layout.jpg",
+          "alt": "Data Center Network Diagram",
+          "caption": "Detailed non-blocking Spine-Leaf topology of our 100G fabric."
+        },
+        {
+          "kind": "video",
+          "src": "/media/thermal-testing-demo.mp4",
+          "poster": "/media/engineering-poster.jpg",
+          "caption": "Watch our heat-load testing of a 40kW rack in tropical conditions."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Engineering Targets",
+      "items": [
+        {
+          "label": "Network Core Bandwidth",
+          "value": "1.6 Tbps"
+        },
+        {
+          "label": "Internal Latency",
+          "value": "< 1.5 µs"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Consult with an Architect",
+      "copy": "Need a specific VLAN setup or dedicated InfiniBand cluster? Our team can architect a solution for you.",
+      "primary": {
+        "label": "Contact Engineering",
+        "href": "/contact/general"
+      },
+      "secondary": {
+        "label": "Architecture Overview",
+        "href": "/datacenter/architecture/design"
+      }
+    }
+  ]
+}

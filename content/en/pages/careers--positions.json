@@ -1,0 +1,82 @@
+{
+  "path": "/careers/positions",
+  "meta": {
+    "title": "Open Positions | Join the Kenya AI Compute Team",
+    "description": "Browse active career opportunities in data center engineering, AI operations, and finance in Nairobi and remotely."
+  },
+  "hero": {
+    "headline": "Help Us Build the Silicon Savannah",
+    "subheadline": "We are hiring for our Phase 1 and Phase 2 expansion. Join a team dedicated to making Africa a global AI powerhouse.",
+    "badge": "Active Vacancies",
+    "cta": [
+      {
+        "label": "General Application",
+        "href": "/careers/apply",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Current Opportunities for Innovators",
+      "body": "As we scale our 1MW facility, we are looking for specialists across the technical and operational spectrum. We need hands-on engineers who understand high-density power and cooling, as well as digital architects who can manage global network fabrics. Our current hiring focus is on building our core Nairobi team to manage day-to-day operations, alongside a distributed team of developers and analysts. We offer competitive international salaries, equity opportunities, and the chance to work at the absolute cutting edge of the infrastructure industry. If you thrive in a high-stakes, mission-driven environment where technical precision is the top priority, we want to hear from you. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deploy"
+    },
+    {
+      "type": "bullets",
+      "title": "Hiring Categories",
+      "items": [
+        "DC Operations: Technicians, Electrical Engineers, and NOC Analysts in Kenya.",
+        "Networking: Spine-Leaf architects and global IP transit specialists.",
+        "Sales & BD: Institutional IR managers and DePIN network specialists.",
+        "Software: MLOps engineers and Full-stack developers for our Customer Portal.",
+        "Administration: HR, Logistics, and GR managers with regional expertise."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Our Hub",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/nairobi-office-life.jpg",
+          "alt": "Team meeting in Nairobi office",
+          "caption": "The energy and innovation of our Kenyan headquarters."
+        },
+        {
+          "kind": "video",
+          "src": "/media/career-vision-en.mp4",
+          "poster": "/media/career-poster.jpg",
+          "caption": "Why engineers are leaving big tech to build infrastructure in Africa."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Career Growth",
+      "items": [
+        {
+          "label": "Open Roles",
+          "value": "10+"
+        },
+        {
+          "label": "Team Diversity",
+          "value": "15 Nationalities"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Apply Now",
+      "copy": "Submit your CV for an active role or join our talent pool for future opportunities.",
+      "primary": {
+        "label": "View All Roles",
+        "href": "/careers/positions/list"
+      },
+      "secondary": {
+        "label": "Our Culture",
+        "href": "/careers/culture"
+      }
+    }
+  ]
+}

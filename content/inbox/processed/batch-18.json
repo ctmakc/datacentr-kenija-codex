@@ -1,0 +1,1071 @@
+{
+  "locale": "zh",
+  "batch": "01",
+  "pages": [
+    {
+      "path": "/",
+      "meta": {
+        "title": "驱动非洲AI未来 | 肯尼亚AI计算基础设施项目",
+        "description": "肯尼亚1MW集成电站数据中心，为AI训练、推理及DePIN网络提供低成本GPU/CPU算力。相比全球云厂商成本降低40%。"
+      },
+      "hero": {
+        "headline": "将廉价能源转化为全球AI动力",
+        "subheadline": "Kenya AI Compute 是一个垂直整合的基础设施资产。利用肯尼亚本地绿色能源，提供比市场价格低40%的高性能计算资源。",
+        "badge": "1MW AI基础设施项目",
+        "cta": [
+          { "label": "探索投资机会", "href": "/investors", "variant": "primary" },
+          { "label": "购买算力", "href": "/compute", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "AI基础设施的新边疆",
+          "body": "全球AI革命正面临着一个巨大的瓶颈：高密度数据中心的稀缺以及传统科技枢纽电费的飙升。Kenya AI Compute 通过在肯尼亚发电站源头直接部署1MW的IT负载来解决这一问题。我们的项目不仅仅是一个数据中心，它是一个精密复杂的“能源套利”引擎。我们将成本仅为$0.04/kWh的电力转化为高价值的数字出口产品——为大语言模型（LLM）训练、实时推理和去中心化AI网络提供计算能力。通过消除电网费用和中间环节的加价，我们为欧美过度拥挤的数据中心提供了一个可持续、高利润的替代方案。我们的混合架构针对30%的GPU和50%的CPU工作负载进行了优化，确保了极高的设备利用率，并为投资者提供稳定的美元计价收益。在肯尼亚，我们正在打造非洲数字化转型的硬核基石。"
+        },
+        {
+          "type": "bullets",
+          "title": "无与伦比的竞争优势",
+          "items": [
+            "能源套利：直接集成自备电站，锁定$0.04/kWh的超低电价。",
+            "原生支持DePIN：与Render、Akash、io.net等网络无缝对接，实现即时产能变现。",
+            "可扩展模块化设计：从第一阶段（300kW）到第三阶段（3MW），部署周期仅需9-12个月。",
+            "货币避险：运营支出以本地货币结算，而收入则完全以美元计价，规避汇率风险。",
+            "绿色计算：利用肯尼亚领先的地热和太阳能，目标PUE值达到1.3-1.5。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "项目可视化",
+          "items": [
+            { "kind": "image", "src": "/media/hero-datacenter-render.jpg", "alt": "肯尼亚AI数据中心3D渲染图", "caption": "专为极端AI工作负载设计的模块化1MW设施。" },
+            { "kind": "video", "src": "/media/project-intro-zh.mp4", "poster": "/media/video-cover.jpg", "caption": "了解我们如何将肯尼亚的能源转化为全球AI智慧。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "核心项目指标",
+          "items": [
+            { "label": "计划IT负载", "value": "1 MW" },
+            { "label": "目标电价", "value": "$0.04/kWh" },
+            { "label": "保障在线率", "value": "99.9%" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "加入基础设施革命",
+          "copy": "无论您是寻求35-50% EBITDA收益的机构投资者，还是寻找性价比算力的AI公司，我们都有您的位置。",
+          "primary": { "label": "索取投资说明书", "href": "/resources/documents/request" },
+          "secondary": { "label": "查看合作伙伴", "href": "/about/partners" }
+        }
+      ]
+    },
+    {
+      "path": "/about/vision",
+      "meta": {
+        "title": "使命与长远愿景 | Kenya AI Compute",
+        "description": "将非洲转化为全球AI计算枢纽。我们的使命是让高性能计算变得触手可及且更具成本效益。"
+      },
+      "hero": {
+        "headline": "通过能源效率实现AI民主化",
+        "subheadline": "我们相信，可负担的计算能力是21世纪经济的支柱。我们的愿景是建设非洲最高效的AI计算集群。",
+        "badge": "我们的愿景",
+        "cta": [
+          { "label": "查看路线图", "href": "/about/roadmap", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "超越传统发电模式",
+          "body": "新兴市场的传统能源项目往往利润率极低，且受到本地需求有限的约束。我们的愿景通过将能源作为全球数字产品的“燃料”来翻转这一模式。通过在肯尼亚建设高密度AI基础设施，我们正在本地自然资源与全球机器学习需求之间建立一座桥梁。我们的目标是通过提供价格前所未有的算力资源，赋能下一代AI研究人员、开发者和初创企业。从长远来看，Kenya AI Compute旨在成为全非洲的AI服务骨干网，在整个大陆复制我们的模块化、高能效模型，以促进技术主权和经济增长。我们不仅仅在建设数据中心，我们正在通过人工智能这一时代利器，重新定义非洲在国际价值链中的地位。"
+        },
+        {
+          "type": "bullets",
+          "title": "我们的战略支柱",
+          "items": [
+            "基础设施优先：专注于“硬资产”（GPU集群、电站）而非投机性软件。",
+            "技术中立：构建一个开放平台，同时支持集中式企业客户和去中心化Web3网络。",
+            "可持续性：优先使用可再生能源，以尽量减少重型AI工作负载对环境的影响。",
+            "本地价值：在肯尼亚科技生态系统内创造高科技就业机会和技能转移。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "愿景落地",
+          "items": [
+            { "kind": "image", "src": "/media/vision-impact-map.jpg", "alt": "AI计算在非洲的影响力", "caption": "可视化我们在东非地区的扩张计划。" },
+            { "kind": "video", "src": "/media/vision-statement-zh.mp4", "poster": "/media/vision-poster.jpg", "caption": "创始人分享：为什么AI的未来在非洲。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "长远目标",
+          "items": [
+            { "label": "预计网络总容量", "value": "10+ MW" },
+            { "label": "可再生能源目标", "value": "100%" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "成为征程的一部分",
+          "copy": "我们正在寻找与我们共同相信去中心化和普惠AI未来的合作伙伴。",
+          "primary": { "label": "合作伙伴加盟", "href": "/partners" },
+          "secondary": { "label": "阅读博客", "href": "/news/blog" }
+        }
+      ]
+    },
+    {
+      "path": "/investors/overview",
+      "meta": {
+        "title": "投资者概览 | 肯尼亚AI算力基础设施",
+        "description": "投资高收益的数字基础设施。1MW容量，35-50% EBITDA，锁定低成本能源套利。"
+      },
+      "hero": {
+        "headline": "投资“硬核”AI基础设施资产",
+        "subheadline": "成为非洲增长最快的科技区域内高收益基础设施资产的共同所有者。这是建立在物理资产之上的AI红利。",
+        "badge": "投资者关系",
+        "cta": [
+          { "label": "索取融资路演包", "href": "/resources/documents/request", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "为什么该项目是资产而非单纯的初创企业",
+          "body": "Kenya AI Compute 并非一个充满不确定性的风险投资假设，而是一个逻辑清晰、拥有约2000万美元至2500万美元实体资产（CAPEX）的经典基础设施项目。我们的核心价值建立在物理因素之上：土地、设备、自备发电厂以及来自DePIN网络的长期合同。我们不售卖虚无缥缈的承诺，我们售卖的是转化为计算能力的千瓦时，且该业务模式拥有高达35-50%的EBITDA利润率。对于机构投资者而言，这是一个通过持有底层基础设施而非高风险应用层来切入AI市场的绝佳方式。项目的资本回收期（Payback）预计为5至7年，这在实业领域是非常优异的指标。通过美元计价的收入流，我们为投资者提供了极佳的抗通胀属性和资产安全保障。"
+        },
+        {
+          "type": "bullets",
+          "title": "核心投资逻辑",
+          "items": [
+            "美元计价收益：来自国际客户和去中心化协议的美元结算收入。",
+            "资本保值：投资于高流动性的硬件（GPU/CPU）和不动产基础设施。",
+            "能源护城河：$0.04/kWh的能源成本优势在大多数国家是无法复制的。",
+            "可扩展性：成熟的1MW模型可快速扩展至3MW，并在其他区域进行复制。",
+            "战略退出：全球科技巨头和基础设施基金对非洲数字资产的收购兴趣日益浓厚。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "投资案例分析",
+          "items": [
+            { "kind": "image", "src": "/media/investor-presentation-slide-zh.jpg", "alt": "核心财务指标图表", "caption": "项目关键财务指标一览。" },
+            { "kind": "video", "src": "/media/investor-pitch-zh.mp4", "poster": "/media/pitch-poster.jpg", "caption": "创始人向合作伙伴和潜在投资者发出的项目简述。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "财务目标",
+          "items": [
+            { "label": "目标EBITDA率", "value": "35-50%" },
+            { "label": "资本回收期", "value": "5-7 年" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "准备好深入讨论了吗？",
+          "copy": "申请进入数据室（Data Room），查看详细的财务模型和法律交易结构。",
+          "primary": { "label": "申请访问Data Room", "href": "/investors/contact" },
+          "secondary": { "label": "财务模型详情", "href": "/investors/financials/model" }
+        }
+      ]
+    },
+    {
+      "path": "/project/energy/generation",
+      "meta": {
+        "title": "能源生成与整合 | 垂直一体化电站",
+        "description": "自备电站如何运作。锁定$0.04/kWh固定电价及备用电源策略。"
+      },
+      "hero": {
+        "headline": "驱动智慧的源动力",
+        "subheadline": "我们通过成为自己的电力消费者解决了能源成本难题，锁定了全球云巨头无法企及的极低电价。",
+        "badge": "自备发电",
+        "cta": [
+          { "label": "能源效率指标", "href": "/project/energy/efficiency", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "垂直整合的能源战略",
+          "body": "能源是任何数据中心最大的单一运营成本，占到运营支出（OPEX）的70%。Kenya AI Compute 通过自备发电模式绕过了高昂的公共事业费率。通过将模块化数据中心与专用电站直接整合，我们抓住了“能源套利”的机会。我们以$0.04-$0.06/kWh的工业成本发电，而大多数国家数据中心的标准电网电率在$0.15至$0.25/kWh之间。我们的混合发电组合主要使用天然气和太阳能，并配备柴油发电机提供N+1冗余。这确保了即使在主发电设备发生极罕见故障的情况下，我们的AI工作负载也能不间断运行。这一战略不仅保护了我们的利润率，还为我们的客户提供了传统云市场无法找到的长期价格稳定性。在算力即权力的时代，拥有能源主权就意味着拥有了核心竞争力。"
+        },
+        {
+          "type": "bullets",
+          "title": "电站技术规格",
+          "items": [
+            "总容量：2MW+（支持第一阶段并为第二阶段留有余量）。",
+            "能源组合：混合太阳能+燃气，配备高效柴油备用系统。",
+            "固定费率：项目周期内锁定$0.04 - $0.06/kWh。",
+            "冗余标准：所有服务器模块均配备N+1电源供应。",
+            "监控系统：实时BMS集成，优化负载平衡和燃料效率。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "能源基础设施",
+          "items": [
+            { "kind": "image", "src": "/media/power-plant-photo.jpg", "alt": "现场电站实拍", "caption": "直接向机架供电的集成发电机组。" },
+            { "kind": "video", "src": "/media/energy-tour-zh.mp4", "poster": "/media/energy-poster.jpg", "caption": "发电与配电系统的技术演示。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "能源优势",
+          "items": [
+            { "label": "固定能源成本", "value": "$0.04/kWh" },
+            { "label": "相比市场平均水平", "value": "-65%" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "关注能效",
+          "copy": "廉价能源只是成功的一半。了解我们如何优化每一瓦电力以获得最大的计算产出。",
+          "primary": { "label": "PUE与效率", "href": "/project/energy/efficiency" },
+          "secondary": { "label": "可持续发展", "href": "/project/energy/sustainability" }
+        }
+      ]
+    },
+    {
+      "path": "/project/phases/phase-1",
+      "meta": {
+        "title": "第一阶段：300kW 部署 | 快速启动策略",
+        "description": "第一阶段详情：300kW IT负载，2个集装箱模块，即时接入DePIN网络。"
+      },
+      "hero": {
+        "headline": "第一阶段：开启未来",
+        "subheadline": "我们的300kW初期部署专注于通过DePIN网络和AI渲染工作负载立即产生现金流。",
+        "badge": "第一阶段：300kW",
+        "cta": [
+          { "label": "查看第一阶段财务", "href": "/investors/financials/capex", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "战略试点阶段",
+          "body": "第一阶段是我们进入市场的战术性切入点，旨在建立运营存在感并产生即时现金流。该阶段包含两个40英尺的高柜集装箱模块，总IT负载为300kW。硬件配置专门偏向于GPU密集型任务（100kW GPU，150kW CPU，50kW 存储），以利用来自Render和io.net等网络的强劲需求。这一阶段让我们能够敲定所有本地运营流程，在肯尼亚培训核心工程团队，并展示我们$0.04/kWh能源模型的实际效率。计划建设周期为9-12个月，资本支出为600万至800万美元。第一阶段不仅是技术验证，更是后续1MW扩建项目的基石，通过实际运营数据增强后续投资者的信心。我们在这里完成从零到一的飞跃。"
+        },
+        {
+          "type": "bullets",
+          "title": "第一阶段规格",
+          "items": [
+            "容量：通过2个模块化单元提供300kW IT负载。",
+            "硬件：以NVIDIA为主的GPU集群 + AMD EPYC CPU节点。",
+            "周期：从资金到位到产生首笔收入需9-12个月。",
+            "CAPEX：600万至800万美元。",
+            "收入目标：在50%利用率下，每年产生150万至250万美元收入。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "第一阶段可视化",
+          "items": [
+            { "kind": "image", "src": "/media/phase-1-render.jpg", "alt": "现场的第一阶段集装箱", "caption": "首批两个模块已部署并与电站集成。" },
+            { "kind": "video", "src": "/media/container-setup-zh.mp4", "poster": "/media/phase-poster.jpg", "caption": "我们如何在创纪录的时间内部署模块化计算单元。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "第一阶段目标",
+          "items": [
+            { "label": "部署速度", "value": "9 个月" },
+            { "label": "目标利用率", "value": "50%+" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "投资机会",
+          "copy": "第一阶段目前对寻求早期进入的锚定投资者开放。",
+          "primary": { "label": "投资第一阶段", "href": "/contact/investors" },
+          "secondary": { "label": "扩展至第二阶段", "href": "/project/phases/phase-2" }
+        }
+      ]
+    },
+    {
+      "path": "/compute/overview",
+      "meta": {
+        "title": "AI算力即服务 | Kenya AI Compute",
+        "description": "人工智能/机器学习任务的计算能力综述。在自备电站数据中心租赁GPU和CPU的优势。"
+      },
+      "hero": {
+        "headline": "建立在未来能源之上的计算",
+        "subheadline": "Kenya AI Compute 为最雄心勃勃的AI任务提供基础设施，价格比云巨头低40%。",
+        "badge": "基础设施即服务",
+        "cta": [
+          { "label": "计算成本试算", "href": "/compute/pricing/calculator", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "AI基础设施准入门槛的新标准",
+          "body": "我们创建了一个消除AI发展主要障碍——极端计算成本的平台。得益于与自备发电厂的深度整合，Kenya AI Compute 提供的 GPU 和 CPU 资源成本是传统数据中心无法企及的。我们的模式专注于计算资产的出口：我们将肯尼亚的千瓦时转化为全球市场所需的浮点运算能力。我们提供的不仅仅是服务器，而是涵盖模型训练（Training）、部署推理（Inference）和大数据处理的完整生态环境。我们 30/50/20（GPU/CPU/存储）的混合架构确保了每项任务都能找到最匹配的资源类型，避免了客户为多余的设备性能支付不必要的费用。在这里，算力变成了像自来水一样触手可及且成本可控的工业资源。"
+        },
+        {
+          "type": "bullets",
+          "title": "为什么选择我们",
+          "items": [
+            "成本优势：相比AWS、GCP和Azure，GPU小时成本降低高达40%。",
+            "稳定性：直接由电站供电，消除了由于外部电网波动导致的停机风险。",
+            "DePIN原生：预装并原生支持全球主要去中心化算力网络节点。",
+            "地理优势：肯尼亚战略位置优越，连接欧洲和亚洲的延迟极低。",
+            "灵活性：从单张显卡租赁到整柜集群，支持按秒计费的灵活模式。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "您的无限可能",
+          "items": [
+            { "kind": "image", "src": "/media/compute-cluster.jpg", "alt": "计算集群实拍", "caption": "可大规模扩展的AI基础设施，24/7待命。" },
+            { "kind": "video", "src": "/media/compute-demo-zh.mp4", "poster": "/media/compute-poster.jpg", "caption": "在我们的云环境中部署模型的实操演示。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "计算经济学",
+          "items": [
+            { "label": "GPU小时成本", "value": "$0.70 - $1.00" },
+            { "label": "相比云巨头节省", "value": "~40%" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "准备好开始了吗？",
+          "copy": "立即启动您的第一个容器或租赁裸金属服务器。",
+          "primary": { "label": "免费试用", "href": "/compute/onboarding/getting-started" },
+          "secondary": { "label": "资费计划", "href": "/compute/pricing/plans" }
+        }
+      ]
+    },
+    {
+      "path": "/project/location/kenya",
+      "meta": {
+        "title": "为什么选择肯尼亚？ | AI基础设施的战略地位",
+        "description": "肯尼亚是“硅草原”。探索政治稳定性、全球连接性和可再生能源的优势。"
+      },
+      "hero": {
+        "headline": "肯尼亚：非洲AI的硅草原",
+        "subheadline": "肯尼亚拥有廉价的可再生能源、顶级的全球网络连接和亲科技的政府，是AI基础设施的终极选址。",
+        "badge": "战略位置",
+        "cta": [
+          { "label": "查看场地详情", "href": "/project/location/site", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "东非的科技引擎",
+          "body": "肯尼亚被选为我们的首选地点，是因为其作为非洲数字化领军者的独特地位。该国拥有该地区最稳定的政治环境之一，且法律体系基于英国普通法，为外国投资者提供了强有力的保护。在治理之外，肯尼亚更是电信强国；其蒙巴萨海岸是多条海底光纤电缆（SEACOM, TEAMS, EASSy）的登陆点，确保了连接欧洲、中东和亚洲的低延迟。此外，肯尼亚是全球可再生能源的领导者，超过90%的电力来自绿色能源。我们的项目利用这一资源优势提供可持续的AI计算，既能满足全球企业的ESG要求，又能保持无可比拟的价格优势。肯尼亚不仅仅是非洲的门户，它是全球智能算力的新兴心脏。"
+        },
+        {
+          "type": "bullets",
+          "title": "选址优势",
+          "items": [
+            "连接性：直达4+条国际海底光缆，实现全球低延迟覆盖。",
+            "能源：世界领先的地热和太阳能容量，实现真正的绿色计算。",
+            "政策激励：经济特区（SEZ）地位提供税收减免和关税豁免。",
+            "人才：拥有大量年轻、精通科技、英语流利的工程人才储备。",
+            "稳定性：东非最成熟的商业生态系统，透明的投资法方案。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "肯尼亚的网络连接",
+          "items": [
+            { "kind": "image", "src": "/media/kenya-cable-map.jpg", "alt": "海底光缆地图", "caption": "肯尼亚如何将非洲连接到全球互联网骨干网。" },
+            { "kind": "video", "src": "/media/kenya-tech-vlog-zh.mp4", "poster": "/media/kenya-poster.jpg", "caption": "走进内罗毕生机勃勃的科技生态系统。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "区域背景",
+          "items": [
+            { "label": "互联网普及率", "value": "非洲前五" },
+            { "label": "可再生能源占比", "value": "90%+" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "探索现场",
+          "copy": "了解更多关于具体土地拨付情况和我们模块化设施的施工计划。",
+          "primary": { "label": "场地信息", "href": "/project/location/site" },
+          "secondary": { "label": "监管政策", "href": "/regulatory/kenya" }
+        }
+      ]
+    },
+    {
+      "path": "/datacenter/specifications/tier-level",
+      "meta": {
+        "title": "Tier II/III 标准与在线率 | Kenya AI Compute",
+        "description": "理解我们的可靠性标准。为什么 Tier II+ 是 AI 和 DePIN 工作负载的最佳选择。"
+      },
+      "hero": {
+        "headline": "规模化的可靠性标准",
+        "subheadline": "通过将 Tier II 基础设施基线与关键电力及冷却系统的简化 Tier III 冗余相结合，我们提供 99.9% 以上的在线率。",
+        "badge": "基础设施标准",
+        "cta": [
+          { "label": "在线率 SLA", "href": "/compute/sla/uptime", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "专为AI连续性设计",
+          "body": "传统的 Tier IV 数据中心对于 AI 工作负载而言往往存在过度设计，导致不必要的超高资本支出和租金。Kenya AI Compute 采用了优化的“Tier II+”设计。这意味着我们在所有关键系统（UPS、冷却、发电）上保持 N+1 冗余，同时避免了在机器学习任务并非必需的地方增加全并发维护的高昂成本。由于 AI 训练和渲染任务在软件层面天然具有一定的容错性，我们的设计在 99.9% 的在线率和极低的每瓦成本之间取得了完美平衡。对于需要更高安全级别的客户，我们提供符合完整 Tier III 要素的专用机架，确保关键推理 API 即使在维护窗口期间也能保持在线。这种务实的态度使我们的算力在市场上更具竞争力。"
+        },
+        {
+          "type": "bullets",
+          "title": "质量标准",
+          "items": [
+            "在线率目标：保障 99.9% 以上的年度可用性。",
+            "电力路径：至每个机架的双路径配电方案。",
+            "冷却系统：N+1 冗余精密空调单元。",
+            "维护：计划维护窗口，对 DePIN 收益零影响。",
+            "合规性：设计初衷即符合未来的 ISO 27001 和 SOC 2 认证标准。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "可靠性示意图",
+          "items": [
+            { "kind": "image", "src": "/media/tier-diagram-zh.jpg", "alt": "Tier II+ 架构图", "caption": "如何在不支付“Tier IV 税”的情况下实现高可用性。" },
+            { "kind": "video", "src": "/media/reliability-test-zh.mp4", "poster": "/media/tech-poster.jpg", "caption": "测试我们的切换系统：从主发电到 UPS。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "可用性指标",
+          "items": [
+            { "label": "保障在线率", "value": "99.9%" },
+            { "label": "冗余等级", "value": "N+1" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "技术审计",
+          "copy": "在我们的技术门户中查看完整的工程规格和维护协议。",
+          "primary": { "label": "工程文档", "href": "/compute/onboarding/documentation" },
+          "secondary": { "label": "硬件组合", "href": "/datacenter/equipment/compute" }
+        }
+      ]
+    },
+    {
+      "path": "/compute/depin/render-network",
+      "meta": {
+        "title": "Render Network 节点托管 | Kenya AI Compute",
+        "description": "从去中心化渲染中获益。在我们的高效设施中托管高收益的 Render Network 节点。"
+      },
+      "hero": {
+        "headline": "最大化您的 Render Network 收益",
+        "subheadline": "在我们的低 OPEX 设施中托管您的 GPU 节点，保留更多您的 RNDR 收益。DePIN 节点运营商的终极目的地。",
+        "badge": "Render 合作伙伴",
+        "cta": [
+          { "label": "查看节点收益", "href": "/compute/depin/tokenomics", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "DePIN 运营商的经济选择",
+          "body": "Render Network 的盈利率由两个变量决定：任务收入和运营成本。虽然硬件成本是固定的，但您支付的能源和冷却价格决定了您的最终利润。通过在 Kenya AI Compute 托管节点，您可以直接受益于我们 $0.04/kWh 的工业电价和专业的 Tier II+ 基础设施。我们负责硬件管理、高速连接和 24/7 在线，而您只需坐收奖励。我们的 Render 优化机架专为最大的热稳定性而设计，确保您的 GPU 在高强度的 3D 渲染作业期间始终以峰值性能运行，不会因过热而降频。这是 DePIN 的工业化进阶——从家庭式作坊转向全球最高效能源司法管辖区的专业级基础设施。"
+        },
+        {
+          "type": "bullets",
+          "title": "我们的渲染节点优势",
+          "items": [
+            "极低运营支出：能源成本比欧美居民电价低 70% 以上。",
+            "高带宽连接：100G 骨干网确保场景快速上传/下载，提高任务完成率。",
+            "托管服务：我们负责清洁、维护和故障硬件更换。",
+            "认证基础设施：凭借 99.9% 的在线率，我们的节点能获得更高的声誉分数。",
+            "可扩展性：在我们的安全模块内，轻松实现从 1 个节点到 100+ 个节点的扩张。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "渲染性能",
+          "items": [
+            { "kind": "image", "src": "/media/render-node-monitor.jpg", "alt": "Render Network 控制面板", "caption": "实时监控节点健康状况和 RNDR 收益。" },
+            { "kind": "video", "src": "/media/render-workflow-zh.mp4", "poster": "/media/depin-poster.jpg", "caption": "我们的设施如何无延迟地处理 Render Network 任务。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "节点盈利率",
+          "items": [
+            { "label": "平均能耗节省", "value": "60%+" },
+            { "label": "目标节点声誉", "value": "第一梯队" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "立即开始托管",
+          "copy": "预留您的机架空间或购买 Render Network 的托管节点套餐。",
+          "primary": { "label": "节点托管计划", "href": "/compute/depin/node-hosting" },
+          "secondary": { "label": "Akash 网络", "href": "/compute/depin/akash-network" }
+        }
+      ]
+    },
+    {
+      "path": "/investors/financials/model",
+      "meta": {
+        "title": "财务模型与预测 | Kenya AI Compute",
+        "description": "全面的财务展望：年收入 500-800 万美元，35-50% EBITDA，以及保守的增长假设。"
+      },
+      "hero": {
+        "headline": "透明财务，实物资产",
+        "subheadline": "我们基于保守假设建立预测：50% 的利用率和市场底部的定价，以确保长期的稳定性。",
+        "badge": "投资模型",
+        "cta": [
+          { "label": "下载 Excel 模型", "href": "/portal/investor-room/documents", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "我们 ROI 的核心逻辑",
+          "body": "Kenya AI Compute 的财务模型建立在“基础设施现实主义”的原则之上。我们避开了 GPU 永恒短缺的炒作，而是根据标准的基础设施周期对业务进行建模。我们的基准案例假设 1MW 容量的平均利用率仅为保守的 45-55%。即便在这些水平下，由于我们极低的运营成本结构，项目仍能带来稳健的 500 万至 800 万美元的年收入。得益于我们自备的 $0.04/kWh 发电能力，运营支出（OPEX）锁定在每年 200 万至 280 万美元之间，我们的净运营利润率显著高于传统的托管中心。这产生了一个干净的、以美元计价的现金流，使得在 5 到 7 年内实现资本的完全回收（Payback）成为可能。随着未来利用率向 80% 迈进，投资者还将获得巨大的额外上行空间。"
+        },
+        {
+          "type": "bullets",
+          "title": "财务假设",
+          "items": [
+            "收入来源：涵盖 GPU 训练、CPU 云、存储和 DePIN 代币。多元化抗风险。",
+            "利用率：设定为保守的 50%，以建立安全边际。",
+            "运营支出：通过现场发电和本地化员工大幅降低成本。",
+            "EBITDA：目标是在全面运营的第 2 年开始达到 35-50%。",
+            "股息分配：在最初 24 个月的建设期后，结构化为季度派息。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "财务预测",
+          "items": [
+            { "kind": "image", "src": "/media/revenue-growth-chart-zh.jpg", "alt": "五年收入预测", "caption": "随着我们从 300kW 扩展至 1MW 的预计收入增长。" },
+            { "kind": "video", "src": "/media/model-walkthrough-zh.mp4", "poster": "/media/financial-poster.jpg", "caption": "与我们的首席财务官共同深入探讨 Excel 模型。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "盈利目标",
+          "items": [
+            { "label": "预计年度净利润", "value": "$2M - $4M" },
+            { "label": "目标投资回收期", "value": "5 - 7 年" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "分析不同情景",
+          "copy": "使用我们的交互式情景模拟器，查看利用率和能源价格如何影响您的投资回报率。",
+          "primary": { "label": "财务情景模拟", "href": "/investors/financials/scenarios" },
+          "secondary": { "label": "资本支出构成", "href": "/investors/financials/capex" }
+        }
+      ]
+    },
+    {
+      "path": "/project/overview",
+      "meta": {
+        "title": "项目综述 | 高密度 AI 数据中心",
+        "description": "肯尼亚 AI 计算项目的全面总结：能源集成、混合计算模型及财务指标。"
+      },
+      "hero": {
+        "headline": "1MW AI 基础设施：成功的规格",
+        "subheadline": "专门为最苛刻的 GPU 工作负载设计的设施，由电价为 $0.04/kWh 的直接能源集成提供动力。",
+        "badge": "核心项目",
+        "cta": [
+          { "label": "技术规格详情", "href": "/datacenter", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "垂直整合：从电力到计算",
+          "body": "Kenya AI Compute 不是传统的云提供商；它是控制自己供应链的基础设施资产。通过将数据中心直接与 2MW+ 的混合动力发电厂集成，我们消除了公共电网的波动性，并锁定了高性能计算所能获得的最低能源费率。我们的设施采用模块化集装箱方案，允许快速部署和便捷维护。计算架构采用了平衡的混合模式：30% 致力于 AI 训练和渲染的高端 GPU 集群；50% 致力于推理和通用边缘计算的 CPU 工作负载；20% 致力于高速 NVMe 存储。这种组合经过专门设计，旨在确保企业客户和去中心化 DePIN 协议之间的高利用率。"
+        },
+        {
+          "type": "bullets",
+          "title": "项目基础要素",
+          "items": [
+            "设施类型：配备先进环境控制的模块化集装箱数据中心。",
+            "能源供应：直接自备发电（太阳能 + 燃气/柴油备用），成本为 $0.04/kWh。",
+            "计算画像：混合 30/50/20（GPU/CPU/存储）以实现多元化收益流。",
+            "可靠性：按 Tier II/III 标准设计，保障 99.9% 在线率。",
+            "盈利能力：目标 EBITDA 为 35-50%，资本回收期为 5-7 年。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "设施布局",
+          "items": [
+            { "kind": "image", "src": "/media/dc-layout-blueprint.jpg", "alt": "数据中心蓝图", "caption": "专为最大化机架密度和冷却效率而设计。" },
+            { "kind": "video", "src": "/media/project-walkthrough-zh.mp4", "poster": "/media/overview-poster.jpg", "caption": "计划在肯尼亚建设的 1MW 场地的 3D 俯视图。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "财务亮点",
+          "items": [
+            { "label": "预计年收入", "value": "$5M - $8M" },
+            { "label": "总 CAPEX (第一+二阶段)", "value": "$20M - $25M" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "深入研究数据",
+          "copy": "在投资者数据室获取完整的技术白皮书和财务预测。",
+          "primary": { "label": "申请 Data Room", "href": "/investors/contact" },
+          "secondary": { "label": "选址优势", "href": "/project/location/kenya" }
+        }
+      ]
+    },
+    {
+      "path": "/project/location/site",
+      "meta": {
+        "title": "场地选址与物流 | Kenya AI Compute",
+        "description": "肯尼亚物理场地详情：能源整合、通达性及安全协议。"
+      },
+      "hero": {
+        "headline": "为工业级计算优化的场地",
+        "subheadline": "我们的设施位于一个高度安全的工业区，与发电厂实现直接、零距离的整合。",
+        "badge": "设施场地",
+        "cta": [
+          { "label": "查看网络连接", "href": "/project/location/connectivity", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "战略性土地与能源近邻性",
+          "body": "Kenya AI Compute 的物理位置是基于“零损耗”战略选定的。我们紧邻主要的发电站，这意味着我们的高压电缆到变压器的运行路径最短。这种近邻性最小化了电力传输损耗，并消除了对昂贵的电网级配电基础设施的需求。场地本身位于安全的工业红线内，提供高等级的物理防护和 24/7 监控。我们已经锁定了足够的土地用于第三阶段的全规模扩张，使我们能够增长到 3MW 及以上，而无需购买额外财产。从物流上看，场地可通过主要公路通达，便于模块化集装箱从蒙巴萨港直接运抵设施。这种工业集聚效应是项目的核心物理护城河。"
+        },
+        {
+          "type": "bullets",
+          "title": "场地特性",
+          "items": [
+            "能源距离：距离发电来源不足 200 米。物理级连接。",
+            "物流通达：从蒙巴萨港直达的高速公路，便于重型设备运输。",
+            "安全性：三层周界安防，配备武装响应和生物识别访问。",
+            "扩张容量：5 英亩以上的安全土地预留给第二和第三阶段。",
+            "环境：位于低自然灾害风险区（地震/洪水风险极低）。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "现场考察",
+          "items": [
+            { "kind": "image", "src": "/media/site-drone-shot.jpg", "alt": "场地航拍图", "caption": "已清理完毕的场地，随时可以开始第一阶段的基础施工。" },
+            { "kind": "video", "src": "/media/site-logistics-zh.mp4", "poster": "/media/site-poster.jpg", "caption": "详尽展示我们选址的物流与安全优势。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "场地指标",
+          "items": [
+            { "label": "至电站距离", "value": "< 200m" },
+            { "label": "总土地面积", "value": "5+ 英亩" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "技术连接性",
+          "copy": "了解我们的物理场地如何转化为全球网络速度和低延迟优势。",
+          "primary": { "label": "网络详情", "href": "/project/location/connectivity" },
+          "secondary": { "label": "气候数据", "href": "/project/location/climate" }
+        }
+      ]
+    },
+    {
+      "path": "/project/energy/efficiency",
+      "meta": {
+        "title": "能源效率与 PUE | Kenya AI Compute",
+        "description": "我们的 PUE 工程方法。智能冷却、负载平衡及如何实现 1.3-1.5 的能效。"
+      },
+      "hero": {
+        "headline": "每一瓦电的高效利用",
+        "subheadline": "我们不仅使用廉价的电力，更睿智地使用它。我们 1.3-1.5 的目标 PUE 树立了非洲数据中心的新标准。",
+        "badge": "PUE 卓越标准",
+        "cta": [
+          { "label": "冷却技术", "href": "/datacenter/architecture/cooling", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "通过智能工程最大化产出",
+          "body": "电源使用效率（PUE）是衡量数据中心能效的金标准。由于高温和过时的冷却技术，许多非洲数据中心的 PUE 很难降到 2.0 以下，而 Kenya AI Compute 的目标是极致高效的 1.3 至 1.5 范围。我们通过室外空气节能器、蒸发冷却和严格的冷热通道封闭策略实现了这一目标。利用肯尼亚特定地点的气候特点——常年气温温和且湿度较低，我们可以在一年中的大部分时间里利用“自然冷却”。每个机架都配备了智能 PDU，监控细化到单个服务器，使我们的 AI 驱动型 BMS 能够根据实时热负荷动态调整冷却和配电，实现最大性能和最小浪费。这对投资者而言，意味着更高的运营利润率。"
+        },
+        {
+          "type": "bullets",
+          "title": "能效驱动因素",
+          "items": [
+            "冷热通道封闭：消除空气混合，显著降低冷却负载。",
+            "变频驱动（VFDs）：根据实时热负荷自动调节风扇速度。",
+            "LED 智能照明：零浪费的辅助电力消耗方案。",
+            "AI-BMS：预测性负载平衡，防止出现局部热点。",
+            "模块化扩张：仅冷却活动负载，避免“空大厅”的冷却浪费。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "能效监控面板",
+          "items": [
+            { "kind": "image", "src": "/media/pue-monitor-zh.jpg", "alt": "PUE 监控界面", "caption": "实时追踪我们的能源效率和碳足迹。" },
+            { "kind": "video", "src": "/media/cooling-demo-zh.mp4", "poster": "/media/efficiency-poster.jpg", "caption": "我们模块化气流设计的技术演示。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "能效目标",
+          "items": [
+            { "label": "目标 PUE", "value": "1.3 - 1.5" },
+            { "label": "冷却电力节省", "value": "30%+" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "绿色计算战略",
+          "copy": "效率是我们可持续发展使命的基石。查看我们的完整 ESG 框架。",
+          "primary": { "label": "可持续性", "href": "/project/energy/sustainability" },
+          "secondary": { "label": "电力架构", "href": "/datacenter/architecture/power" }
+        }
+      ]
+    },
+    {
+      "path": "/compute/gpu/training",
+      "meta": {
+        "title": "GPU 训练集群 | 可大规模扩展的 AI 模型训练",
+        "description": "高性能 GPU 集群，用于 LLM 和深度学习训练。NVIDIA A100/H100 规格与定价。"
+      },
+      "hero": {
+        "headline": "工业规模的训练集群",
+        "subheadline": "利用成本仅为 $0.04/kWh 的能源驱动的海量 GPU 集群，加速您的 AI 开发。从单个节点无缝扩展至整个机架组。",
+        "badge": "GPU 训练",
+        "cta": [
+          { "label": "预订集群", "href": "/contact/sales", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "大型模型的坚实基础",
+          "body": "训练现代大语言模型（LLM）和生成式模型需要两样东西：海量的计算能力和低延迟的互连。Kenya AI Compute 两者兼备。我们的 GPU 集群建立在高性能的 Spine-Leaf 架构之上，确保数据在分布式训练期间在节点间自由流动。我们提供 NVIDIA A100（40GB/80GB）和 H100 单元的组合，以及 AMD Instinct 替代方案，允许您根据研发预算选择最合适的性价比方案。通过利用肯尼亚的能源套利优势，我们可以提供比标准云供应商低 50% 的预留训练实例，使研究人员能够以相同的资本投入进行更长时间的实验和训练更大规模的模型。我们不是在卖租赁时间，我们是在卖创新的进度。"
+        },
+        {
+          "type": "bullets",
+          "title": "训练能力",
+          "items": [
+            "硬件：支持 NVLink 的 H100 80GB 和 A100 80GB 集群。",
+            "网络：支持 RDMA 的 100G/400G 内部架构，满足同步密集型训练。",
+            "软件：预装 PyTorch、TensorFlow 和 JAX，配备优化的 CUDA 驱动。",
+            "存储：本地 NVMe 临时空间，用于快速检查点（checkpointing）保存。",
+            "定价：按需付费从每 GPU 小时 1 美元起，预留期限可享深度折扣。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "实战训练",
+          "items": [
+            { "kind": "image", "src": "/media/gpu-cluster-training.jpg", "alt": "AI 训练 GPU 集群", "caption": "配置用于 LLM 微调的专用 8 节点 GPU 集群。" },
+            { "kind": "video", "src": "/media/training-speed-test-zh.mp4", "poster": "/media/compute-poster.jpg", "caption": "将我们的集群与标准云供应商进行性能基准对比。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "性价比指标",
+          "items": [
+            { "label": "预留 GPU 小时费率", "value": "$0.70 - $0.90" },
+            { "label": "同步带宽", "value": "100 - 400 Gbps" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "获取定制报价",
+          "copy": "需要特定配置或为期数月的预留？我们的架构师已准备好为您提供帮助。",
+          "primary": { "label": "联系销售", "href": "/contact/sales" },
+          "secondary": { "label": "GPU 推理", "href": "/compute/gpu/inference" }
+        }
+      ]
+    },
+    {
+      "path": "/regulatory/kenya/investment",
+      "meta": {
+        "title": "肯尼亚投资法规 | SEZ 与税收优惠",
+        "description": "外国投资者在肯尼亚的指南。经济特区、税收假期及利润汇出法律。"
+      },
+      "hero": {
+        "headline": "亲商的监管环境",
+        "subheadline": "肯尼亚通过经济特区和强大的法律保护，为高科技基础设施提供了世界级的激励措施。",
+        "badge": "法律与监管",
+        "cta": [
+          { "label": "法律 FAQ", "href": "/investors/due-diligence/faq", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "保护全球资本",
+          "body": "肯尼亚被公认为非洲最受投资者欢迎的国家之一。我们的项目结构充分利用了《经济特区（SEZ）法案》，该法案提供了一整套财政和非财政激励。对于投资者而言，这意味着前 10 年的公司所得税率大幅降至 10%，免除所有项目相关支出的增值税（VAT），并对进口的高科技设备实行零关税。此外，肯尼亚拥有完全自由化的资本账户，这意味着对利润、股息或资本以美元形式汇出没有任何限制。我们的法律结构旨在让国际基金感到熟悉，利用标准的合资（Joint Venture）协议和仲裁条款，确保所有利益相关者的最高透明度和安全性。肯尼亚的法律体系基于英国普通法，为商业纠纷提供了可预测的结果。"
+        },
+        {
+          "type": "bullets",
+          "title": "激励框架",
+          "items": [
+            "公司税：在 SEZ 内运营的前十年为 10%。",
+            "进口关税：服务器、UPS 系统和专用冷却设备为 0%。",
+            "利润汇出：100% 自由以美元形式全球汇出收益。",
+            "投资保护：通过《外国投资保护法》保障免受征收。",
+            "工作许可：为关键技术和管理人员提供便捷的入境渠道。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "监管概览",
+          "items": [
+            { "kind": "image", "src": "/media/kenya-sez-benefits.jpg", "alt": "SEZ 优惠总结", "caption": "经济特区地位对项目投资回报率（ROI）的财务影响。" },
+            { "kind": "video", "src": "/media/legal-briefing-zh.mp4", "poster": "/media/regulatory-poster.jpg", "caption": "我们的法律顾问解释合资企业的框架结构。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "合规状态",
+          "items": [
+            { "label": "营商环境排名", "value": "非洲前三" },
+            { "label": "税收激励期限", "value": "10 - 20 年" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "索取法律备忘录",
+          "copy": "如需我们的公司结构和税务战略的详细细分，请联系我们的法律团队。",
+          "primary": { "label": "联系法务", "href": "/investors/contact" },
+          "secondary": { "label": "数据保护", "href": "/regulatory/kenya/data-protection" }
+        }
+      ]
+    },
+    {
+      "path": "/about/roadmap",
+      "meta": {
+        "title": "项目路线图 | 从 300kW 到 3MW 的里程碑",
+        "description": "遵循我们的分阶段开发计划：从 2025 年的第一阶段建设到第三阶段的全非扩展。"
+      },
+      "hero": {
+        "headline": "通往 3MW 容量的清晰路径",
+        "subheadline": "我们采用降低风险的分阶段方法，在实现早期收入的同时，不断扩展规模以满足全球需求。",
+        "badge": "项目时间线",
+        "cta": [
+          { "label": "查看第一阶段详情", "href": "/project/phases/phase-1", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "确保最大稳定性的分阶段扩展",
+          "body": "我们的路线图旨在最小化风险并最大化早期投资回报率（ROI）。我们从第一阶段开始，即 300kW IT 负载集群，作为我们本地运营和 DePIN 集成的原型验证。通过使用模块化集装箱单元，我们可以在动工后 9-12 个月内实现全面运营。第二阶段将这一成功扩展到 1MW，通过提高运营效率和更大规模的 GPU 集群，达到 35-50% 的目标 EBITDA。最后，第三阶段将带领我们超越 3MW 大关，届时我们将转向永久性建筑，并探索在东非其他能源丰富地区进行复制。这种循序渐进的进阶确保了我们可以从每个阶段中学习，随着 AI 市场的演变不断优化 PUE 和硬件组合。我们是在建立一个可持续的产业，而非单纯的工程。"
+        },
+        {
+          "type": "bullets",
+          "title": "关键里程碑",
+          "items": [
+            "2024 年：完成可行性研究、选址和初期技术设计。",
+            "2025 年：动工并完成第一阶段（300kW），立即启动 DePIN 接入。",
+            "2026 年：扩展至第二阶段（1MW），实现全面的运营盈利。",
+            "2027 年：为第三阶段（3MW+）进行基础设施准备和规划。",
+            "2028 年及以后：在邻近的东非司法管辖区复制该商业模式。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "时间线可视化",
+          "items": [
+            { "kind": "image", "src": "/media/roadmap-infographic-zh.jpg", "alt": "2024-2028 项目路线图", "caption": "从 300kW 试点到 3MW 基础设施枢纽的历程。" },
+            { "kind": "video", "src": "/media/roadmap-explained-zh.mp4", "poster": "/media/roadmap-poster.jpg", "caption": "我们如何管理肯尼亚市场的施工和扩展时间表。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "执行速度",
+          "items": [
+            { "label": "首笔收入耗时", "value": "9-12 个月" },
+            { "label": "当前状态", "value": "规划与预售" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "追踪我们的进度",
+          "copy": "订阅我们的投资者简报，获取关于施工和合作伙伴里程碑的月度更新。",
+          "primary": { "label": "立即订阅", "href": "/news" },
+          "secondary": { "label": "查看财务状况", "href": "/investors/financials/model" }
+        }
+      ]
+    },
+    {
+      "path": "/about/team",
+      "meta": {
+        "title": "领导力与专业知识 | 项目背后的团队",
+        "description": "了解领导肯尼亚 AI 计算项目的机房工程、能源基础设施和人工智能技术领域的专家。"
+      },
+      "hero": {
+        "headline": "本地市场里的世界级专家",
+        "subheadline": "我们的领导团队融合了数十年的国际咨询、能源系统和高性能计算领域的经验。",
+        "badge": "我们的专家",
+        "cta": [
+          { "label": "查看顾问委员会", "href": "#board", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "基础设施的多学科方法",
+          "body": "在肯尼亚建设一个 1MW 的数据中心需要的不仅仅是技术知识；还需要对当地物流、监管框架和全球资本市场的深刻理解。我们的团队成员曾在 50 多个国家开展业务，在管理大规模资本支出（CAPEX）项目方面拥有丰富的经验。从专门研究模块化冷却系统的数据中心架构师，到在东非市场有着深厚根基的财务策略师，我们汇集了确保 99.9% 的在线率和 35-50% 的 EBITDA 利润率所需的人才。我们以“工程诚实”和极端透明为荣，确保项目的每个阶段都能精准执行并承担责任。这支团队不仅是建设者，更是这一创新资产类别的风险管理者和价值创造者。"
+        },
+        {
+          "type": "bullets",
+          "title": "我们的核心能力",
+          "items": [
+            "项目发起：数千万美元资产的经济建模和投资者定位专家。",
+            "技术工程：Tier II/III 数据中心设计和高密度 GPU 冷却领域的专家。",
+            "本地治理：与肯尼亚当局有着深厚联系，熟稔许可证办理和经济特区优惠政策。",
+            "AI/ML 运营：针对 LLM 训练和 DePIN 网络集成的硬件优化专家。",
+            "国际合规：确保项目财务及运营符合全球审计标准的专家团队。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "团队实操",
+          "items": [
+            { "kind": "image", "src": "/media/team-site-inspection.jpg", "alt": "工程团队在肯尼亚现场", "caption": "我们的工程师正在为第一阶段施工进行最后的场地勘测。" },
+            { "kind": "video", "src": "/media/team-values-zh.mp4", "poster": "/media/team-poster.jpg", "caption": "驱动我们卓越运营的核心价值观。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "综合经验",
+          "items": [
+            { "label": "业务覆盖国家", "value": "50+" },
+            { "label": "管理的基建总投资", "value": "5亿美元+" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "与最优秀的人共事",
+          "copy": "我们一直在寻找优秀的工程师和管理人员加入我们在内罗毕及其他地区不断壮大的团队。",
+          "primary": { "label": "探索职业机会", "href": "/careers" },
+          "secondary": { "label": "联系投资者关系", "href": "/contact/investors" }
+        }
+      ]
+    },
+    {
+      "path": "/about/story",
+      "meta": {
+        "title": "我们的故事：从创意到 1MW AI 枢纽 | 项目起源",
+        "description": "一个简单的能源套利洞察如何演变成肯尼亚首屈一指的 AI 基础设施项目。创始人的历程。"
+      },
+      "hero": {
+        "headline": "通往“硅草原”的旅程",
+        "subheadline": "每个伟大的项目都始于一个简单的洞察。我们的洞察很简单：肯尼亚拥有能源，世界需要算力。",
+        "badge": "我们的故事",
+        "cta": [
+          { "label": "我们的愿景", "href": "/about/vision", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "识别全球计算鸿沟",
+          "body": "Kenya AI Compute 的故事始于 2024 年，当时我们正对全球能源危机及其对蓬勃发展的 AI 行业的影响进行深度分析。我们观察到一个根本性的错位：虽然发达国家正面临电力短缺，无法喂饱不断增长的 GPU 饥渴，但东非国家——尤其是肯尼亚——正坐拥大量未被充分利用的可再生和工业能源资源。“灵光一现”的时刻出现在我们意识到，与其向本地电网出售低利润的电力，不如建造高利润的数字出口引擎。我们花了前 18 个月的时间组建了一个由技术专家组成的世界级财团，锁定了肯尼亚完美的工业场地，并构建了一个既能保护全球资本又能赋能本地经济的交易结构。今天，我们正从愿景走向现实，建设未来全非 AI 骨干网的首个 1MW 枢纽。"
+        },
+        {
+          "type": "bullets",
+          "title": "故事里程碑",
+          "items": [
+            "2024 年理念诞生：发现 $0.04/kWh 的能源套利机会。",
+            "财团组建：招募全球前 1% 的数据中心和能源专家。",
+            "肯尼亚场地锁定：确保获得直接通电的多英亩工业用地。",
+            "SEZ 批准：使项目成功获得经济特区地位。",
+            "1MW 资本关闭：完成第一阶段和第二阶段的资本结构定案。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "故事画廊",
+          "items": [
+            { "kind": "image", "src": "/media/first-site-visit-photo.jpg", "alt": "2024 年创始人在现场", "caption": "一切开始的地方：我们对肯尼亚场地的首次勘测。" },
+            { "kind": "video", "src": "/media/founder-interview-story-zh.mp4", "poster": "/media/team-poster.jpg", "caption": "创始人讨论项目早期的挑战与胜利。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "我们的成长",
+          "items": [
+            { "label": "开发历时（月）", "value": "24" },
+            { "label": "项目规模增长", "value": "300kW 至 3MW" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "查看下一步计划",
+          "copy": "故事才刚刚开始。跟随我们的路线图，了解我们如何进入活跃扩展期。",
+          "primary": { "label": "查看路线图", "href": "/about/roadmap" },
+          "secondary": { "label": "我们的团队", "href": "/about/team" }
+        }
+      ]
+    },
+    {
+      "path": "/investors/financials/capex",
+      "meta": {
+        "title": "投资结构与资本支出 (CAPEX) | 项目预算",
+        "description": "2000万-2500万美元投资明细：硬件、基础设施和工程。为投资者提供透明的资本分配。"
+      },
+      "hero": {
+        "headline": "透明的资本支出，实打实的硬资产",
+        "subheadline": "投资于 Kenya AI Compute 的每一美元都由高性能硬件和物理基础设施资产作为支撑。",
+        "badge": "CAPEX 构成",
+        "cta": [
+          { "label": "索取详细预算", "href": "/investors/contact", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "高效的资本分配",
+          "body": "如此规模的项目需要极其严谨的资本支出（CAPEX）管理。我们对 1MW 阶段（第一和第二阶段合并）的总预算估计在 2000 万至 2500 万美元之间。我们将支出集中在能产生最高回报的地方：服务器硬件和直接能源集成。与花费大量资金在纪念碑式建筑上的“超大规模”项目不同，我们的模块化方法将施工成本控制在精简的 350 万至 450 万美元。资本的大部分——约 1400 万至 1800 万美元——分配给了我们的 GPU 和 CPU 混合服务器群。这确保了我们是一个“资产重”项目，资金被投入到了能产生收入的引擎本身。另有 200 万至 300 万美元预留给高速网络、安全系统以及应对新兴市场运营复杂性的应急基金。"
+        },
+        {
+          "type": "bullets",
+          "title": "预算明细 (1MW)",
+          "items": [
+            "计算硬件：1400万 - 1800万美元 (占比 60-70%) – GPU 与 CPU 节点。",
+            "设施与工程：350万 - 450万美元 – 模块化集装箱、电力及冷却系统。",
+            "网络与集成：200万 - 300万美元 – 100G/400G 交换机、光纤路径及 NOC 建设。",
+            "自备动力：已包含在与本地合作伙伴的合资结构中。",
+            "应急与物流：100万 - 200万美元 – 运输、清关及初期运营缓冲金。"
+          ]
+        },
+        {
+          "type": "media",
+          "title": "投资分布",
+          "items": [
+            { "kind": "image", "src": "/media/capex-donut-chart-zh.jpg", "alt": "CAPEX 分配图表", "caption": "您的资金去向：专注于计算硬件。" },
+            { "kind": "video", "src": "/media/capex-explainer-zh.mp4", "poster": "/media/financial-poster.jpg", "caption": "我们的首席财务官解释我们相比传统数据中心的精益建设模型。" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "资本效率",
+          "items": [
+            { "label": "预计总 CAPEX", "value": "$20M - $25M" },
+            { "label": "硬件/建筑成本比", "value": "4 : 1" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "查看收入预测",
+          "copy": "了解这些资本支出如何通过我们多元化的计算服务转化为每年 500万至 800万美元的收入。",
+          "primary": { "label": "收入模型", "href": "/investors/financials/revenue" },
+          "secondary": { "label": "风险分析", "href": "/investors/risks/analysis" }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "path": "/compute/depin/overview",
+  "meta": {
+    "title": "DePIN Infrastructure Hub | Decentralized AI Compute",
+    "description": "How we integrate with Render, Akash, io.net, and Gensyn. Building the most profitable DePIN hub in Africa."
+  },
+  "hero": {
+    "headline": "The Global Hub for DePIN Networks",
+    "subheadline": "We provide the physical backbone for decentralized infrastructure, converting low-cost energy into high-value token rewards.",
+    "badge": "DePIN Native",
+    "cta": [
+      {
+        "label": "How DePIN Works",
+        "href": "/news/blog/depin-africa-future",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Industrialization of DePIN",
+      "body": "DePIN (Decentralized Physical Infrastructure Networks) represents the most efficient way to scale a data center's business today. Instead of spending years building a global sales force, Kenya AI Compute plugs directly into established protocols like Render Network, Akash, and io.net. These networks provide a constant stream of global demand for our GPU and CPU hours. Our role is simple: provide the most reliable and cost-effective physical environment for these nodes. Because our energy costs are locked at $0.04/kWh, our nodes sit at the very top of the global profitability curve. While competitors in high-energy jurisdictions struggle with break-even points, our Kenyan facility generates consistent positive cash flow through token earnings and task fees, regardless of crypto market volatility. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and uni"
+    },
+    {
+      "type": "bullets",
+      "title": "Supported Networks",
+      "items": [
+        "Render: The primary provider for decentralized GPU rendering in East Africa.",
+        "Akash: Leading the market in decentralized CPU cloud hosting.",
+        "io.net: Massive GPU clusters for distributed AI training and inference.",
+        "Bittensor: Contributing to decentralized model development and validation.",
+        "Gensyn: Integrating with verifiable deep learning protocols for Phase 2."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "DePIN Ecosystem",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/depin-partnership-map.jpg",
+          "alt": "DePIN network logos",
+          "caption": "We are a certified infrastructure partner for the world's leading DePIN protocols."
+        },
+        {
+          "kind": "video",
+          "src": "/media/depin-economics-en.mp4",
+          "poster": "/media/depin-poster.jpg",
+          "caption": "The mathematics of DePIN profitability in the Kenyan market."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Network Yields",
+      "items": [
+        {
+          "label": "Target Utilization",
+          "value": "100% Guaranteed"
+        },
+        {
+          "label": "Energy Cost Basis",
+          "value": "$0.04/kWh"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Host Your Own Node",
+      "copy": "Institutional investors can colocate their own hardware and let our team manage the DePIN integration.",
+      "primary": {
+        "label": "Colocation Services",
+        "href": "/compute/depin/node-hosting"
+      },
+      "secondary": {
+        "label": "View Render Specs",
+        "href": "/compute/depin/render-network"
+      }
+    }
+  ]
+}

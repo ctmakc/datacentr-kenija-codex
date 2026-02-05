@@ -1,0 +1,82 @@
+{
+  "path": "/market/overview",
+  "meta": {
+    "title": "AI Infrastructure Market Insights | Global Trends 2026",
+    "description": "Why the AI supercycle and the energy crisis are converging. Kenya's role as the global compute arbitrage leader."
+  },
+  "hero": {
+    "headline": "Riding the AI Infrastructure Supercycle",
+    "subheadline": "The world is running out of high-density power. We are capturing the shift toward energy-rich, cost-effective jurisdictions like Kenya.",
+    "badge": "Market Intel",
+    "cta": [
+      {
+        "label": "Download Market Report",
+        "href": "/resources/whitepapers",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "A Geopolitical Shift in Computation",
+      "body": "For the last decade, AI computation was centralized in a few massive hubs in the US and Europe. That era is ending. The skyrocketing cost of electricity and grid saturation in these markets has created a 'Great Compute Migration.' High-density workloads (Training and Rendering) are moving to where energy is cheap, green, and abundant. Kenya AI Compute sits at the heart of this shift. We are not just building a local data center; we are building a global export engine for intelligence. As AI becomes embedded in every industry, the demand for 'industrialized computation' will continue to outstrip supply, ensuring that infrastructure assets with locked-in low energy costs—like ours—become the most valuable components of the global digital supply chain. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime,"
+    },
+    {
+      "type": "bullets",
+      "title": "Global Market Trends",
+      "items": [
+        "Energy Scarcity: Traditional tech hubs are denying new DC permits due to grid limits.",
+        "DePIN Proliferation: Decentralization is democratizing access to enterprise-grade compute.",
+        "ESG Mandates: Fortune 500 firms are seeking 'Green Compute' to meet Net Zero goals.",
+        "Edge AI: Demand for inference in emerging markets is growing 3x faster than in the West.",
+        "Hardware Constraints: GPU availability remains tight, making dedicated facilities more valuable."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Global Compute Demand",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/global-compute-gap.jpg",
+          "alt": "Chart: Supply vs Demand for GPU hours",
+          "caption": "The persistent gap between AI ambitions and physical infrastructure."
+        },
+        {
+          "kind": "video",
+          "src": "/media/market-trends-2026.mp4",
+          "poster": "/media/market-poster.jpg",
+          "caption": "Why the next decade of AI growth will be infrastructure-driven."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Market Pressure",
+      "items": [
+        {
+          "label": "Projected CAGR",
+          "value": "25%+"
+        },
+        {
+          "label": "Global Power Shortage",
+          "value": "Critical"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Explore the Opportunity",
+      "copy": "See how we position our 1MW facility to capture this massive global trend.",
+      "primary": {
+        "label": "Investment Thesis",
+        "href": "/investors/overview"
+      },
+      "secondary": {
+        "label": "Africa Market",
+        "href": "/market/africa/opportunity"
+      }
+    }
+  ]
+}

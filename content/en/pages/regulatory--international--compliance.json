@@ -1,0 +1,82 @@
+{
+  "path": "/regulatory/international/compliance",
+  "meta": {
+    "title": "International Compliance Standards | Global Data Security",
+    "description": "How Kenya AI Compute meets global standards like ISO 27001, SOC 2, and GDPR for international clients."
+  },
+  "hero": {
+    "headline": "Global Trust, Local Excellence",
+    "subheadline": "Our facility is designed to meet and exceed the world's most rigorous data security and operational compliance standards.",
+    "badge": "Global Compliance",
+    "cta": [
+      {
+        "label": "Security Specs",
+        "href": "/datacenter/architecture/security",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Meeting the Standards of Global Enterprise",
+      "body": "For an infrastructure project in Kenya to serve global AI clients, compliance is not optional. Kenya AI Compute is committed to a multi-year roadmap for international certifications. Our facility is designed following ISO 27001 (Information Security) and SOC 2 Type II principles from the ground up. We ensure that our operational procedures, physical access controls, and network management meet the standards expected by Fortune 500 companies and leading research institutions. Furthermore, we align with international environmental standards (ISO 14001) to validate our green energy and PUE claims. This commitment ensures that moving your compute to Kenya does not mean compromising on the corporate compliance required by your auditors and stakeholders. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confide"
+    },
+    {
+      "type": "bullets",
+      "title": "Compliance Roadmap",
+      "items": [
+        "ISO 27001: Implementing the world's leading standard for info-security management.",
+        "SOC 2 Type II: Regular auditing of our security, availability, and privacy controls.",
+        "GDPR Alignment: Adhering to the highest global standard for data protection.",
+        "Uptime Institute: Pursuing formal Tier II/III certification for Phase 2.",
+        "ISO 14001: Third-party verification of our sustainability and ESG metrics."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Certification Framework",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/compliance-standard-logos.jpg",
+          "alt": "ISO and SOC compliance logos",
+          "caption": "The standards we build and operate by."
+        },
+        {
+          "kind": "video",
+          "src": "/media/compliance-briefing.mp4",
+          "poster": "/media/regulatory-poster.jpg",
+          "caption": "How we manage international audits for our global clients."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Audit Frequency",
+      "items": [
+        {
+          "label": "External Audits",
+          "value": "Annual"
+        },
+        {
+          "label": "Internal Reviews",
+          "value": "Quarterly"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Request Compliance Docs",
+      "copy": "Access our internal policy documents and current compliance status in the Data Room.",
+      "primary": {
+        "label": "Data Room Access",
+        "href": "/resources/documents/request"
+      },
+      "secondary": {
+        "label": "Privacy Policy",
+        "href": "/legal/privacy-policy"
+      }
+    }
+  ]
+}

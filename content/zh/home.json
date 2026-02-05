@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "title": "Kenya AI Compute | 非洲AI算力平台",
+    "description": "依托自有电力与DePIN基础设施，提供高性价比GPU、CPU与存储算力。",
+    "ogImage": "/images/og/home.jpg"
+  },
+  "hero": {
+    "badge": "1MW AI算力 + 自建电力",
+    "headline": "为非洲AI未来供能",
+    "subheadline": "Kenya AI Compute 提供可扩展的GPU、CPU与存储算力，配套自有电力和DePIN就绪基础设施。",
+    "cta": [
+      { "label": "投资机会", "href": "/investors", "variant": "primary" },
+      { "label": "购买算力", "href": "/compute", "variant": "secondary" },
+      { "label": "加入网络", "href": "/partners", "variant": "ghost" }
+    ],
+    "metrics": [
+      { "label": "容量", "value": "1MW" },
+      { "label": "电力成本", "value": "$0.04/kWh" },
+      { "label": "可用性", "value": "99.9%" }
+    ]
+  },
+  "valueProps": {
+    "title": "为什么选择 Kenya AI Compute",
+    "subtitle": "面向AI工作负载的高效基础设施，聚焦能源效率、规模化与DePIN接入。",
+    "items": [
+      {
+        "title": "面向投资者",
+        "copy": "基础设施资产具备35-50% EBITDA潜力与可扩展阶段。"
+      },
+      {
+        "title": "面向AI企业",
+        "copy": "GPU算力价格比市场低40%，并提供企业级SLA。"
+      },
+      {
+        "title": "面向DePIN网络",
+        "copy": "绿色电力驱动的认证节点与全球连接能力。"
+      },
+      {
+        "title": "面向合作伙伴",
+        "copy": "与本地和全球伙伴共建非洲AI基础设施。"
+      }
+    ]
+  },
+  "overview": {
+    "title": "项目概览",
+    "bullets": [
+      "太阳能 + 备用发电的混合能源架构",
+      "300kW → 1MW → 3MW的扩展路线",
+      "运营商中立连接，接入海底光缆",
+      "DePIN就绪（Render、Akash、io.net等）"
+    ],
+    "map": {
+      "label": "肯尼亚",
+      "note": "东非AI与互联的重要枢纽。"
+    }
+  },
+  "media": {
+    "title": "视觉与媒体",
+    "items": [
+      {
+        "kind": "image",
+        "src": "/media/hero/datacenter-exterior.jpg",
+        "alt": "模块化数据中心外观",
+        "caption": "模块化数据中心概念渲染。",
+        "aspect": "16:9"
+      },
+      {
+        "kind": "video",
+        "src": "/media/hero/site-flyover.mp4",
+        "poster": "/media/hero/site-flyover-poster.jpg",
+        "caption": "场地概览与园区布局。",
+        "aspect": "16:9"
+      }
+    ]
+  },
+  "networks": {
+    "title": "支持的网络",
+    "subtitle": "为领先AI算力网络提供托管与认证。",
+    "items": [
+      { "name": "Render" },
+      { "name": "Akash" },
+      { "name": "io.net" },
+      { "name": "Gensyn" },
+      { "name": "Bittensor" }
+    ]
+  },
+  "updates": {
+    "title": "最新动态",
+    "items": [
+      {
+        "title": "一期可行性评估完成，能源伙伴进入短名单",
+        "date": "2026-02-01",
+        "href": "/news/updates/phase-1-feasibility"
+      },
+      {
+        "title": "300kW启动GPU供货协议洽谈中",
+        "date": "2026-01-20",
+        "href": "/news/updates/gpu-supply"
+      },
+      {
+        "title": "肯尼亚选址缩小至两个重点区域",
+        "date": "2026-01-05",
+        "href": "/news/updates/site-selection"
+      }
+    ]
+  },
+  "trust": {
+    "title": "合作与认可",
+    "items": [
+      { "name": "区域能源企业" },
+      { "name": "基础设施伙伴" },
+      { "name": "云集成商" },
+      { "name": "AI研究机构" }
+    ]
+  },
+  "cta": {
+    "title": "共建下一代AI基础设施",
+    "copy": "联系我们，了解投资、算力采购或合作机会。",
+    "primary": { "label": "索取投资材料", "href": "/contact/investors" },
+    "secondary": { "label": "联系销售", "href": "/contact/sales" }
+  }
+}

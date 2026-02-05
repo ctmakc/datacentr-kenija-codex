@@ -1,0 +1,82 @@
+{
+  "path": "/project/location/kenya",
+  "meta": {
+    "title": "Why Kenya? | The Strategic Advantage for AI",
+    "description": "Kenya is the Silicon Savannah. Discover the benefits of political stability, global connectivity, and renewable energy."
+  },
+  "hero": {
+    "headline": "Kenya: The Silicon Savannah of AI",
+    "subheadline": "Combining cheap renewable energy, top-tier global connectivity, and a pro-tech government, Kenya is the ultimate location for AI infrastructure.",
+    "badge": "Strategic Location",
+    "cta": [
+      {
+        "label": "View Site Details",
+        "href": "/project/location/site",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Tech Hub of East Africa",
+      "body": "Kenya was chosen as our primary location due to its unique position as Africa’s digital leader. The country boasts one of the most stable political environments in the region and a legal system based on English common law, providing strong protections for foreign investors. Beyond governance, Kenya is a telecommunications powerhouse; its coastline in Mombasa is the landing point for multiple undersea fiber optic cables (SEACOM, TEAMS, EASSy), ensuring low-latency connections to Europe, the Middle East, and Asia. Furthermore, Kenya is a global leader in renewable energy, with over 90% of its electricity coming from green sources. Our project leverages this abundance to provide sustainable AI computing that meets the ESG requirements of global corporations while maintaining an unbeatable price point. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economi"
+    },
+    {
+      "type": "bullets",
+      "title": "Location Benefits",
+      "items": [
+        "Connectivity: Direct access to 4+ international undersea cables for global low-latency.",
+        "Energy: World-leading geothermal and solar capacity for green computations.",
+        "Incentives: Special Economic Zone (SEZ) status offers tax holidays and duty exemptions.",
+        "Talent: Access to a large pool of young, tech-savvy, English-speaking engineers.",
+        "Stability: The most mature business ecosystem in East Africa with transparent investment laws."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Kenya Connectivity",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/kenya-cable-map.jpg",
+          "alt": "Undersea Cable Map",
+          "caption": "How Kenya connects Africa to the global internet backbone."
+        },
+        {
+          "kind": "video",
+          "src": "/media/kenya-tech-vlog.mp4",
+          "poster": "/media/kenya-poster.jpg",
+          "caption": "Inside the thriving tech ecosystem of Nairobi."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Regional Context",
+      "items": [
+        {
+          "label": "Internet Penetration",
+          "value": "Top 5 in Africa"
+        },
+        {
+          "label": "Renewable Energy Share",
+          "value": "90%+"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Explore the Site",
+      "copy": "Learn more about the specific land parcel and construction plans for our modular facility.",
+      "primary": {
+        "label": "Site Information",
+        "href": "/project/location/site"
+      },
+      "secondary": {
+        "label": "Regulatory Info",
+        "href": "/regulatory/kenya"
+      }
+    }
+  ]
+}

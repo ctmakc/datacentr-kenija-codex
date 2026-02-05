@@ -1,0 +1,82 @@
+{
+  "path": "/compute/depin/render-network",
+  "meta": {
+    "title": "Render Network Node Hosting | Kenya AI Compute",
+    "description": "Profit from decentralized rendering. High-yield Render Network nodes hosted in our efficient facility."
+  },
+  "hero": {
+    "headline": "Maximize Render Network Yields",
+    "subheadline": "Host your GPU nodes in our low-OPEX facility and keep more of your RNDR earnings. The ultimate location for DePIN node operators.",
+    "badge": "Render Partner",
+    "cta": [
+      {
+        "label": "View Node Earnings",
+        "href": "/compute/depin/tokenomics",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Economical Choice for DePIN Operators",
+      "body": "Profitability in the Render Network is a function of two variables: task revenue and operational cost. While hardware costs are fixed, the price you pay for energy and cooling determines your take-home profit. By hosting nodes at Kenya AI Compute, you benefit from our $0.04/kWh energy rate and professional Tier II+ infrastructure. We manage the hardware, the high-speed connectivity, and the 24/7 uptime, while you collect the rewards. Our Render-optimized racks are designed for maximum thermal stability, ensuring that your GPUs run at peak performance without thermal throttling during intense 3D rendering jobs. This is the industrialization of DePIN—moving from home-based setups to professional-grade infrastructure in the world's most energy-efficient jurisdiction. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit econom"
+    },
+    {
+      "type": "bullets",
+      "title": "Our Render Node Advantage",
+      "items": [
+        "Low OPEX: Energy costs that are up to 70% lower than US/EU residential rates.",
+        "High Connectivity: 100G backbone ensures fast scene upload/download for higher task completion.",
+        "Managed Service: We handle cleaning, maintenance, and hardware swaps.",
+        "Certified Infrastructure: Our nodes receive higher reputation scores due to 99.9% uptime.",
+        "Scalability: Easily expand from 1 to 100+ nodes within our secure modules."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Rendering Performance",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/render-node-monitor.jpg",
+          "alt": "Render Network Dashboard",
+          "caption": "Monitoring node health and RNDR earnings in real-time."
+        },
+        {
+          "kind": "video",
+          "src": "/media/render-workflow-en.mp4",
+          "poster": "/media/depin-poster.jpg",
+          "caption": "How our facility processes Render Network tasks with zero delay."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Node Profitability",
+      "items": [
+        {
+          "label": "Avg. Energy Savings",
+          "value": "60%+"
+        },
+        {
+          "label": "Target Node Reputation",
+          "value": "Tier 1"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Start Hosting Today",
+      "copy": "Reserve your rack space or purchase a managed node package for the Render Network.",
+      "primary": {
+        "label": "Node Hosting Plans",
+        "href": "/compute/depin/node-hosting"
+      },
+      "secondary": {
+        "label": "Akash Network",
+        "href": "/compute/depin/akash-network"
+      }
+    }
+  ]
+}

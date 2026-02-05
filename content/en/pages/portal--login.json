@@ -1,0 +1,82 @@
+{
+  "path": "/portal/login",
+  "meta": {
+    "title": "Portal Login | Secure Member Access",
+    "description": "Log in to the Kenya AI Compute portal. Manage your assets, view financial reports, or monitor your compute clusters."
+  },
+  "hero": {
+    "headline": "Manage Your AI Assets",
+    "subheadline": "Secure access for our investors, partners, and customers. Your command center for real-time monitoring and reporting.",
+    "badge": "Member Portal",
+    "cta": [
+      {
+        "label": "Create Account",
+        "href": "/portal/register",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Safe and Centralized Control",
+      "body": "The Kenya AI Compute Portal is your central hub for managing all aspects of your relationship with our project. We utilize multi-factor authentication (MFA) and encrypted session management to ensure that your sensitive financial and technical data remains protected. Once logged in, investors can access their quarterly distribution reports, construction timelines, and Data Room documents. Compute customers can manage their GPU/CPU instances, monitor real-time energy usage (PUE), and handle their billing and support tickets. For our DePIN partners, the portal provides a dashboard to track node performance and token earnings. We are committed to radical transparency, and this portal is the primary tool we use to deliver that promise to every member of our ecosystem. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: the project follows a clea"
+    },
+    {
+      "type": "bullets",
+      "title": "Portal Modules",
+      "items": [
+        "Investor Room: Real-time CAPEX tracking and financial statements.",
+        "Console: Direct management of virtualized and bare-metal resources.",
+        "DePIN Hub: Performance metrics for Render, Akash, and io.net nodes.",
+        "Documents: Access to SHA, PPA, and Technical Project designs.",
+        "Support: Integrated ticketing system for technical assistance."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Portal Interface",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/portal-dashboard-preview-en.jpg",
+          "alt": "Portal Dashboard Preview",
+          "caption": "An intuitive, data-rich interface for all project participants."
+        },
+        {
+          "kind": "video",
+          "src": "/media/portal-security-en.mp4",
+          "poster": "/media/portal-poster.jpg",
+          "caption": "How we secure your data within our proprietary management system."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Portal Health",
+      "items": [
+        {
+          "label": "System Uptime",
+          "value": "99.99%"
+        },
+        {
+          "label": "Security Protocol",
+          "value": "2FA / AES-256"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "New to the Project?",
+      "copy": "Registration is open for verified partners and interested investors. Start your application today.",
+      "primary": {
+        "label": "Register Now",
+        "href": "/portal/register"
+      },
+      "secondary": {
+        "label": "Forgot Password?",
+        "href": "/portal/forgot-password"
+      }
+    }
+  ]
+}

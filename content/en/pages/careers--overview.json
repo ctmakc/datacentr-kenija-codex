@@ -1,0 +1,82 @@
+{
+  "path": "/careers/overview",
+  "meta": {
+    "title": "Careers at Kenya AI Compute | Join the AI Revolution",
+    "description": "Build the future of digital infrastructure. Open roles for engineers, analysts, and project managers in Kenya and abroad."
+  },
+  "hero": {
+    "headline": "Architecting the Future of African AI",
+    "subheadline": "We are looking for bold thinkers and expert doers to help us build and operate the continent's most efficient AI compute facility.",
+    "badge": "Work With Us",
+    "cta": [
+      {
+        "label": "Open Positions",
+        "href": "/careers/positions",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Join a Mission-Driven Team",
+      "body": "At Kenya AI Compute, you won't just be maintaining servers; you'll be building the foundation for an entire continent's digital future. Our team is a unique blend of international expertise and local talent, united by the goal of democratizing access to high-performance computing. We offer a high-growth environment where technical excellence and innovative problem-solving are rewarded. Whether you are a data center engineer specializing in high-density cooling or a financial analyst with a passion for DePIN tokenomics, we provide a platform for you to do your best work and leave a lasting impact on the global AI landscape. We value diversity, radical transparency, and the courage to challenge the status quo of the infrastructure industry. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional conte"
+    },
+    {
+      "type": "bullets",
+      "title": "Why Work Here?",
+      "items": [
+        "Impact: Build infrastructure that powers the world's most advanced AI models.",
+        "Equity: Opportunity to participate in an ESOP for key technical and management roles.",
+        "Flexibility: Remote-friendly roles combined with a cutting-edge hub in Nairobi.",
+        "Growth: Fast-tracked career progression as we scale from 1MW to 3MW+.",
+        "Innovation: Work at the cutting edge of DePIN, Green Energy, and HPC."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Our Team Culture",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/team-collab.jpg",
+          "alt": "Team collaborating in office",
+          "caption": "Innovation thrives in our multidisciplinary environment."
+        },
+        {
+          "kind": "video",
+          "src": "/media/employee-stories-en.mp4",
+          "poster": "/media/career-poster.jpg",
+          "caption": "Hear from our engineers about why they joined Kenya AI Compute."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Team Stats",
+      "items": [
+        {
+          "label": "Countries Represented",
+          "value": "12+"
+        },
+        {
+          "label": "Engineering Focus",
+          "value": "70% of Staff"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Don't See Your Role?",
+      "copy": "We are always looking for exceptional talent. Submit a general application and we'll reach out when we have a match.",
+      "primary": {
+        "label": "General Application",
+        "href": "/careers/apply"
+      },
+      "secondary": {
+        "label": "Learn About Culture",
+        "href": "/careers/culture"
+      }
+    }
+  ]
+}

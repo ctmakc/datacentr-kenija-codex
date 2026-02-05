@@ -1,0 +1,82 @@
+{
+  "path": "/about/roadmap",
+  "meta": {
+    "title": "Project Roadmap | 300kW to 3MW Milestones",
+    "description": "Follow our phased development plan: from Phase 1 construction in 2025 to Phase 3 pan-African scaling."
+  },
+  "hero": {
+    "headline": "A Clear Path to 3MW Capacity",
+    "subheadline": "We follow a de-risked, phased approach that allows for immediate revenue generation while scaling to meet global demand.",
+    "badge": "Project Timeline",
+    "cta": [
+      {
+        "label": "View Phase 1 Details",
+        "href": "/project/phases/phase-1",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Phased Scaling for Maximum Stability",
+      "body": "Our roadmap is designed to minimize risk and maximize early ROI. We begin with Phase 1, a 300kW IT load cluster that serves as our proof of concept for local operations and DePIN integration. By using modular containerized units, we can go from ground-breaking to full operation within 9-12 months. Phase 2 scales this success to 1MW, reaching our target EBITDA of 35-50% through improved operational efficiency and larger-scale GPU clusters. Finally, Phase 3 takes us beyond the 3MW mark, where we transition into permanent structures and explore replication across other energy-rich regions in East Africa. This methodical progression ensures that we learn from each phase, optimizing our PUE and hardware mix as the AI market evolves. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confide"
+    },
+    {
+      "type": "bullets",
+      "title": "Key Milestones",
+      "items": [
+        "2024: Feasibility studies, site selection, and initial technical design completed.",
+        "2025: Ground-breaking and completion of Phase 1 (300kW) with immediate DePIN onboarding.",
+        "2026: Expansion to Phase 2 (1MW), achieving full operational profitability.",
+        "2027: Planning and infrastructure preparation for Phase 3 (3MW+).",
+        "2028+: Replication of the model in neighboring East African jurisdictions."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Timeline Visualization",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/roadmap-infographic-en.jpg",
+          "alt": "Project Roadmap 2024-2028",
+          "caption": "The journey from 300kW pilot to 3MW infrastructure hub."
+        },
+        {
+          "kind": "video",
+          "src": "/media/roadmap-explained.mp4",
+          "poster": "/media/roadmap-poster.jpg",
+          "caption": "How we manage construction and scaling timelines in the Kenyan market."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Execution Speed",
+      "items": [
+        {
+          "label": "Time to First Revenue",
+          "value": "9-12 Months"
+        },
+        {
+          "label": "Current Status",
+          "value": "Planning & Pre-sale"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Track Our Progress",
+      "copy": "Subscribe to our investor newsletter to get monthly updates on our construction and partnership milestones.",
+      "primary": {
+        "label": "Subscribe Now",
+        "href": "/news"
+      },
+      "secondary": {
+        "label": "View Financials",
+        "href": "/investors/financials/model"
+      }
+    }
+  ]
+}
