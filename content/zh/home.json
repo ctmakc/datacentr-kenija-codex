@@ -59,14 +59,14 @@
     "items": [
       {
         "kind": "image",
-        "src": "/media/hero/datacenter-exterior.jpg",
+        "src": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80",
         "alt": "模块化数据中心外观",
         "caption": "模块化数据中心概念渲染。",
         "aspect": "16:9"
       },
       {
-        "kind": "video",
-        "src": "/media/hero/site-flyover.mp4",
+        "kind": "image",
+        "src": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1600&q=80",
         "poster": "/media/hero/site-flyover-poster.jpg",
         "caption": "场地概览与园区布局。",
         "aspect": "16:9"

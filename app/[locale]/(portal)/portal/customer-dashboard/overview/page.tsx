@@ -1,14 +1,27 @@
-import { PageShell } from "@/components/layout/PageShell";
+import { PortalWorkspace } from "@/components/portal/PortalWorkspace";
 
-export default function Page() {
+export default function Page({ params }: { params: { locale: string } }) {
+  const locale = params.locale;
   return (
-    <PageShell title="Customer Overview" subtitle="Services and usage metrics.">
-      <div className="rounded-lg border border-gray-100 bg-white p-4 text-sm text-gray-600">
-        <p>
-          Content for Customer Overview will live here. This page is a structured placeholder based on the technical
-          specification and is ready for content and components.
-        </p>
-      </div>
-    </PageShell>
+    <PortalWorkspace
+      title="Customer Overview"
+      subtitle="Services and usage metrics."
+      summary="Operational cockpit for active compute tenants. Monitor service health, billing state, and support progress from a single customer-facing control panel."
+      metrics={[
+        { label: "Active Services", value: "6" },
+        { label: "Uptime (30d)", value: "99.96%" },
+        { label: "Open Tickets", value: "2" }
+      ]}
+      primaryActions={[
+        { label: "Services", href: `/${locale}/portal/customer-dashboard/services` },
+        { label: "Billing", href: `/${locale}/portal/customer-dashboard/billing` },
+        { label: "Support", href: `/${locale}/portal/customer-dashboard/support` }
+      ]}
+      checklist={[
+        "Check service utilization against reserved capacity.",
+        "Review latest invoice and payment status.",
+        "Verify all support tickets have owners and ETAs."
+      ]}
+    />
   );
 }

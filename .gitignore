@@ -11,3 +11,11 @@ yarn-error.log*
 .DS_Store
 dev.out.log
 dev.err.log
+dev-*.out.log
+dev-*.err.log
+start-live.out.log
+start-live.err.log
+start-*.out.log
+start-*.err.log
+.next-dev
+.next-dev-*

@@ -1,10 +1,20 @@
 import { redirect } from "next/navigation";
 import { clearAdminSession, getAdminTokenConfigured, isAdminAuthenticated, setAdminSession } from "@/lib/admin-auth";
 import { PageShell } from "@/components/layout/PageShell";
+import { AdminNav } from "@/components/admin/AdminNav";
 
-export default function AdminLoginPage({ params }: { params: { locale: string } }) {
+export default function AdminLoginPage({
+  params,
+  searchParams
+}: {
+  params: { locale: string };
+  searchParams?: { error?: string };
+}) {
+  const locale = params.locale;
+  const hasError = searchParams?.error === "invalid_token";
+
   if (isAdminAuthenticated()) {
-    redirect(`/${params.locale}/portal/admin`);
+    redirect(`/${locale}/portal/admin`);
   }
 
   async function loginAction(formData: FormData) {
@@ -12,23 +22,31 @@ export default function AdminLoginPage({ params }: { params: { locale: string } 
     const token = String(formData.get("token") ?? "");
     const expected = process.env.ADMIN_TOKEN ?? "";
     if (!expected || token !== expected) {
-      redirect(`/${params.locale}/portal/admin/login?error=invalid_token`);
+      redirect(`/${locale}/portal/admin/login?error=invalid_token`);
     }
     setAdminSession(token);
-    redirect(`/${params.locale}/portal/admin`);
+    redirect(`/${locale}/portal/admin`);
   }
 
   async function resetAction() {
     "use server";
     clearAdminSession();
-    redirect(`/${params.locale}/portal/admin/login`);
+    redirect(`/${locale}/portal/admin/login`);
   }
 
   const configured = getAdminTokenConfigured();
 
   return (
     <PageShell title="Admin Login" subtitle="Token-based access for admin operations.">
+      <div className="mb-4 max-w-2xl">
+        <AdminNav locale={locale} />
+      </div>
       <div className="max-w-md rounded-lg border border-gray-100 bg-white p-4">
+        {hasError && (
+          <p className="mb-4 rounded-md border border-rose-200 bg-rose-50 px-3 py-2 text-sm text-rose-700">
+            Invalid token. Check `ADMIN_TOKEN` and try again.
+          </p>
+        )}
         {!configured && (
           <p className="mb-4 rounded-md border border-amber-200 bg-amber-50 px-3 py-2 text-sm text-amber-800">
             `ADMIN_TOKEN` is not configured. Set it in environment variables to enable admin access.

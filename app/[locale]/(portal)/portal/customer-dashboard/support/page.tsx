@@ -1,14 +1,28 @@
-import { PageShell } from "@/components/layout/PageShell";
+import { PortalWorkspace } from "@/components/portal/PortalWorkspace";
 
-export default function Page() {
+export default function Page({ params }: { params: { locale: string } }) {
+  const locale = params.locale;
+
   return (
-    <PageShell title="Customer Support" subtitle="Tickets and knowledge base.">
-      <div className="rounded-lg border border-gray-100 bg-white p-4 text-sm text-gray-600">
-        <p>
-          Content for Customer Support will live here. This page is a structured placeholder based on the technical
-          specification and is ready for content and components.
-        </p>
-      </div>
-    </PageShell>
+    <PortalWorkspace
+      title="Customer Support"
+      subtitle="Tickets and knowledge base."
+      summary="Support operations hub for incidents, requests, and SLA follow-up with direct links to service context."
+      metrics={[
+        { label: "Open Tickets", value: "2" },
+        { label: "Critical", value: "0" },
+        { label: "Avg Resolution", value: "7h" }
+      ]}
+      primaryActions={[
+        { label: "Customer Overview", href: `/${locale}/portal/customer-dashboard/overview` },
+        { label: "Customer Services", href: `/${locale}/portal/customer-dashboard/services` },
+        { label: "Account Settings", href: `/${locale}/portal/customer-dashboard/settings` }
+      ]}
+      checklist={[
+        "Prioritize tickets by severity and SLA.",
+        "Attach diagnostics before escalation.",
+        "Close resolved tickets with summary notes."
+      ]}
+    />
   );
 }

@@ -1,14 +1,28 @@
-import { PageShell } from "@/components/layout/PageShell";
+import { PortalWorkspace } from "@/components/portal/PortalWorkspace";
 
-export default function Page() {
+export default function Page({ params }: { params: { locale: string } }) {
+  const locale = params.locale;
+
   return (
-    <PageShell title="Partner Documents" subtitle="Technical specs and templates.">
-      <div className="rounded-lg border border-gray-100 bg-white p-4 text-sm text-gray-600">
-        <p>
-          Content for Partner Documents will live here. This page is a structured placeholder based on the technical
-          specification and is ready for content and components.
-        </p>
-      </div>
-    </PageShell>
+    <PortalWorkspace
+      title="Partner Documents"
+      subtitle="Technical specs and templates."
+      summary="Repository of contracts, specifications, and templates needed by technical and operations partners."
+      metrics={[
+        { label: "Files", value: "48" },
+        { label: "Pending Signoff", value: "3" },
+        { label: "Last Upload", value: "2h ago" }
+      ]}
+      primaryActions={[
+        { label: "Project Workspace", href: `/${locale}/portal/partner-area/project` },
+        { label: "Communication", href: `/${locale}/portal/partner-area/communication` },
+        { label: "Admin Content", href: `/${locale}/portal/admin/content` }
+      ]}
+      checklist={[
+        "Verify version tags for all latest files.",
+        "Archive outdated drafts.",
+        "Share links to active execution teams."
+      ]}
+    />
   );
 }

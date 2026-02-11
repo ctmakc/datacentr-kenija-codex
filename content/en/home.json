@@ -59,15 +59,15 @@
     "items": [
       {
         "kind": "image",
-        "src": "/media/hero/datacenter-exterior.jpg",
-        "alt": "Modular datacenter exterior",
-        "caption": "Modular datacenter concept rendering.",
+        "src": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Datacenter exterior",
+        "caption": "Datacenter concept exterior.",
         "aspect": "16:9"
       },
       {
-        "kind": "video",
-        "src": "/media/hero/site-flyover.mp4",
-        "poster": "/media/hero/site-flyover-poster.jpg",
+        "kind": "image",
+        "src": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Site and operations overview",
         "caption": "Site flyover and campus layout.",
         "aspect": "16:9"
       }

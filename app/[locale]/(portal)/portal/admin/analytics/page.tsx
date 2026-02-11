@@ -1,5 +1,6 @@
 import { redirect } from "next/navigation";
 import { PageShell } from "@/components/layout/PageShell";
+import { AdminNav } from "@/components/admin/AdminNav";
 import { isAdminAuthenticated } from "@/lib/admin-auth";
 import { getAdminAnalyticsSnapshot } from "@/lib/admin-analytics";
 
@@ -12,6 +13,7 @@ export default async function AdminAnalyticsPage({ params }: { params: { locale:
 
   return (
     <PageShell title="Admin: Analytics (MVP)" subtitle="Initial operational metrics for content workflows.">
+      <AdminNav locale={params.locale} />
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
         <div className="rounded-lg border border-gray-100 bg-white p-4">
           <p className="text-xs uppercase text-gray-400">Processed batches</p>

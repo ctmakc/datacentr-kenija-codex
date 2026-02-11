@@ -4,6 +4,7 @@ import { execFile } from "node:child_process";
 import { promisify } from "node:util";
 import { redirect } from "next/navigation";
 import { PageShell } from "@/components/layout/PageShell";
+import { AdminNav } from "@/components/admin/AdminNav";
 import { ContentEditor } from "@/components/admin/ContentEditor";
 import { ContentIngestPanel } from "@/components/admin/ContentIngestPanel";
 import { isAdminAuthenticated } from "@/lib/admin-auth";
@@ -135,6 +136,7 @@ export default async function AdminContentPage({ params }: { params: { locale: s
 
   return (
     <PageShell title="Admin: Content" subtitle="Ingest batches, validate content, and edit page JSON.">
+      <AdminNav locale={params.locale} />
       <div className="space-y-8">
         <section className="space-y-3">
           <h2 className="text-lg font-semibold text-gray-900">Ingest</h2>
@@ -151,7 +153,7 @@ export default async function AdminContentPage({ params }: { params: { locale: s
           <p className="text-sm text-gray-500">
             Edit JSON directly for now. WYSIWYG can be layered later without changing the storage format.
           </p>
-          <ContentEditor pageFiles={pageFiles} loadPage={loadPage} savePage={savePage} />
+          <ContentEditor locale={params.locale} pageFiles={pageFiles} loadPage={loadPage} savePage={savePage} />
         </section>
       </div>
     </PageShell>

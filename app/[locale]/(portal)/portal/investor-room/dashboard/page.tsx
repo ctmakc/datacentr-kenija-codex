@@ -1,14 +1,27 @@
-import { PageShell } from "@/components/layout/PageShell";
+import { PortalWorkspace } from "@/components/portal/PortalWorkspace";
 
-export default function Page() {
+export default function Page({ params }: { params: { locale: string } }) {
+  const locale = params.locale;
   return (
-    <PageShell title="Investor Dashboard" subtitle="Portfolio status and key metrics.">
-      <div className="rounded-lg border border-gray-100 bg-white p-4 text-sm text-gray-600">
-        <p>
-          Content for Investor Dashboard will live here. This page is a structured placeholder based on the technical
-          specification and is ready for content and components.
-        </p>
-      </div>
-    </PageShell>
+    <PortalWorkspace
+      title="Investor Dashboard"
+      subtitle="Portfolio status and key metrics."
+      summary="This room consolidates milestones, capex usage, and risk indicators so investors can evaluate execution velocity and capital efficiency in one place."
+      metrics={[
+        { label: "Runway", value: "22 months" },
+        { label: "Target IRR", value: "31%" },
+        { label: "Mile­stones", value: "7 / 9" }
+      ]}
+      primaryActions={[
+        { label: "Financial Model", href: `/${locale}/portal/investor-room/financials` },
+        { label: "Data Room", href: `/${locale}/portal/investor-room/documents` },
+        { label: "Latest Updates", href: `/${locale}/portal/investor-room/updates` }
+      ]}
+      checklist={[
+        "Review monthly KPI delta versus base-case model.",
+        "Validate risk mitigation status for current quarter.",
+        "Prepare questions for next governance call."
+      ]}
+    />
   );
 }

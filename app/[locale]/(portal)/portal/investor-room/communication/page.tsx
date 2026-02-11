@@ -1,14 +1,28 @@
-import { PageShell } from "@/components/layout/PageShell";
+import { PortalWorkspace } from "@/components/portal/PortalWorkspace";
 
-export default function Page() {
+export default function Page({ params }: { params: { locale: string } }) {
+  const locale = params.locale;
+
   return (
-    <PageShell title="Investor Communication" subtitle="Message center and Q&A.">
-      <div className="rounded-lg border border-gray-100 bg-white p-4 text-sm text-gray-600">
-        <p>
-          Content for Investor Communication will live here. This page is a structured placeholder based on the technical
-          specification and is ready for content and components.
-        </p>
-      </div>
-    </PageShell>
+    <PortalWorkspace
+      title="Investor Communication"
+      subtitle="Message center and Q&A."
+      summary="Governance and investor Q&A stream with responses, due dates, and accountability ownership."
+      metrics={[
+        { label: "Open Questions", value: "6" },
+        { label: "Due Today", value: "2" },
+        { label: "Avg Reply", value: "11h" }
+      ]}
+      primaryActions={[
+        { label: "Investor Dashboard", href: `/${locale}/portal/investor-room/dashboard` },
+        { label: "Investor Updates", href: `/${locale}/portal/investor-room/updates` },
+        { label: "Investor Documents", href: `/${locale}/portal/investor-room/documents` }
+      ]}
+      checklist={[
+        "Close all overdue investor questions.",
+        "Update governance summary note.",
+        "Assign owners for new requests."
+      ]}
+    />
   );
 }

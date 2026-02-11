@@ -1,6 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 "use client";
 
+import Link from "next/link";
 import { useEffect, useMemo, useState, useTransition } from "react";
 
 type PageEntry = {
@@ -15,17 +16,26 @@ type PageData = {
 };
 
 type ContentEditorProps = {
+  locale: string;
   pageFiles: PageEntry[];
   defaultFile?: string;
   loadPage: (file: string) => Promise<string>;
   savePage: (file: string, raw: string) => Promise<{ ok: boolean; message: string }>;
 };
 
-export function ContentEditor({ pageFiles, defaultFile, loadPage, savePage }: ContentEditorProps) {
+export function ContentEditor({ locale, pageFiles, defaultFile, loadPage, savePage }: ContentEditorProps) {
   const [selected, setSelected] = useState(defaultFile ?? pageFiles[0]?.file ?? "");
   const [raw, setRaw] = useState("");
+  const [query, setQuery] = useState("");
   const [message, setMessage] = useState("");
   const [isPending, startTransition] = useTransition();
+
+  const selectedEntry = useMemo(() => pageFiles.find((entry) => entry.file === selected), [pageFiles, selected]);
+  const filteredPageFiles = useMemo(() => {
+    const normalized = query.trim().toLowerCase();
+    if (!normalized) return pageFiles;
+    return pageFiles.filter((entry) => entry.path.toLowerCase().includes(normalized) || entry.file.toLowerCase().includes(normalized));
+  }, [pageFiles, query]);
 
   const parsed = useMemo(() => {
     if (!raw) return null;
@@ -52,6 +62,17 @@ export function ContentEditor({ pageFiles, defaultFile, loadPage, savePage }: Co
     });
   };
 
+  const handleFormat = () => {
+    if (!raw.trim()) return;
+    try {
+      const formatted = JSON.stringify(JSON.parse(raw), null, 2);
+      setRaw(`${formatted}\n`);
+      setMessage("Formatted JSON.");
+    } catch {
+      setMessage("Cannot format: JSON is invalid.");
+    }
+  };
+
   useEffect(() => {
     if (selected && !raw) {
       handleLoad(selected);
@@ -63,8 +84,15 @@ export function ContentEditor({ pageFiles, defaultFile, loadPage, savePage }: Co
     <div className="grid gap-6 lg:grid-cols-[260px_1fr]">
       <div className="rounded-lg border border-gray-100 bg-white p-4">
         <p className="text-xs uppercase text-gray-400">Pages</p>
+        <input
+          type="text"
+          value={query}
+          onChange={(event) => setQuery(event.target.value)}
+          placeholder="Search path or file..."
+          className="mt-3 w-full rounded-md border border-gray-200 px-3 py-2 text-sm text-gray-700"
+        />
         <div className="mt-3 space-y-2 text-sm">
-          {pageFiles.map((entry) => (
+          {filteredPageFiles.map((entry) => (
             <button
               key={entry.file}
               type="button"
@@ -80,6 +108,7 @@ export function ContentEditor({ pageFiles, defaultFile, loadPage, savePage }: Co
               <span className="block text-xs opacity-70">{entry.file}</span>
             </button>
           ))}
+          {filteredPageFiles.length === 0 && <p className="rounded-md border border-gray-100 px-3 py-2 text-xs text-gray-500">No pages found.</p>}
         </div>
       </div>
 
@@ -94,6 +123,24 @@ export function ContentEditor({ pageFiles, defaultFile, loadPage, savePage }: Co
             >
               Save JSON
             </button>
+            <button
+              type="button"
+              onClick={handleFormat}
+              className="rounded-md border border-gray-200 px-4 py-2 text-sm font-semibold text-gray-700 hover:border-gray-300"
+              disabled={isPending || !selected}
+            >
+              Format JSON
+            </button>
+            {selectedEntry && (
+              <Link
+                href={`/${locale}${selectedEntry.path === "/" ? "" : selectedEntry.path}`}
+                target="_blank"
+                rel="noreferrer"
+                className="rounded-md border border-gray-200 px-4 py-2 text-sm font-semibold text-gray-700 hover:border-gray-300"
+              >
+                Open Public Page
+              </Link>
+            )}
             <span className="text-xs text-gray-500">{selected || "No file selected"}</span>
             {message && <span className="text-xs text-emerald-600">{message}</span>}
           </div>
