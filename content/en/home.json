@@ -59,14 +59,14 @@
     "items": [
       {
         "kind": "image",
-        "src": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80",
+        "src": "/media/datacenter-exterior.jpg",
         "alt": "Datacenter exterior",
         "caption": "Datacenter concept exterior.",
         "aspect": "16:9"
       },
       {
         "kind": "image",
-        "src": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1600&q=80",
+        "src": "/media/site-campus-aerial.jpg",
         "alt": "Site and operations overview",
         "caption": "Site flyover and campus layout.",
         "aspect": "16:9"
