@@ -1,0 +1,82 @@
+{
+  "path": "/legal/terms-of-service",
+  "meta": {
+    "title": "Terms of Service | Kenya AI Compute Platform",
+    "description": "The legal agreement governing the use of our compute services, portal, and API. Clear and fair terms for all participants."
+  },
+  "hero": {
+    "headline": "A Fair and Transparent Agreement",
+    "subheadline": "We have designed our terms to protect both our infrastructure and your digital rights, ensuring a stable environment for all.",
+    "badge": "Legal Agreement",
+    "cta": [
+      {
+        "label": "Privacy Policy",
+        "href": "/legal/privacy-policy",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Rules of the Hub",
+      "body": "These Terms of Service govern your access to and use of the Kenya AI Compute platform, including our cloud console, API, and physical colocation services. We believe that professional infrastructure requires professional legal clarity. Our terms outline the responsibilities of both parties: our commitment to providing 99.9% uptime and industrial-grade security, and your commitment to using our resources for lawful and ethical purposes. We explicitly prohibit the use of our compute power for malicious activities, but we also ensure that your right to privacy and ownership of your 'compute results' is absolute. These terms are subject to the laws of Kenya, with provisions for international arbitration, providing a secure legal foundation for our global client base. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and un"
+    },
+    {
+      "type": "bullets",
+      "title": "Key Terms Summary",
+      "items": [
+        "Acceptable Use: Clear guidelines on permitted compute activities (AI, Rendering, HPC).",
+        "Uptime SLA: Compensation protocols in the unlikely event of service interruptions.",
+        "Billing & Refunds: Transparent policies for On-Demand, Reserved, and DePIN credits.",
+        "Liability: Clearly defined boundaries for hardware and software responsibilities.",
+        "Termination: Fair procedures for account closure and data retrieval."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Legal Transparency",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/legal-compliance-seal.jpg",
+          "alt": "Legal compliance certification",
+          "caption": "Our terms meet international standards for IT infrastructure services."
+        },
+        {
+          "kind": "video",
+          "src": "/media/legal-framework-explainer.mp4",
+          "poster": "/media/regulatory-poster.jpg",
+          "caption": "How our legal structure protects international business interests in Kenya."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Governance",
+      "items": [
+        {
+          "label": "Jurisdiction",
+          "value": "Kenya / International"
+        },
+        {
+          "label": "Last Updated",
+          "value": "January 2026"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Have a Legal Question?",
+      "copy": "Our legal department is happy to clarify any specific clauses for your corporate counsel.",
+      "primary": {
+        "label": "Contact Legal",
+        "href": "/contact/general"
+      },
+      "secondary": {
+        "label": "Data Protection",
+        "href": "/regulatory/kenya/data-protection"
+      }
+    }
+  ]
+}

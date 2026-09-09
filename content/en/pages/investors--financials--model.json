@@ -1,0 +1,82 @@
+{
+  "path": "/investors/financials/model",
+  "meta": {
+    "title": "Financial Model and Projections | Kenya AI Compute",
+    "description": "Comprehensive financial outlook: $5-8M annual revenue, 35-50% EBITDA, and conservative growth assumptions."
+  },
+  "hero": {
+    "headline": "Transparent Financials, Real Assets",
+    "subheadline": "We build our projections on conservative assumptions: 50% utilization and market-bottom pricing to ensure long-term stability.",
+    "badge": "Investment Model",
+    "cta": [
+      {
+        "label": "Download Excel Model",
+        "href": "/portal/investor-room/documents",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Anatomy of Our ROI",
+      "body": "Kenya AI Compute’s financial model is built on the principles of 'Infrastructure Realism.' We avoid the hype of perpetual GPU shortages and instead model our business on standard infrastructure cycles. Our base case assumes a conservative 45-55% average utilization of our 1MW capacity. Even at these levels, our project delivers a robust annual revenue of $5M to $8M due to our radically low operational cost structure. With OPEX locked at $2.0M-$2.8M per year—thanks to our captive $0.04/kWh energy generation—our net operating margins are significantly higher than traditional data center providers. This generates a clean, dollar-denominated cash flow that allows for a full return of capital (Payback) within 5 to 7 years, with significant upside as utilization scales toward 80% in the later years of operation. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints"
+    },
+    {
+      "type": "bullets",
+      "title": "Financial Assumptions",
+      "items": [
+        "Revenue Streams: Diversified across GPU training, CPU cloud, storage, and DePIN tokens.",
+        "Utilization: Modeled at a conservative 50% to build in a margin of safety.",
+        "OPEX: Drastically reduced through on-site power generation and local staffing.",
+        "EBITDA: Target range of 35-50% starting from Year 2 of full 1MW operation.",
+        "Dividends: Structured for quarterly payouts after initial 24-month ramp-up."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Financial Projections",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/revenue-growth-chart-en.jpg",
+          "alt": "5-Year Revenue Projection",
+          "caption": "Projected revenue growth as we scale from 300kW to 1MW."
+        },
+        {
+          "kind": "video",
+          "src": "/media/model-walkthrough-en.mp4",
+          "poster": "/media/financial-poster.jpg",
+          "caption": "A deep dive into our Excel model with our CFO."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Profitability Targets",
+      "items": [
+        {
+          "label": "Projected Annual Net Profit",
+          "value": "$2M - $4M"
+        },
+        {
+          "label": "Target Payback Period",
+          "value": "5 - 7 Years"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Analyze the Scenarios",
+      "copy": "Use our interactive scenario builder to see how utilization and energy rates impact your ROI.",
+      "primary": {
+        "label": "Financial Scenarios",
+        "href": "/investors/financials/scenarios"
+      },
+      "secondary": {
+        "label": "CAPEX Breakdown",
+        "href": "/investors/financials/capex"
+      }
+    }
+  ]
+}

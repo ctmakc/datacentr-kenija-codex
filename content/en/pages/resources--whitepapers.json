@@ -1,0 +1,82 @@
+{
+  "path": "/resources/whitepapers",
+  "meta": {
+    "title": "Whitepapers & Research | AI Infrastructure Insights",
+    "description": "Download our deep-dive reports on energy arbitrage, DePIN economics, and the future of AI in Africa."
+  },
+  "hero": {
+    "headline": "Intellectual Capital for an AI World",
+    "subheadline": "We share our research and technical findings to help our partners navigate the evolving landscape of high-performance computing.",
+    "badge": "Research Library",
+    "cta": [
+      {
+        "label": "Request Data Room",
+        "href": "/resources/documents/request",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Science of Infrastructure",
+      "body": "Kenya AI Compute is built on a foundation of data and rigorous analysis. Our research department continuously monitors global energy trends, GPU lifecycle economics, and the growth of decentralized compute protocols. We publish our findings in a series of whitepapers designed for both technical architects and institutional investors. These documents provide the 'why' behind our strategic decisions—such as our choice of modular design, our 30/50/20 hardware mix, and our focus on the Kenyan energy market. By sharing this knowledge, we aim to establish ourselves not just as a facility provider, but as a thought leader in the creation of sustainable, equitable digital infrastructure for the Global South. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: the project follows"
+    },
+    {
+      "type": "bullets",
+      "title": "Featured Publications",
+      "items": [
+        "Energy Arbitrage: The New Asset Class – A study of energy-to-compute conversion.",
+        "DePIN 2026: Industrializing Decentralized Networks – How protocols meet physical infrastructure.",
+        "The Tropical Data Center: Engineering for Efficiency – A PUE study of our modular facility.",
+        "Africa's AI Future: From Consumption to Production – A market gap analysis.",
+        "ESG and the GPU: The Path to Net-Zero Intelligence – Our sustainability framework."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Library Preview",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/whitepaper-covers-en.jpg",
+          "alt": "Project whitepaper covers",
+          "caption": "Access our library of technical and financial research."
+        },
+        {
+          "kind": "video",
+          "src": "/media/research-summary.mp4",
+          "poster": "/media/docs-poster.jpg",
+          "caption": "A 2-minute summary of our latest findings on global GPU demand."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Library Data",
+      "items": [
+        {
+          "label": "Published Whitepapers",
+          "value": "12"
+        },
+        {
+          "label": "Research Updates",
+          "value": "Quarterly"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Stay Informed",
+      "copy": "Subscribe to our technical blog to receive our latest research directly in your inbox.",
+      "primary": {
+        "label": "Subscribe to Research",
+        "href": "/news"
+      },
+      "secondary": {
+        "label": "Public Documents",
+        "href": "/resources/documents/public"
+      }
+    }
+  ]
+}

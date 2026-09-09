@@ -1,0 +1,82 @@
+{
+  "path": "/investors/financials/scenarios",
+  "meta": {
+    "title": "Financial Scenarios & Yield Projections | Project ROI",
+    "description": "Review our conservative, base, and optimistic ROI scenarios. Understanding the impact of utilization on EBITDA."
+  },
+  "hero": {
+    "headline": "Projected Growth in Every Scenario",
+    "subheadline": "We have modeled our business to be resilient. Even at 50% utilization, our low energy cost secures a 35% EBITDA margin.",
+    "badge": "Yield Analysis",
+    "cta": [
+      {
+        "label": "Request Full Model",
+        "href": "/portal/investor-room/documents",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Resilience through Low Operational Costs",
+      "body": "Financial sustainability in the data center industry is won or lost on operational efficiency. In our 'Conservative Scenario,' we assume an average utilization rate of just 45% and a continued decline in global GPU rental prices. Even in this environment, our $0.04/kWh energy arbitrage ensures the project remains cash-flow positive from the first year of full 1MW operation. Our 'Base Case' (55% utilization) targets an EBITDA of 35-50%, reflecting a steady demand from DePIN networks and enterprise cloud users in East Africa. For investors, this represents an infrastructure-grade asset with the growth profile of a tech company. The risk of 'empty racks' is mitigated by our protocol partnerships, which act as a global buyer of last resort for every watt of power we generate. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can tra"
+    },
+    {
+      "type": "bullets",
+      "title": "Investment Scenarios",
+      "items": [
+        "Conservative: 45% load, 7-year payback, focused on capital preservation.",
+        "Base Case: 55-65% load, 5-6 year payback, consistent quarterly dividends.",
+        "Optimistic: 80%+ load, 4-year payback, rapid scaling to Phase 3 (3MW).",
+        "Currency Hedging: Revenue in USD provides a natural hedge against regional inflation.",
+        "Asset Value: Terminal value based on hard assets and long-term energy contracts."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Projected Cash Flow",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/cashflow-waterfall-en.jpg",
+          "alt": "Year 1-5 Cash Flow Projection",
+          "caption": "Projected dividends and capital return schedule."
+        },
+        {
+          "kind": "video",
+          "src": "/media/scenario-analysis.mp4",
+          "poster": "/media/financial-poster.jpg",
+          "caption": "A walk-through of the risk/reward profile for each scenario."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Performance Targets",
+      "items": [
+        {
+          "label": "Target IRR",
+          "value": "18% - 25%"
+        },
+        {
+          "label": "EBITDA Target",
+          "value": "35% - 50%"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Consult with CFO",
+      "copy": "Have questions about our tax treatments or dividend waterfall? Our financial team is ready to assist.",
+      "primary": {
+        "label": "Schedule IR Call",
+        "href": "/contact/investors"
+      },
+      "secondary": {
+        "label": "CAPEX Breakdown",
+        "href": "/investors/financials/capex"
+      }
+    }
+  ]
+}

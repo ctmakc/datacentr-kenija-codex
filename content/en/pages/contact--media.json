@@ -1,0 +1,82 @@
+{
+  "path": "/contact/media",
+  "meta": {
+    "title": "Media & Press Inquiries | Kenya AI Compute",
+    "description": "Official contact for journalists, bloggers, and event organizers. Request interviews, press kits, or brand assets."
+  },
+  "hero": {
+    "headline": "Telling the Story of the Silicon Savannah",
+    "subheadline": "We are open to collaborating with global and regional media to share the progress of Africa's AI revolution.",
+    "badge": "Press Office",
+    "cta": [
+      {
+        "label": "Download Media Kit",
+        "href": "/resources/media",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Direct Access for the Global Press",
+      "body": "Kenya AI Compute is at the center of several major global narratives: the AI infrastructure boom, the growth of the African tech economy, and the rise of sustainable 'Green Compute.' Our media relations team is equipped to provide high-quality information, data-backed insights, and executive commentary for your stories. We offer journalists direct access to our founding team and lead engineers for interviews, as well as high-resolution photo and video assets from our site in Kenya. We understand the tight deadlines of the modern news cycle and aim to respond to all qualified media inquiries within four hours. Whether you're writing a deep dive on DePIN economics or a profile on the East African tech hub, we are here to provide the context you need. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: the project f"
+    },
+    {
+      "type": "bullets",
+      "title": "Media Services",
+      "items": [
+        "Executive Interviews: Direct lines to our CEO, CTO, and CFO.",
+        "Fact-Checking: Verified data on 1MW project specs and Kenyan energy markets.",
+        "Visual Assets: 4K video b-roll and high-res renders of the facility.",
+        "Event Speakers: Expert contributors for AI, Infrastructure, and African tech conferences.",
+        "Press Releases: Be the first to receive our official project milestone updates."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Press Resources",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/press-briefing-room.jpg",
+          "alt": "Media briefing session",
+          "caption": "We provide transparent updates to the global tech and finance press."
+        },
+        {
+          "kind": "video",
+          "src": "/media/project-story-video.mp4",
+          "poster": "/media/brand-poster.jpg",
+          "caption": "A concise 3-minute video overview of our mission and progress."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Media Response",
+      "items": [
+        {
+          "label": "Avg. Response Time",
+          "value": "< 4 Hours"
+        },
+        {
+          "label": "Available Languages",
+          "value": "EN, RU, ZH"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Submit a Media Request",
+      "copy": "Please include your outlet and deadline to help us prioritize your inquiry.",
+      "primary": {
+        "label": "Contact PR Team",
+        "href": "/contact/media/form"
+      },
+      "secondary": {
+        "label": "Latest Updates",
+        "href": "/news/updates"
+      }
+    }
+  ]
+}

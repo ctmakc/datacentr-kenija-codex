@@ -1,0 +1,82 @@
+{
+  "path": "/market/ai-compute/supply",
+  "meta": {
+    "title": "The Global Compute Supply Crisis | Infrastructure Scarcity",
+    "description": "Why GPU supply is only half the battle. The critical shortage of high-density power and data center halls worldwide."
+  },
+  "hero": {
+    "headline": "Solving the Supply Side of the AI Equation",
+    "subheadline": "The world has the chips, but it lacks the 'plumbing'—the power and cooling needed to run them. We are building the plumbing in Kenya.",
+    "badge": "Supply Analysis",
+    "cta": [
+      {
+        "label": "View Our Capacity",
+        "href": "/compute/overview",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Invisible Bottleneck in AI Growth",
+      "body": "Mainstream media often focuses on the shortage of NVIDIA chips, but a more permanent and structural shortage is emerging: the shortage of high-density data center capacity. Standard data centers, built for web hosting and enterprise database storage, are not equipped to handle the 40kW-100kW per rack power requirements of modern AI clusters. Major tech hubs like Northern Virginia, Dublin, and Singapore have reached the limits of their electrical grids, leading to a freeze on new data center permits. This 'Gridlock' is our greatest opportunity. Kenya AI Compute circumvents the supply crisis by building vertically integrated capacity where power is abundant and industrial space is ready. We are providing the 'Critical Compute Real Estate' that the world's AI models are desperately searching for. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infr"
+    },
+    {
+      "type": "bullets",
+      "title": "The Supply Crisis Factors",
+      "items": [
+        "Grid Saturation: Traditional tech capitals can no longer support high-density power growth.",
+        "Legacy Infrastructure: 80% of existing data centers cannot support modern GPU cooling needs.",
+        "Permit Delays: New facility construction in the West now takes 3-5 years due to regulation.",
+        "Power Costs: High electricity prices in Europe make AI training economically unsustainable.",
+        "Geographic Concentration: 90% of compute is in 3 regions; the world needs localized diversity."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Infrastructure Deficit",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/global-dc-saturation-map.jpg",
+          "alt": "Grid saturation map of the world",
+          "caption": "Where the world is 'Full' vs where there is room for AI growth."
+        },
+        {
+          "kind": "video",
+          "src": "/media/infrastructure-shortage-report.mp4",
+          "poster": "/media/market-poster.jpg",
+          "caption": "Why 'Power' is more important than 'Chips' in the next phase of AI."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Supply Metrics",
+      "items": [
+        {
+          "label": "New DC Permit Wait",
+          "value": "18 - 36 Months (US/EU)"
+        },
+        {
+          "label": "Power Cost Advantage",
+          "value": "60% Savings in Kenya"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Secure Your Future Capacity",
+      "copy": "Don't get locked out of the next AI cycle. Pre-book your 1MW capacity today.",
+      "primary": {
+        "label": "Reserve Capacity",
+        "href": "/contact/sales"
+      },
+      "secondary": {
+        "label": "Project Overview",
+        "href": "/project/overview"
+      }
+    }
+  ]
+}

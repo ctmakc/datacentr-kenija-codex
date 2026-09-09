@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --bg-soft: #f6f9fc;
+  --bg-grid: rgba(15, 23, 42, 0.05);
+  --text-main: #0f172a;
+  --font-sans: "Sora", "Segoe UI", "Avenir Next", "Helvetica Neue", sans-serif;
+}
+
+body {
+  background:
+    radial-gradient(circle at top right, rgba(56, 189, 248, 0.14), transparent 35%),
+    radial-gradient(circle at bottom left, rgba(14, 116, 144, 0.1), transparent 30%),
+    linear-gradient(to bottom, #ffffff, var(--bg-soft));
+  background-attachment: fixed;
+  color: var(--text-main);
+  font-family: var(--font-sans);
+}
+
+a {
+  text-underline-offset: 3px;
+}
+
+main {
+  position: relative;
+}
+
+main::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    linear-gradient(var(--bg-grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--bg-grid) 1px, transparent 1px);
+  background-size: 24px 24px;
+  opacity: 0.35;
+  z-index: -1;
+}

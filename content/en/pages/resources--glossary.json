@@ -1,0 +1,82 @@
+{
+  "path": "/resources/glossary",
+  "meta": {
+    "title": "Project Glossary | AI, Energy, and DePIN Terms",
+    "description": "Understanding the language of Kenya AI Compute. Clear explanations for PUE, GPU training, DePIN, and Energy Arbitrage."
+  },
+  "hero": {
+    "headline": "Speaking the Language of the Future",
+    "subheadline": "We have simplified the complex terminology of AI infrastructure, energy systems, and Web3 to help you navigate our project.",
+    "badge": "Terminology Guide",
+    "cta": [
+      {
+        "label": "General FAQ",
+        "href": "/resources/faq",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Why a Unified Glossary Matters",
+      "body": "Kenya AI Compute sits at the intersection of three complex industries: traditional power generation, physical data center engineering, and the cutting edge of artificial intelligence (including decentralized Web3 protocols). For an investor, understanding 'PUE' is critical for valuing our operational efficiency. For a technical partner, the difference between 'Training' and 'Inference' loads determines our hardware configuration. We created this glossary to ensure that all our stakeholders—from Kenyan government officials to Silicon Valley researchers—speak a common language. Clear terminology is the foundation of the transparency and professional integrity that we bring to every aspect of this 1MW infrastructure project. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment model"
+    },
+    {
+      "type": "bullets",
+      "title": "Key Project Terms",
+      "items": [
+        "PUE (Power Usage Effectiveness): The ratio of total power used by a DC to the power delivered to the IT load. Our target is 1.3-1.5.",
+        "DePIN: Decentralized Physical Infrastructure Networks. The protocols that provide our instant capacity utilization.",
+        "Energy Arbitrage: Our core business model of converting low-cost energy into high-value digital exports.",
+        "Spine-Leaf: A high-performance network topology optimized for east-west traffic within AI clusters.",
+        "Tier II/III+: Our hybrid reliability standard, balancing 99.9% uptime with capital efficiency."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Visual Glossary",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/glossary-infographic-en.jpg",
+          "alt": "Core Technical Concepts",
+          "caption": "A visual guide to how our energy and compute systems interact."
+        },
+        {
+          "kind": "video",
+          "src": "/media/tech-basics-en.mp4",
+          "poster": "/media/glossary-poster.jpg",
+          "caption": "Quick Video: 3 Terms every AI Infrastructure investor should know."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Knowledge Depth",
+      "items": [
+        {
+          "label": "Defined Terms",
+          "value": "50+"
+        },
+        {
+          "label": "Technical Deep Dives",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Have a Question?",
+      "copy": "If you encounter a term in our documentation that isn't defined here, our support team is happy to clarify.",
+      "primary": {
+        "label": "Ask a Question",
+        "href": "/contact/general"
+      },
+      "secondary": {
+        "label": "Technical FAQ",
+        "href": "/resources/faq/technical"
+      }
+    }
+  ]
+}

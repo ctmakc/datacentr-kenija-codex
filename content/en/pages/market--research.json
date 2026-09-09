@@ -1,0 +1,82 @@
+{
+  "path": "/market/research",
+  "meta": {
+    "title": "Market Research & Data Sources | AI Compute Africa",
+    "description": "Access the primary data behind our project. Analysis of energy markets, GPU demand cycles, and Africa’s digital growth."
+  },
+  "hero": {
+    "headline": "The Data Behind the Silicon Savannah",
+    "subheadline": "We believe in making decisions based on hard evidence. Explore our curated research database on AI infrastructure and emerging markets.",
+    "badge": "Market Intelligence",
+    "cta": [
+      {
+        "label": "Download Reports",
+        "href": "/resources/whitepapers",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Rigor in Every Assumption",
+      "body": "The Kenya AI Compute project is the result of thousands of hours of market analysis. This section provides a look into our methodology and the primary data sources we utilize to track global AI trends and local energy shifts. Our research team monitors over 50 variables—from the price of natural gas in East Africa to the utilization rates of decentralized GPU networks. We aggregate data from top-tier sources like Gartner, Bloomberg, and the World Bank, combined with our own proprietary on-the-ground surveys in the Kenyan market. This data is what fuels our financial model and ensures that we remain ahead of the curve in a rapidly evolving technological landscape. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: the project follows a clear rollout roadmap that"
+    },
+    {
+      "type": "bullets",
+      "title": "Our Research Focus",
+      "items": [
+        "Energy Arbitrage Logic: Comparative analysis of global industrial power rates.",
+        "GPU Demand Cycles: Tracking the shift from training to large-scale inference.",
+        "Regional FDI: Monitoring infrastructure investment flows into the East African Community.",
+        "DePIN Adoption: Real-world metrics on the growth of decentralized compute protocols.",
+        "Regulatory Shifts: Analysis of new data residency and AI laws across Africa."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Data Visualization",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/market-data-viz.jpg",
+          "alt": "AI market data dashboard",
+          "caption": "Trends in high-density compute demand through 2030."
+        },
+        {
+          "kind": "video",
+          "src": "/media/research-methodology.mp4",
+          "poster": "/media/market-poster.jpg",
+          "caption": "How we validate our project assumptions using global and local data."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Research Reach",
+      "items": [
+        {
+          "label": "Data Sources Tracked",
+          "value": "50+"
+        },
+        {
+          "label": "Internal Analysts",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Need Custom Research?",
+      "copy": "Our analytics team provides bespoke reports for our institutional partners. Contact us for a consultation.",
+      "primary": {
+        "label": "Consult an Analyst",
+        "href": "/contact/general"
+      },
+      "secondary": {
+        "label": "Executive Summary",
+        "href": "/resources/documents/public"
+      }
+    }
+  ]
+}

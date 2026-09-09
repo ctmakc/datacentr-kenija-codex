@@ -1,0 +1,82 @@
+{
+  "path": "/compute/onboarding/getting-started",
+  "meta": {
+    "title": "Getting Started: Launch Your First AI Cluster",
+    "description": "From registration to training in 5 minutes. Your step-by-step guide to deploying GPU/CPU resources at Kenya AI Compute."
+  },
+  "hero": {
+    "headline": "Go Live on Africa's Most Efficient Cloud",
+    "subheadline": "Stop configuring and start training. Our automated onboarding process is designed to get your code running on our hardware in minutes.",
+    "badge": "Quick Start",
+    "cta": [
+      {
+        "label": "Create Account",
+        "href": "/portal/register",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Your 5-Minute Path to AI Compute",
+      "body": "We have engineered our onboarding process to be as lean as our infrastructure. At Kenya AI Compute, we believe that developers should spend their time on model architecture, not on infrastructure troubleshooting. Getting started is a straightforward four-step process. First, create your account in our unified portal. Second, verify your billing method—we support both standard fiat and DePIN-native token payments. Third, use our visual configurator to select your GPU/CPU mix and storage needs. Fourth, upload your SSH key and hit 'Deploy.' In under 120 seconds, your instance will be ready, pre-loaded with your choice of optimized OS images (Ubuntu/CentOS) and the latest NVIDIA drivers. Whether you're running a single T4 card for inference or a multi-node H100 cluster for LLM training, the process remains the same. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, a"
+    },
+    {
+      "type": "bullets",
+      "title": "Onboarding Checklist",
+      "items": [
+        "Unified Account: One login for Cloud, Bare-Metal, and DePIN node management.",
+        "Flexible Billing: Pay-as-you-go or reserved terms with instant credit approval.",
+        "Resource Configurator: Select from pre-set instances or build a custom server.",
+        "SSH Integration: Secure, key-based access to all your compute resources.",
+        "Global Dashboard: Monitor your PUE, uptime, and spend from a single interface."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Onboarding Tutorial",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/onboarding-infographic-en.jpg",
+          "alt": "Steps to launch compute",
+          "caption": "The simple path from sign-up to your first successful training run."
+        },
+        {
+          "kind": "video",
+          "src": "/media/first-deployment-en.mp4",
+          "poster": "/media/tutorial-poster.jpg",
+          "caption": "Watch: Deploying a PyTorch container on an A100 node in 180 seconds."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Onboarding Speed",
+      "items": [
+        {
+          "label": "Avg. Setup Time",
+          "value": "5 Minutes"
+        },
+        {
+          "label": "Deployment Speed",
+          "value": "< 120 Seconds"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Launch Your Cluster",
+      "copy": "Experience the price and performance advantage of Kenyan energy today.",
+      "primary": {
+        "label": "Register Now",
+        "href": "/portal/register"
+      },
+      "secondary": {
+        "label": "Documentation",
+        "href": "/compute/onboarding/documentation"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "path": "/about/story",
+  "meta": {
+    "title": "Our Story: From Idea to 1MW AI Hub | Project Genesis",
+    "description": "How a simple energy arbitrage insight became Kenya’s premier AI infrastructure project. The journey of the founders."
+  },
+  "hero": {
+    "headline": "The Journey to the Silicon Savannah",
+    "subheadline": "Every great project starts with a single insight. Ours was simple: Kenya has the energy, the world has the need for compute.",
+    "badge": "Our Story",
+    "cta": [
+      {
+        "label": "Our Vision",
+        "href": "/about/vision",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Identifying the Global Compute Gap",
+      "body": "The story of Kenya AI Compute began in 2024, during a deep analysis of the global energy crisis and its impact on the booming AI sector. We observed a fundamental mismatch: while the developed world was running out of power to feed its growing GPU hunger, countries in East Africa—led by Kenya—were sitting on massive, underutilized renewable and industrial energy resources. The 'lightbulb moment' happened when we realized that instead of selling low-margin electricity to a local grid, we could build high-margin digital export engines. We spent the first 18 months assembling a world-class consortium of technical experts, securing the perfect industrial site in Kenya, and structuring a deal that protects global capital while empowering the local economy. Today, we are moving from vision to physical reality, building the first 1MW hub of what will become a pan-African AI backbone. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on c"
+    },
+    {
+      "type": "bullets",
+      "title": "Milestones of Our Story",
+      "items": [
+        "2024 Concept: Discovery of the $0.04/kWh energy arbitrage opportunity.",
+        "Consortium Build: Recruiting the top 1% of data center and energy experts.",
+        "Kenya Site Lock: Securing a multi-acre industrial parcel with direct plant access.",
+        "SEZ Approval: Achieving Special Economic Zone status for the project.",
+        "The 1MW Close: Finalizing the capital structure for Phase 1 and Phase 2."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Story Gallery",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/first-site-visit-photo.jpg",
+          "alt": "Founders on site in 2024",
+          "caption": "Where it all began: the first survey of our site in Kenya."
+        },
+        {
+          "kind": "video",
+          "src": "/media/founder-interview-story.mp4",
+          "poster": "/media/team-poster.jpg",
+          "caption": "The founders discuss the challenges and triumphs of the project’s early days."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Our Growth",
+      "items": [
+        {
+          "label": "Months in Development",
+          "value": "24"
+        },
+        {
+          "label": "Project Size Growth",
+          "value": "300kW to 3MW"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "See What's Next",
+      "copy": "The story is just beginning. Follow our roadmap as we move into active scaling.",
+      "primary": {
+        "label": "View Roadmap",
+        "href": "/about/roadmap"
+      },
+      "secondary": {
+        "label": "The Team",
+        "href": "/about/team"
+      }
+    }
+  ]
+}

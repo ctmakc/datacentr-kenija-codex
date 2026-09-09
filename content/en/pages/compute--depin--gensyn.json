@@ -1,0 +1,82 @@
+{
+  "path": "/compute/depin/gensyn",
+  "meta": {
+    "title": "Gensyn Network Integration | Verifiable AI Training",
+    "description": "Kenya AI Compute joins the Gensyn protocol. Providing hardware for verifiable, decentralized deep learning compute in East Africa."
+  },
+  "hero": {
+    "headline": "The Future of Verifiable AI on Gensyn",
+    "subheadline": "We are integrating our 1MW facility with the Gensyn protocol to power the next generation of trustless machine learning.",
+    "badge": "Gensyn Partner",
+    "cta": [
+      {
+        "label": "Technical Roadmap",
+        "href": "/about/roadmap",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Decentralizing the Giant: Machine Learning Verification",
+      "body": "Gensyn is a protocol that enables a global, decentralized supercomputer where every computation is mathematically verified. Kenya AI Compute is positioning itself as a core infrastructure provider for the Gensyn network in the EMEA region. Our facility provides the stable, high-TDP environment required for Gensyn’s verification nodes and training workers. By participating in Gensyn, we contribute to a future where AI training is no longer gatekept by a few centralized entities. For our project, this means another high-utilization revenue stream that values our low energy cost and industrial-grade hardware reliability. As the protocol moves toward mainnet, our Kenyan site will be among the first to offer large-scale, verified compute blocks to global researchers. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flex"
+    },
+    {
+      "type": "bullets",
+      "title": "Gensyn Integration Features",
+      "items": [
+        "Hardware Compatibility: Optimized GPU clusters for compute-intensive verification tasks.",
+        "Protocol Alignment: Direct support for Gensyn’s probabilistic proof-of-learning.",
+        "Energy Efficiency: $0.04/kWh ensures our nodes are highly competitive in the protocol’s auction system.",
+        "Global Access: Providing a localized gateway for African AI researchers to use Gensyn resources.",
+        "Scalability: Ready to dedicate up to 30% of Phase 2 capacity to the Gensyn ecosystem."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Verifiable Compute Flow",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/gensyn-network-diagram.jpg",
+          "alt": "Gensyn protocol visualization",
+          "caption": "How Kenya AI Compute slots into the verifiable learning cycle."
+        },
+        {
+          "kind": "video",
+          "src": "/media/gensyn-explainer.mp4",
+          "poster": "/media/depin-poster.jpg",
+          "caption": "The importance of decentralized verification in AI's future."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Protocol Targets",
+      "items": [
+        {
+          "label": "Target Node Class",
+          "value": "Industrial / Solvers"
+        },
+        {
+          "label": "Network Uptime",
+          "value": "99.95%"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Join the Decentralized AI Movement",
+      "copy": "Learn how our infrastructure supports the most innovative protocols in the Web3 space.",
+      "primary": {
+        "label": "Explore DePIN",
+        "href": "/compute/depin/overview"
+      },
+      "secondary": {
+        "label": "Bittensor Integration",
+        "href": "/compute/depin/bittensor"
+      }
+    }
+  ]
+}

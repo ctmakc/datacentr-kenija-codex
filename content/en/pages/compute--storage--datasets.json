@@ -1,0 +1,82 @@
+{
+  "path": "/compute/storage/datasets",
+  "meta": {
+    "title": "High-Performance AI Dataset Hosting | Storage Solutions",
+    "description": "Accelerate your training with low-latency access to massive datasets. Pre-loaded open-source datasets and secure private storage in Kenya."
+  },
+  "hero": {
+    "headline": "The Data Warehouse for Global AI",
+    "subheadline": "Compute is only half the battle. We provide the ultra-fast storage infrastructure needed to feed data-hungry LLMs and computer vision models.",
+    "badge": "Dataset Infrastructure",
+    "cta": [
+      {
+        "label": "Storage Pricing",
+        "href": "/compute/storage/block",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Eliminating the Data Bottleneck",
+      "body": "Modern AI training requires massive throughput between storage arrays and GPU memory. If your data isn't close to your compute, your expensive GPUs sit idle, waiting for I/O operations. Kenya AI Compute has dedicated 20% of its facility capacity to high-speed storage. Our architecture utilizes an NVMe-over-Fabric (NVMe-oF) design, allowing our GPU clusters to access datasets at local-bus speeds across the 100G internal network. We also maintain a local repository of the world's most popular open-source datasets (Common Crawl, LAION, Pile), pre-formatted and ready for instant mounting. This saves researchers days of download time and ensures that every second of rented GPU time is spent on actual computation, not waiting for data to arrive from across the ocean. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacit"
+    },
+    {
+      "type": "bullets",
+      "title": "Storage Capabilities",
+      "items": [
+        "Throughput: 100G internal fabric ensures zero I/O wait times for training nodes.",
+        "Hybrid Tiers: NVMe 'Hot' storage for active training and HDD 'Cold' storage for archiving.",
+        "Pre-loaded Library: Instant access to major open-source datasets for immediate fine-tuning.",
+        "Security: Fully encrypted at-rest and in-transit data protection protocols.",
+        "Scalability: Support for S3-compatible object storage to handle petabyte-scale data lakes."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Storage Architecture",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/storage-server-farm.jpg",
+          "alt": "Data Center Storage Arrays",
+          "caption": "High-density NVMe arrays designed for AI training throughput."
+        },
+        {
+          "kind": "video",
+          "src": "/media/data-io-benchmark.mp4",
+          "poster": "/media/storage-poster.jpg",
+          "caption": "Benchmark: Scaling training speeds through optimized local storage."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "I/O Performance",
+      "items": [
+        {
+          "label": "Max Read Speed",
+          "value": "1.2 TB/s"
+        },
+        {
+          "label": "Storage Capacity",
+          "value": "5+ Petabytes"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Bring Your Data to Kenya",
+      "copy": "Move your datasets to our secure facility and enjoy a 40% reduction in your total AI infrastructure spend.",
+      "primary": {
+        "label": "Request Custom Quote",
+        "href": "/contact/sales"
+      },
+      "secondary": {
+        "label": "Object Storage",
+        "href": "/compute/storage/object"
+      }
+    }
+  ]
+}

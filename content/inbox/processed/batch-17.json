@@ -1,0 +1,846 @@
+{
+"locale": "en",
+"batch": "05",
+"pages": [
+{
+"path": "/regulatory/kenya/energy",
+"meta": {
+"title": "Energy Regulations & Licensing in Kenya | Powering AI",
+"description": "Overview of the legal framework for captive power generation in Kenya. Licensing, grid connection, and energy sector compliance."
+},
+"hero": {
+"headline": "A Stable Framework for Power Generation",
+"subheadline": "We operate under Kenya's progressive energy laws, ensuring long-term security for our captive power generation and AI operations.",
+"badge": "Energy Compliance",
+"cta": [
+{ "label": "Generation Specs", "href": "/project/energy/generation", "variant": "secondary" }
+]
+},
+"sections": [
+{
+"type": "text",
+"title": "Navigating the Kenyan Energy Sector",
+"body": "Kenya's energy sector is governed by the Energy Act of 2019, which encourages private investment in generation and distribution. Our project utilizes the 'Captive Power' provision, allowing us to generate electricity primarily for our own consumption. This regulatory path is highly efficient for data centers, as it reduces dependency on the national utility (Kenya Power) while allowing for potential grid-export in future phases. We maintain full compliance with the Energy and Petroleum Regulatory Authority (EPRA), securing all necessary licenses for construction and operation. This legal clarity ensures that our $0.04/kWh energy cost is not just a technical achievement, but a legally protected competitive advantage that provides certainty to our international investors."
+},
+{
+"type": "bullets",
+"title": "Regulatory Milestones",
+"items": [
+"Energy Act 2019: Full alignment with national electricity generation standards.",
+"EPRA Licensing: Secured permits for industrial-scale captive hybrid generation.",
+"Environmental Impact (EIA): Comprehensive NEMA approval for the integrated site.",
+"Grid Interconnection: Negotiated PPA framework for backup and future export.",
+"Safety Standards: Compliance with ERC and international IEEE electrical codes."
+]
+},
+{
+"type": "media",
+"title": "Licensing Framework",
+"items": [
+{ "kind": "image", "src": "/media/energy-licensing-flow.jpg", "alt": "Kenya Energy Licensing Process", "caption": "The transparent regulatory path for captive power in Kenya." },
+{ "kind": "video", "src": "/media/energy-law-brief.mp4", "poster": "/media/regulatory-poster.jpg", "caption": "Our energy consultant explains the stability of Kenyan power PPA." }
+]
+},
+{
+"type": "stats",
+"title": "Regulatory Health",
+"items": [
+{ "label": "Permit Status", "value": "Fully Licensed" },
+{ "label": "Legal Basis", "value": "Energy Act 2019" }
+]
+},
+{
+"type": "cta",
+"title": "Download Energy Memo",
+"copy": "Request our legal brief on the Kenyan power market and our specific licensing status.",
+"primary": { "label": "Request Memo", "href": "/resources/documents/request" },
+"secondary": { "label": "Sustainability", "href": "/project/energy/sustainability" }
+}
+]
+},
+{
+"path": "/partners/technical-partner/role",
+"meta": {
+"title": "Technical Partner Role | DC Engineering & Design",
+"description": "Collaborate on Africa's most efficient AI infrastructure. Roles and responsibilities for global technical partners."
+},
+"hero": {
+"headline": "Engineering the Backbone of African AI",
+"subheadline": "We invite world-class data center architects and engineers to join our technical consortium for the 1MW project.",
+"badge": "Technical Collaboration",
+"cta": [
+{ "label": "Partner RFI", "href": "/partners/technical-partner/apply", "variant": "primary" }
+]
+},
+"sections": [
+{
+"type": "text",
+"title": "A Synergy of Expertise",
+"body": "The technical partner is the 'intellectual engine' of the Kenya AI Compute project. This role focuses on the high-level design and ongoing technical optimization of the facility. Responsibilities include the selection of modular container vendors, the design of high-density cooling loops, and the orchestration of the 100G/400G network fabric. We look for partners who have a proven track record in High-Performance Computing (HPC) environments and who can bring innovative solutions to the challenges of tropical data center operations. By joining our consortium, technical partners gain a footprint in the world's fastest-growing digital market and participate in the revenue-sharing model of a vertically integrated infrastructure asset."
+},
+{
+"type": "bullets",
+"title": "Collaboration Areas",
+"items": [
+"Architecture: Modular Tier II/III design for extreme GPU densities.",
+"Energy: Optimization of hybrid power plant-to-rack distribution.",
+"Software: Implementation of DCIM and MLOps management layers.",
+"Networking: Architecting the Spine-Leaf fabric and international IXP peering.",
+"R&D: Testing next-gen liquid cooling solutions for Phase 3 scaling."
+]
+},
+{
+"type": "media",
+"title": "Engineering Standards",
+"items": [
+{ "kind": "image", "src": "/media/technical-partner-collab.jpg", "alt": "Engineers discussing blueprints", "caption": "Defining the technical standards for Africa's AI future." },
+{ "kind": "video", "src": "/media/cto-partnership-vision.mp4", "poster": "/media/team-poster.jpg", "caption": "Our CTO on the benefits of being a technical partner in Kenya." }
+]
+},
+{
+"type": "stats",
+"title": "Technical Targets",
+"items": [
+{ "label": "Target PUE", "value": "1.3 - 1.5" },
+{ "label": "Uptime SLA", "value": "99.9%" }
+]
+},
+{
+"type": "cta",
+"title": "View Engagement Models",
+"copy": "Discover the different ways to participate: from consulting roles to equity partnerships.",
+"primary": { "label": "Engagement Models", "href": "/partners/technical-partner/engagement-models" },
+"secondary": { "label": "Supplier Portal", "href": "/partners/equipment-suppliers" }
+}
+]
+},
+{
+"path": "/regulatory/international/compliance",
+"meta": {
+"title": "International Compliance Standards | Global Data Security",
+"description": "How Kenya AI Compute meets global standards like ISO 27001, SOC 2, and GDPR for international clients."
+},
+"hero": {
+"headline": "Global Trust, Local Excellence",
+"subheadline": "Our facility is designed to meet and exceed the world's most rigorous data security and operational compliance standards.",
+"badge": "Global Compliance",
+"cta": [
+{ "label": "Security Specs", "href": "/datacenter/architecture/security", "variant": "secondary" }
+]
+},
+"sections": [
+{
+"type": "text",
+"title": "Meeting the Standards of Global Enterprise",
+"body": "For an infrastructure project in Kenya to serve global AI clients, compliance is not optional. Kenya AI Compute is committed to a multi-year roadmap for international certifications. Our facility is designed following ISO 27001 (Information Security) and SOC 2 Type II principles from the ground up. We ensure that our operational procedures, physical access controls, and network management meet the standards expected by Fortune 500 companies and leading research institutions. Furthermore, we align with international environmental standards (ISO 14001) to validate our green energy and PUE claims. This commitment ensures that moving your compute to Kenya does not mean compromising on the corporate compliance required by your auditors and stakeholders."
+},
+{
+"type": "bullets",
+"title": "Compliance Roadmap",
+"items": [
+"ISO 27001: Implementing the world's leading standard for info-security management.",
+"SOC 2 Type II: Regular auditing of our security, availability, and privacy controls.",
+"GDPR Alignment: Adhering to the highest global standard for data protection.",
+"Uptime Institute: Pursuing formal Tier II/III certification for Phase 2.",
+"ISO 14001: Third-party verification of our sustainability and ESG metrics."
+]
+},
+{
+"type": "media",
+"title": "Certification Framework",
+"items": [
+{ "kind": "image", "src": "/media/compliance-standard-logos.jpg", "alt": "ISO and SOC compliance logos", "caption": "The standards we build and operate by." },
+{ "kind": "video", "src": "/media/compliance-briefing.mp4", "poster": "/media/regulatory-poster.jpg", "caption": "How we manage international audits for our global clients." }
+]
+},
+{
+"type": "stats",
+"title": "Audit Frequency",
+"items": [
+{ "label": "External Audits", "value": "Annual" },
+{ "label": "Internal Reviews", "value": "Quarterly" }
+]
+},
+{
+"type": "cta",
+"title": "Request Compliance Docs",
+"copy": "Access our internal policy documents and current compliance status in the Data Room.",
+"primary": { "label": "Data Room Access", "href": "/resources/documents/request" },
+"secondary": { "label": "Privacy Policy", "href": "/legal/privacy-policy" }
+}
+]
+},
+{
+"path": "/market/ai-compute/pricing-comparison",
+"meta": {
+"title": "Pricing Comparison: Kenya vs Global Clouds | Save 40%",
+"description": "Detailed cost analysis. Why training models in Kenya is up to 50% cheaper than AWS, Azure, or Google Cloud."
+},
+"hero": {
+"headline": "Stop Paying the 'Cloud Tax'",
+"subheadline": "Traditional cloud providers charge massive margins. We offer infrastructure at the cost of Kenyan physics and industrial energy.",
+"badge": "Cost Analysis",
+"cta": [
+{ "label": "Open Calculator", "href": "/compute/pricing/calculator", "variant": "primary" }
+]
+},
+"sections": [
+{
+"type": "text",
+"title": "The Economic Reality of GPU Hosting",
+"body": "High-performance AI computing has a 'hidden tax'—the cost of inefficiency and corporate overhead. Global cloud giants charge between $2.00 and $4.50 per GPU-hour for enterprise training nodes. This price includes expensive real estate in Northern Virginia, high utility taxes in Europe, and 70% gross margins for the provider. Kenya AI Compute operates on a different logic. By leveraging $0.04/kWh energy and lean modular OPEX in a Special Economic Zone, we provide the same computational power for $0.70 to $1.00 per hour. For a startup training a 70B parameter model, this isn't just a small saving—it's the difference between 3 months of runway and 6 months. We are enabling a new class of AI companies that are built on efficiency, not just venture capital."
+},
+{
+"type": "bullets",
+"title": "Comparative Metrics",
+"items": [
+"Energy Cost: $0.15-$0.25 (Global Avg) vs $0.04 (Kenya AI).",
+"Effective Tax: 25-30% (Standard) vs 10% (Our SEZ Status).",
+"Egress Fees: High 'lock-in' fees (Hyperscalers) vs Transparent transit (Our Network).",
+"Reserved Savings: Up to 50% discount for long-term compute commitments.",
+"TCO reduction: Average 40% lower Total Cost of Ownership for AI labs."
+]
+},
+{
+"type": "media",
+"title": "Price Breakdown",
+"items": [
+{ "kind": "image", "src": "/media/pricing-comparison-chart-en.jpg", "alt": "Cloud vs Kenya AI Price Comparison", "caption": "Where the money goes: Energy arbitrage in action." },
+{ "kind": "video", "src": "/media/pricing-logic-explainer.mp4", "poster": "/media/pricing-poster.jpg", "caption": "How we maintain world-class hardware at regional-bottom prices." }
+]
+},
+{
+"type": "stats",
+"title": "Customer Value",
+"items": [
+{ "label": "Hourly GPU Saving", "value": "40% - 60%" },
+{ "label": "Model Training ROI", "value": "2.5x Increase" }
+]
+},
+{
+"type": "cta",
+"title": "Verify Your Savings",
+"copy": "Upload your current cloud bill and our analysts will provide a free TCO comparison report.",
+"primary": { "label": "Request TCO Report", "href": "/contact/sales" },
+"secondary": { "label": "Billing Plans", "href": "/compute/pricing/plans" }
+}
+]
+},
+{
+"path": "/careers/positions",
+"meta": {
+"title": "Open Positions | Join the Kenya AI Compute Team",
+"description": "Browse active career opportunities in data center engineering, AI operations, and finance in Nairobi and remotely."
+},
+"hero": {
+"headline": "Help Us Build the Silicon Savannah",
+"subheadline": "We are hiring for our Phase 1 and Phase 2 expansion. Join a team dedicated to making Africa a global AI powerhouse.",
+"badge": "Active Vacancies",
+"cta": [
+{ "label": "General Application", "href": "/careers/apply", "variant": "secondary" }
+]
+},
+"sections": [
+{
+"type": "text",
+"title": "Current Opportunities for Innovators",
+"body": "As we scale our 1MW facility, we are looking for specialists across the technical and operational spectrum. We need hands-on engineers who understand high-density power and cooling, as well as digital architects who can manage global network fabrics. Our current hiring focus is on building our core Nairobi team to manage day-to-day operations, alongside a distributed team of developers and analysts. We offer competitive international salaries, equity opportunities, and the chance to work at the absolute cutting edge of the infrastructure industry. If you thrive in a high-stakes, mission-driven environment where technical precision is the top priority, we want to hear from you."
+},
+{
+"type": "bullets",
+"title": "Hiring Categories",
+"items": [
+"DC Operations: Technicians, Electrical Engineers, and NOC Analysts in Kenya.",
+"Networking: Spine-Leaf architects and global IP transit specialists.",
+"Sales & BD: Institutional IR managers and DePIN network specialists.",
+"Software: MLOps engineers and Full-stack developers for our Customer Portal.",
+"Administration: HR, Logistics, and GR managers with regional expertise."
+]
+},
+{
+"type": "media",
+"title": "Our Hub",
+"items": [
+{ "kind": "image", "src": "/media/nairobi-office-life.jpg", "alt": "Team meeting in Nairobi office", "caption": "The energy and innovation of our Kenyan headquarters." },
+{ "kind": "video", "src": "/media/career-vision-en.mp4", "poster": "/media/career-poster.jpg", "caption": "Why engineers are leaving big tech to build infrastructure in Africa." }
+]
+},
+{
+"type": "stats",
+"title": "Career Growth",
+"items": [
+{ "label": "Open Roles", "value": "10+" },
+{ "label": "Team Diversity", "value": "15 Nationalities" }
+]
+},
+{
+"type": "cta",
+"title": "Apply Now",
+"copy": "Submit your CV for an active role or join our talent pool for future opportunities.",
+"primary": { "label": "View All Roles", "href": "/careers/positions/list" },
+"secondary": { "label": "Our Culture", "href": "/careers/culture" }
+}
+]
+},
+{
+"path": "/compute/depin/tokenomics",
+"meta": {
+"title": "DePIN Revenue & Tokenomics | Project Yield",
+"description": "Understanding how we monetize decentralized networks. Revenue sharing, staking, and token earnings for our hardware."
+},
+"hero": {
+"headline": "The Mathematics of Protocol Yield",
+"subheadline": "We bridge the gap between physical hardware and digital tokenomics, maximizing the IRR of our compute assets through DePIN.",
+"badge": "Network Economics",
+"cta": [
+{ "label": "DePIN Overview", "href": "/compute/depin/overview", "variant": "secondary" }
+]
+},
+"sections": [
+{
+"type": "text",
+"title": "A New Yield Asset Class",
+"body": "DePIN (Decentralized Physical Infrastructure Networks) introduces a revolutionary revenue model for data centers. Instead of fixed monthly contracts, our revenue is a dynamic function of network tasks, uptime incentives, and protocol token appreciation. For the Kenya AI Compute project, DePIN serves as a 'High-Frequency Revenue Layer.' When a GPU is not rented by a private enterprise client, it automatically switches to performing tasks for networks like Render or io.net. This ensures that our 1MW capacity maintains nearly 100% 'utility' load, even if the 'commercial' utilization is lower. We carefully manage our token treasury, converting protocol rewards into stablecoins or USD to secure our OPEX, while retaining a portion for long-term appreciation. This dual-revenue approach—fiat and token—provides our investors with a unique risk-reward profile that outperforms traditional real estate infrastructure."
+},
+{
+"type": "bullets",
+"title": "DePIN Revenue Logic",
+"items": [
+"Uptime Rewards: Consistent base earnings for providing certified hardware to the network.",
+"Task Fees: Variable revenue from actual compute jobs (Rendering, Training).",
+"Multiplier Bonuses: Higher rewards for low-latency and high-bandwidth connectivity.",
+"Treasury Management: Strategic hedging of protocol tokens (RNDR, AKT, etc.) into USD.",
+"Liquidity: Instant cash flow from protocol payouts with zero accounts receivable delay."
+]
+},
+{
+"type": "media",
+"title": "Earnings Dashboard",
+"items": [
+{ "kind": "image", "src": "/media/token-earnings-chart.jpg", "alt": "Live token earnings dashboard", "caption": "Real-time tracking of our hardware's protocol yields." },
+{ "kind": "video", "src": "/media/tokenomics-explainer.mp4", "poster": "/media/depin-poster.jpg", "caption": "How DePIN tokenomics acts as a financial hedge for the data center." }
+]
+},
+{
+"type": "stats",
+"title": "DePIN Performance",
+"items": [
+{ "label": "Avg. Reward Multiplier", "value": "1.5x (Industrial)" },
+{ "label": "Utilization Floor", "value": "100% Through Protocols" }
+]
+},
+{
+"type": "cta",
+"title": "Analyze the Yields",
+"copy": "Use our scenario builder to see how DePIN token prices impact the overall project EBITDA.",
+"primary": { "label": "Yield Calculator", "href": "/investors/financials/calculator" },
+"secondary": { "label": "Render Network", "href": "/compute/depin/render-network" }
+}
+]
+},
+{
+"path": "/about/team/bios",
+"meta": {
+"title": "Leadership Biographies | Meet the Founders",
+"description": "Detailed backgrounds of the visionaries behind Kenya AI Compute. Experts in energy, tech, and international finance."
+},
+"hero": {
+"headline": "Visionaries with a Track Record",
+"subheadline": "Our founders and lead advisors have built billion-dollar infrastructure and managed global tech portfolios. Meet the team.",
+"badge": "Our Leaders",
+"cta": [
+{ "label": "Contact Us", "href": "/contact/general", "variant": "secondary" }
+]
+},
+"sections": [
+{
+"type": "text",
+"title": "Built on Experience, Driven by Mission",
+"body": "The leadership of Kenya AI Compute is a diverse group of professionals united by the conviction that the next phase of the digital economy will be built in Africa. Our CEO brings over 15 years of experience in international business consulting across 50 countries, specializing in complex infrastructure modeling. Our technical leads come from the front lines of European data center design and high-density power engineering. Rounding out the team are experts in African GR (Government Relations) who have successfully navigated the regulatory landscape of Kenya's burgeoning tech sector. This combination of global strategy and local operational grit is what allows us to execute with a speed and precision that traditional firms cannot match."
+},
+{
+"type": "bullets",
+"title": "Key Leadership Bios",
+"items": [
+"CEO & Founder: Expert in international business consulting and infrastructure finance.",
+"Technical Lead (CTO): Specialist in modular data center design and GPU thermal engineering.",
+"Financial Lead (CFO): Veteran of African private equity and large-scale CAPEX management.",
+"Operations Lead (COO): Expert in regional logistics and 24/7 technical facility management.",
+"Regulatory Advisor: Former government consultant specializing in SEZ and digital policy."
+]
+},
+{
+"type": "media",
+"title": "Executive Team",
+"items": [
+{ "kind": "image", "src": "/media/founders-portrait.jpg", "alt": "Leadership team photo", "caption": "The driving force behind Africa's premier AI hub." },
+{ "kind": "video", "src": "/media/founders-message-en.mp4", "poster": "/media/team-poster.jpg", "caption": "The story of why we started Kenya AI Compute." }
+]
+},
+{
+"type": "stats",
+"title": "Experience",
+"items": [
+{ "label": "Total Professional Years", "value": "100+" },
+{ "label": "Countries Operated", "value": "50+" }
+]
+},
+{
+"type": "cta",
+"title": "Join Our Journey",
+"copy": "We are scaling our team for Phase 1. Discover how you can contribute to the mission.",
+"primary": { "label": "View Careers", "href": "/careers" },
+"secondary": { "label": "Advisory Board", "href": "/about/team/advisory-board" }
+}
+]
+},
+{
+"path": "/project/phases/phase-1-specs",
+"meta": {
+"title": "Phase 1 Technical Specifications | 300kW Pilot",
+"description": "Deep dive into the Phase 1 configuration: modular units, server counts, and power distribution details."
+},
+"hero": {
+"headline": "Phase 1: The Tactical Foundation",
+"subheadline": "A 300kW blueprint designed for rapid validation and immediate DePIN network onboarding.",
+"badge": "Technical Specs",
+"cta": [
+{ "label": "Phase 1 Financials", "href": "/project/phases/phase-1", "variant": "primary" }
+]
+},
+"sections": [
+{
+"type": "text",
+"title": "Inside the 300kW Pilot Module",
+"body": "Phase 1 of Kenya AI Compute is engineered to be a self-contained, high-performance ecosystem. This phase consists of two 40ft High-Cube modular containers, each delivering 150kW of net IT load. The primary focus is high-density GPU hosting, with each cabinet pre-configured to support 30kW+ loads. We utilize industrial-grade UPS systems with lithium-ion backup for instantaneous failover and N+1 precision cooling to maintain optimal operating temperatures. The network core for Phase 1 is built on a 100G Spine-Leaf architecture, ensuring that our initial GPU clusters have the high-bandwidth connectivity required for Render and io.net tasks. This phase is not just a test; it is a fully operational, high-yield infrastructure asset that establishes our technical standard for the 1MW expansion."
+},
+{
+"type": "bullets",
+"title": "Technical Highlights (Phase 1)",
+"items": [
+"Modules: 2x 40ft modular units with full environmental isolation.",
+"Hardware: ~120 GPUs (training focus) and ~1,500 CPU cores.",
+"Cooling: N+1 DX Precision Cooling with hot-aisle containment.",
+"Networking: Dedicated 40G/100G uplinks for every compute node.",
+"Uptime Target: 99.9% backed by captive generation and UPS redundancy."
+]
+},
+{
+"type": "media",
+"title": "Phase 1 Blueprints",
+"items": [
+{ "kind": "image", "src": "/media/phase-1-module-blueprint.jpg", "alt": "Modular container layout", "caption": "Internal rack configuration for maximum cooling efficiency." },
+{ "kind": "video", "src": "/media/module-factory-tour.mp4", "poster": "/media/phase-poster.jpg", "caption": "Inside the factory: assembling our first compute modules." }
+]
+},
+{
+"type": "stats",
+"title": "Phase 1 Vitals",
+"items": [
+{ "label": "Max Rack Density", "value": "40 kW" },
+{ "label": "Total GPU Teraflops", "value": "1,500+" }
+]
+},
+{
+"type": "cta",
+"title": "Reserve Phase 1 Capacity",
+"copy": "Limited 300kW capacity is available for early partners. Contact our sales team to secure your racks.",
+"primary": { "label": "Contact Sales", "href": "/contact/sales" },
+"secondary": { "label": "Phase 2 Scaling", "href": "/project/phases/phase-2" }
+}
+]
+},
+{
+"path": "/legal/cookie-policy",
+"meta": {
+"title": "Cookie Policy | Transparency in Tracking",
+"description": "How Kenya AI Compute uses cookies to improve your portal experience and site performance."
+},
+"hero": {
+"headline": "Our Use of Technology to Improve Your Experience",
+"subheadline": "We use minimal, privacy-first cookies to ensure the security and efficiency of our member portal and site features.",
+"badge": "Privacy Policy",
+"cta": [
+{ "label": "Privacy Policy", "href": "/legal/privacy-policy", "variant": "secondary" }
+]
+},
+"sections": [
+{
+"type": "text",
+"title": "Respecting Your Digital Footprint",
+"body": "Kenya AI Compute uses cookies and similar tracking technologies primarily to ensure the security of our member portal and to analyze our website traffic to improve user experience. We believe in the principle of data minimization; therefore, we do not use invasive tracking for advertising purposes. The cookies we utilize are categorized into 'Essential' (required for login and security), 'Performance' (to help us understand how users interact with our content), and 'Functional' (to remember your language and interface preferences). By using our site and portal, you agree to our use of these technologies as described in this policy. You have full control over your cookie settings through your browser and our integrated consent management tool, ensuring your right to privacy is always respected."
+},
+{
+"type": "bullets",
+"title": "Cookie Categories",
+"items": [
+"Essential: Necessary for 2FA, session management, and portal security.",
+"Performance: Help us measure PUE dashboard response times and site speed.",
+"Functional: Remembering your preferred locale (EN, RU, ZH) and theme settings.",
+"Third-Party: Limited to essential analytics tools like Vercel and Google Analytics.",
+"Management: Clear instructions on how to disable or clear cookies in any browser."
+]
+},
+{
+"type": "media",
+"title": "Transparency Tools",
+"items": [
+{ "kind": "image", "src": "/media/cookie-consent-ui.jpg", "alt": "Cookie consent interface", "caption": "You are in control of what data we collect." },
+{ "kind": "video", "src": "/media/data-privacy-explainer.mp4", "poster": "/media/regulatory-poster.jpg", "caption": "How we handle digital privacy for our international partners." }
+]
+},
+{
+"type": "stats",
+"title": "Tracking Level",
+"items": [
+{ "label": "Ad-Tracking Cookies", "value": "None" },
+{ "label": "First-Party Focus", "value": "100%" }
+]
+},
+{
+"type": "cta",
+"title": "Manage Preferences",
+"copy": "Adjust your cookie settings or learn more about our commitment to the Kenya Data Protection Act.",
+"primary": { "label": "Cookie Settings", "href": "#settings" },
+"secondary": { "label": "Legal Overview", "href": "/investors/structure/legal" }
+}
+]
+},
+{
+"path": "/resources/faq/technical-network",
+"meta": {
+"title": "Network Technical FAQ | Connectivity & Latency",
+"description": "Deep dive into our network: fiber routes, IXP peering, DDoS protection, and inter-rack bandwidth for AI clusters."
+},
+"hero": {
+"headline": "Network Engineering FAQ",
+"subheadline": "Answers to the most rigorous networking questions from CTOs and Infrastructure Leads.",
+"badge": "Technical Deep Dive",
+"cta": [
+{ "label": "Latency Map", "href": "/project/location/connectivity-deep-dive", "variant": "secondary" }
+]
+},
+"sections": [
+{
+"type": "text",
+"title": "The Speed of AI Sync",
+"body": "Networking in a high-performance compute environment is fundamentally different from standard enterprise IT. When training a model across multiple GPU nodes, the network becomes the backplane of the supercomputer. This FAQ addresses the specific architectural choices we made to ensure that Kenya AI Compute provides the 'Industrial Throughput' required for these tasks. We cover our diverse fiber paths to Mombasa, our internal RoCE v2 implementation, and our strategy for mitigating global network threats. If you are architecting a distributed training run and need to know about our MTU settings or specific BGP community strings, this section provides the raw data you need. Our goal is to provide a transparent network environment where your data moves at the speed of light, not the speed of regional gridlock."
+},
+{
+"type": "bullets",
+"title": "Networking Deep Dive",
+"items": [
+"External Peering: Who are your Tier-1 upstream providers? (SEACOM, TEAMS, Liquid).",
+"DDoS Mitigation: How do you handle 100Gbps+ attacks? (Hardware-based scrubbing).",
+"Internal Fabric: Is it non-blocking? (Yes, full 1:1 oversubscription ratio core).",
+"IPv6 Support: Is the facility future-proof? (Full native dual-stack deployment).",
+"Private Interconnect: Can I get a direct cross-connect? (Yes, via our Meet-Me-Room)."
+]
+},
+{
+"type": "media",
+"title": "Network Schematics",
+"items": [
+{ "kind": "image", "src": "/media/spine-leaf-blueprint.jpg", "alt": "Network topology diagram", "caption": "Visualizing our non-blocking internal compute fabric." },
+{ "kind": "video", "src": "/media/network-performance-test.mp4", "poster": "/media/network-poster.jpg", "caption": "Live test: Throughput and latency between racks." }
+]
+},
+{
+"type": "stats",
+"title": "Network Performance",
+"items": [
+{ "label": "External Fiber Paths", "value": "4 Redundant" },
+{ "label": "Core Port Speed", "value": "400 Gbps" }
+]
+},
+{
+"type": "cta",
+"title": "Need a Network Quote?",
+"copy": "Contact our solutions team for custom bandwidth or dedicated IP transit packages.",
+"primary": { "label": "Contact Network Team", "href": "/contact/sales" },
+"secondary": { "label": "Technical Docs", "href": "/compute/onboarding/documentation" }
+}
+]
+},
+{
+"path": "/project/energy/grid-backup",
+"meta": {
+"title": "Grid Integration & Power Redundancy | Kenya AI Compute",
+"description": "How our facility interacts with the Kenyan national grid. N+1 backup strategy and power failover protocols."
+},
+"hero": {
+"headline": "Redundant by Nature, Stable by Design",
+"subheadline": "While we generate our own power, our integration with the national grid provides a critical third layer of energy security.",
+"badge": "Power Redundancy",
+"cta": [
+{ "label": "Energy Model", "href": "/project/energy/generation", "variant": "primary" }
+]
+},
+"sections": [
+{
+"type": "text",
+"title": "The Triple-Layer Power Strategy",
+"body": "Uptime in the AI world is non-negotiable. To ensure 99.9% availability, Kenya AI Compute utilizes a 'Triple-Layer' power strategy. Layer 1 is our primary captive hybrid power plant, providing 1MW+ of direct power at $0.04/kWh. Layer 2 is our industrial UPS and high-density battery arrays, capable of supporting the full IT load during generation transitions. Layer 3 is our strategic connection to the Kenyan national grid (Kenya Power). This connection acts as a giant 'safety net' and secondary N+1 source. In the event of primary generation maintenance, the facility can seamlessly switch to the grid, ensuring that client GPUs never lose power. This integration also allows us to explore future grid-export opportunities, contributing to Kenya's energy stability while diversifying our project's revenue streams."
+},
+{
+"type": "bullets",
+"title": "Backup & Redundancy Specs",
+"items": [
+"Failover: Automated transition between captive, UPS, and grid sources.",
+"Grid Access: Dedicated substation for high-reliability industrial feed.",
+"Diesel Buffer: On-site storage for 48+ hours of full-load operation.",
+"Maintenance: Ability to service primary generators with zero IT downtime.",
+"Stability: Advanced power conditioning at every stage to prevent GPU surges."
+]
+},
+{
+"type": "media",
+"title": "Power Redundancy Flow",
+"items": [
+{ "kind": "image", "src": "/media/power-failover-diagram.jpg", "alt": "Energy failover flowchart", "caption": "Visualizing our N+1+1 power path for maximum uptime." },
+{ "kind": "video", "src": "/media/grid-sync-test.mp4", "poster": "/media/power-poster.jpg", "caption": "Watch: Synchronizing our captive plant with the national grid." }
+]
+},
+{
+"type": "stats",
+"title": "Redundancy Vitals",
+"items": [
+{ "label": "Power Failover Paths", "value": "3 Independent" },
+{ "label": "Battery Buffer Time", "value": "15+ Minutes (Full Load)" }
+]
+},
+{
+"type": "cta",
+"title": "Technical Audit",
+"copy": "Download our full electrical engineering report and single-line diagrams for technical review.",
+"primary": { "label": "Download Report", "href": "/resources/documents/public" },
+"secondary": { "label": "Energy Efficiency", "href": "/project/energy/efficiency" }
+}
+]
+},
+{
+"path": "/compute/enterprise/managed-services",
+"meta": {
+"title": "Managed AI Infrastructure & MLOps | Enterprise Support",
+"description": "We don't just provide hardware; we provide the team to manage it. 24/7 MLOps, technical support, and setup in Kenya."
+},
+"hero": {
+"headline": "Focus on Your Models, We Handle the Rest",
+"subheadline": "Full-service infrastructure management for enterprise AI. From rack to stack, our engineers are your extended technical team.",
+"badge": "Managed Solutions",
+"cta": [
+{ "label": "Enterprise SLA", "href": "/compute/sla/uptime", "variant": "secondary" }
+]
+},
+"sections": [
+{
+"type": "text",
+"title": "Your Remote Hands in the Silicon Savannah",
+"body": "Scaling an AI project shouldn't require you to fly a team to Kenya. Our Managed Services offer enterprise clients a 'Hands-Free' infrastructure experience. Our on-site NOC engineers act as your remote hands, handling everything from physical hardware swaps and cabling to high-level OS patching and driver optimization. We provide 24/7 MLOps support, helping you monitor training runs, manage storage volumes, and optimize cluster performance for maximum ROI. Whether you are an international hedge fund running proprietary models or a tech giant expanding into Africa, our team ensures that your infrastructure in Kenya operates with the same precision and responsiveness as if it were in your own building. We take the complexity of regional operations off your plate so you can focus on the business of intelligence."
+},
+{
+"type": "bullets",
+"title": "Enterprise Managed Services",
+"items": [
+"24/7 Monitoring: Continuous oversight of power, cooling, and network health.",
+"Hardware Lifecycle: Proactive parts replacement and performance tuning.",
+"MLOps Layer: Expert assistance with Slurm, Kubernetes, and GPU orchestration.",
+"Security Concierge: Custom firewall rules and dedicated hardware isolation.",
+"Logistics Support: Managed import and setup for your proprietary hardware."
+]
+},
+{
+"type": "media",
+"title": "Managed Operations",
+"items": [
+{ "kind": "image", "src": "/media/managed-services-team.jpg", "alt": "NOC engineers at work", "caption": "Our technical team, dedicated to your infrastructure uptime." },
+{ "kind": "video", "src": "/media/mlops-support-talk.mp4", "poster": "/media/ops-poster.jpg", "caption": "How our MLOps support increases your training efficiency by 20%." }
+]
+},
+{
+"type": "stats",
+"title": "Service Standards",
+"items": [
+{ "label": "Response SLA", "value": "< 15 Minutes" },
+{ "label": "On-site Engineers", "value": "24 / 7 / 365" }
+]
+},
+{
+"type": "cta",
+"title": "Request Managed Service Plan",
+"copy": "Let’s build a custom support plan that fits your corporate workflow and security requirements.",
+"primary": { "label": "Consult an Expert", "href": "/contact/sales" },
+"secondary": { "label": "Private Cloud", "href": "/compute/enterprise/private-cloud" }
+}
+]
+},
+{
+"path": "/about/partners/become-a-partner",
+"meta": {
+"title": "Become a Strategic Partner | Join the AI Compute Ecosystem",
+"description": "How to join the Kenya AI Compute consortium. Opportunities for energy, tech, and local Kenyan firms."
+},
+"hero": {
+"headline": "Scaling Africa's Digital Frontier Together",
+"subheadline": "We are seeking visionary partners to expand our 1MW footprint and build the pan-African compute backbone.",
+"badge": "Partnership Opportunity",
+"cta": [
+{ "label": "Partner RFI", "href": "/partners/technical-partner/apply", "variant": "primary" }
+]
+},
+"sections": [
+{
+"type": "text",
+"title": "An Ecosystem for Long-Term Value",
+"body": "Kenya AI Compute is not a siloed project; it is a collaborative ecosystem designed to integrate local natural resources with global technological demand. We are actively expanding our network of strategic partners in three key areas: Energy, Technology, and Local Infrastructure. We offer our partners a unique entry point into the most innovative asset class in the East African market. Partners benefit from international currency revenue streams, technology transfer from global DC experts, and the opportunity to scale alongside us to 3MW and beyond. Whether you are a Kenyan construction firm, a global GPU vendor, or an institutional financier, we have a structured partnership model designed to align our long-term interests and maximize project ROI."
+},
+{
+"type": "bullets",
+"title": "Partnership Pathways",
+"items": [
+"Energy Partners: Help us build and scale hybrid generation assets.",
+"Tech Partners: Design and optimize high-density compute environments.",
+"Local Partners: Navigate the Kenyan regulatory and logistical landscape.",
+"Network Partners: Integrate DePIN protocols and global IP transit.",
+"Capital Partners: Participate in our Phase 2 and Phase 3 expansion rounds."
+]
+},
+{
+"type": "media",
+"title": "Partner Network",
+"items": [
+{ "kind": "image", "src": "/media/partnership-ecosystem-map.jpg", "alt": "Project partner ecosystem", "caption": "Connecting local resources with global AI demand." },
+{ "kind": "video", "src": "/media/partnership-benefits-en.mp4", "poster": "/media/team-poster.jpg", "caption": "The business case for partnering with Kenya AI Compute." }
+]
+},
+{
+"type": "stats",
+"title": "Ecosystem Vitals",
+"items": [
+{ "label": "Target Active Partners", "value": "20+" },
+{ "label": "Project Scalability", "value": "10x to 10MW" }
+]
+},
+{
+"type": "cta",
+"title": "Submit a Partnership Proposal",
+"copy": "Our project management office is ready to review your capabilities and discuss potential synergies.",
+"primary": { "label": "Contact PMO", "href": "/contact/general" },
+"secondary": { "label": "Full Roadmap", "href": "/about/roadmap" }
+}
+]
+},
+{
+"path": "/resources/case-studies/depin-success",
+"meta": {
+"title": "DePIN Success Stories | Proof of Profitability",
+"description": "Real-world examples of how low energy costs in Kenya drive superior yields for Render and Akash node operators."
+},
+"hero": {
+"headline": "Real Assets, Real Yields: The DePIN Proof",
+"subheadline": "See how our $0.04/kWh energy advantage translates into top-tier reputation scores and high token earnings for our node operators.",
+"badge": "Case Studies",
+"cta": [
+{ "label": "Tokenomics Guide", "href": "/compute/depin/tokenomics", "variant": "secondary" }
+]
+},
+"sections": [
+{
+"type": "text",
+"title": "Industrializing DePIN Profitability",
+"body": "The theory of DePIN is compelling, but the reality is won through operational efficiency. These case studies highlight how Kenya AI Compute is transforming the economics of decentralized networks. For example, a managed GPU cluster operating on Render Network within our facility achieved a 65% higher net margin compared to a similar setup in the European Union, purely due to the disparity in electricity costs. Another study of our CPU nodes on the Akash marketplace shows that our Tier II+ reliability allows our operators to win 30% more auctions than residential-based nodes. These success stories provide the 'Proof of Profit' for institutional investors looking to move from crypto-speculation into infrastructure-based token earnings."
+},
+{
+"type": "bullets",
+"title": "Key Case Study Findings",
+"items": [
+"Energy Arbitrage: 70% reduction in monthly electricity bills for node operators.",
+"Reputation Score: Constant 99.9% uptime leads to 'Gold' tier status on major networks.",
+"Task Completion: High-speed 100G fiber ensures faster upload/download for rendering jobs.",
+"Scaling Speed: New capacity onboarded to io.net in under 48 hours from arrival.",
+"Managed ROI: Automated maintenance increases GPU lifespan and reduces downtime losses."
+]
+},
+{
+"type": "media",
+"title": "Success Visualization",
+"items": [
+{ "kind": "image", "src": "/media/case-study-earnings-graph.jpg", "alt": "Node earnings comparison chart", "caption": "Kenya AI vs Traditional Hosting: The DePIN Yield Gap." },
+{ "kind": "video", "src": "/media/operator-testimonial-en.mp4", "poster": "/media/depin-poster.jpg", "caption": "Why I moved my GPU farm from the US to our Kenyan facility." }
+]
+},
+{
+"type": "stats",
+"title": "Success Metrics",
+"items": [
+{ "label": "Net Margin Increase", "value": "60% - 70%" },
+{ "label": "Uptime Reputation", "value": "Tier 1 (Highest)" }
+]
+},
+{
+"type": "cta",
+"title": "Launch Your Case Study",
+"copy": "Join the most profitable DePIN community in the Global South. Start your node hosting today.",
+"primary": { "label": "Node Hosting Plans", "href": "/compute/depin/node-hosting" },
+"secondary": { "label": "Full Library", "href": "/resources/case-studies" }
+}
+]
+},
+{
+"path": "/market/africa/opportunity-deep-dive",
+"meta": {
+"title": "The 2026 Africa AI Opportunity | Deep Market Analysis",
+"description": "Examine the macroeconomic and technical drivers behind the East African AI infrastructure boom. A deep dive for analysts."
+},
+"hero": {
+"headline": "Capturing the African Digital Renaissance",
+"subheadline": "We analyze why the confluence of mobile technology, energy abundance, and AI demand makes Kenya the definitive hub of the next decade.",
+"badge": "Advanced Analysis",
+"cta": [
+{ "label": "Investor Thesis", "href": "/investors/overview", "variant": "primary" }
+]
+},
+"sections": [
+{
+"type": "text",
+"title": "Infrastructure as the Key to Economic Leapfrogging",
+"body": "Africa's tech story is often framed around apps, but the real value is shifting to the physical infrastructure layer. Our deep-dive analysis reveals that the East African Community (EAC) is currently at a critical 'Digital Inflection Point.' As fiber-to-the-home and 5G penetration explode, the backend compute capacity has not kept pace. This creates a massive opportunity for projects like Kenya AI Compute to act as the regional 'Compute Utility.' We explore how the rise of localized AI—for Swahili language models, regional agricultural analytics, and African-centric fintech—is driving a localized GPU demand that cannot be served by servers in Dublin or Marseille. By building the infrastructure here, we are not just saving costs; we are enabling a new category of African tech giants that could never exist in a high-latency environment."
+},
+{
+"type": "bullets",
+"title": "Core Opportunity Drivers",
+"items": [
+"Demographics: 1.4B people, the world's youngest and most tech-native population.",
+"Energy Surplus: Untapped geothermal and solar resources perfect for AI's energy hunger.",
+"Policy Shift: Government mandates for digital sovereignty and local data storage.",
+"Tech Hub Effect: The compounding value of the Nairobi tech cluster ('Silicon Savannah').",
+"Latency Edge: 80% reduction in round-trip time for regional AI applications."
+]
+},
+{
+"type": "media",
+"title": "Macro Trends",
+"items": [
+{ "kind": "image", "src": "/media/africa-tech-growth-viz.jpg", "alt": "Growth of digital economy in Africa", "caption": "The multi-billion dollar shift toward localized compute infrastructure." },
+{ "kind": "video", "src": "/media/africa-opportunity-documentary.mp4", "poster": "/media/market-poster.jpg", "caption": "Watch: Why global VCs are pivoting to African 'Hard Tech'." }
+]
+},
+{
+"type": "stats",
+"title": "Opportunity Metrics",
+"items": [
+{ "label": "Local AI Market Growth", "value": "35% CAGR" },
+{ "label": "Regional Latency Benefit", "value": "-120 ms" }
+]
+},
+{
+"type": "cta",
+"title": "Access the Full Report",
+"copy": "Download our 50-page market research report for a comprehensive look at the regional AI landscape.",
+"primary": { "label": "Download Full Report", "href": "/resources/whitepapers" },
+"secondary": { "label": "Project Overview", "href": "/project/overview" }
+}
+]
+}
+]
+}

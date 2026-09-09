@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "title": "Kenya AI Compute | Powering Africa's AI Future",
+    "description": "Affordable GPU, CPU, and storage capacity backed by dedicated power generation and DePIN-ready infrastructure.",
+    "ogImage": "/images/og/home.jpg"
+  },
+  "hero": {
+    "badge": "1MW AI Compute + Dedicated Power Generation",
+    "headline": "Powering Africa's AI Future",
+    "subheadline": "Kenya AI Compute delivers affordable GPU, CPU, and storage capacity with integrated power generation and DePIN-ready infrastructure for global AI workloads.",
+    "cta": [
+      { "label": "Explore Investment", "href": "/investors", "variant": "primary" },
+      { "label": "Buy Compute", "href": "/compute", "variant": "secondary" },
+      { "label": "Join Network", "href": "/partners", "variant": "ghost" }
+    ],
+    "metrics": [
+      { "label": "Capacity", "value": "1MW" },
+      { "label": "Energy Cost", "value": "$0.04/kWh" },
+      { "label": "Target Uptime", "value": "99.9%" }
+    ]
+  },
+  "valueProps": {
+    "title": "Why Kenya AI Compute",
+    "subtitle": "Optimized infrastructure for AI workloads with a focus on energy efficiency, scale, and DePIN integrations.",
+    "items": [
+      {
+        "title": "For Investors",
+        "copy": "Infrastructure asset with 35-50% EBITDA potential and scalable phases."
+      },
+      {
+        "title": "For AI Companies",
+        "copy": "GPU compute priced up to 40% below market with enterprise SLAs."
+      },
+      {
+        "title": "For DePIN Networks",
+        "copy": "Certified nodes powered by green energy and global connectivity."
+      },
+      {
+        "title": "For Partners",
+        "copy": "Build Africa's AI infrastructure with local and global stakeholders."
+      }
+    ]
+  },
+  "overview": {
+    "title": "Project Snapshot",
+    "bullets": [
+      "Hybrid energy stack with solar + backup generation",
+      "300kW to 1MW to 3MW scaling roadmap",
+      "Carrier-neutral connectivity with sub-sea cable access",
+      "DePIN-ready deployment for Render, Akash, io.net, and more"
+    ],
+    "map": {
+      "label": "Kenya",
+      "note": "Strategic hub for East African connectivity and AI growth."
+    }
+  },
+  "media": {
+    "title": "Visuals & Media",
+    "items": [
+      {
+        "kind": "image",
+        "src": "/media/datacenter-exterior.jpg",
+        "alt": "Datacenter exterior",
+        "caption": "Datacenter concept exterior.",
+        "aspect": "16:9"
+      },
+      {
+        "kind": "image",
+        "src": "/media/site-campus-aerial.jpg",
+        "alt": "Site and operations overview",
+        "caption": "Site flyover and campus layout.",
+        "aspect": "16:9"
+      }
+    ]
+  },
+  "networks": {
+    "title": "Supported Networks",
+    "subtitle": "We host and certify infrastructure for leading AI compute networks.",
+    "items": [
+      { "name": "Render" },
+      { "name": "Akash" },
+      { "name": "io.net" },
+      { "name": "Gensyn" },
+      { "name": "Bittensor" }
+    ]
+  },
+  "updates": {
+    "title": "Latest Updates",
+    "items": [
+      {
+        "title": "Phase 1 feasibility completed with energy partner shortlist",
+        "date": "2026-02-01",
+        "href": "/news/updates/phase-1-feasibility"
+      },
+      {
+        "title": "GPU supply agreements in negotiation for 300kW launch",
+        "date": "2026-01-20",
+        "href": "/news/updates/gpu-supply"
+      },
+      {
+        "title": "Kenya site selection narrowed to two zones",
+        "date": "2026-01-05",
+        "href": "/news/updates/site-selection"
+      }
+    ]
+  },
+  "trust": {
+    "title": "Trusted By",
+    "items": [
+      { "name": "Regional Utilities" },
+      { "name": "Infrastructure Partners" },
+      { "name": "Cloud Integrators" },
+      { "name": "AI Research Labs" }
+    ]
+  },
+  "cta": {
+    "title": "Build the next generation of AI infrastructure",
+    "copy": "Connect with our team to explore investment, compute capacity, or partnership opportunities.",
+    "primary": { "label": "Request Investor Deck", "href": "/contact/investors" },
+    "secondary": { "label": "Talk to Sales", "href": "/contact/sales" }
+  }
+}

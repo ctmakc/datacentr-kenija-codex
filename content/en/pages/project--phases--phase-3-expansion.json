@@ -1,0 +1,82 @@
+{
+  "path": "/project/phases/phase-3-expansion",
+  "meta": {
+    "title": "Phase 3: Scaling to 3MW | The Hyperscale Roadmap",
+    "description": "Details on the 3MW expansion: advanced cooling, permanent structures, and regional compute dominance."
+  },
+  "hero": {
+    "headline": "Building the 3MW AI Backbone",
+    "subheadline": "Phase 3 is where we transition from a regional leader to a continental power player, leveraging hyperscale logic on Kenyan energy.",
+    "badge": "Future Hyperscale",
+    "cta": [
+      {
+        "label": "Phase 1 & 2 Recap",
+        "href": "/project/overview",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "From Modular Pilot to Continental Hub",
+      "body": "Phase 3 represents the full-scale industrialization of our model. Having perfected the modular deployment in Phases 1 and 2, we will expand our primary site to its full 3MW+ IT load capacity. This stage moves beyond containerized units into custom-engineered data center halls, optimized for the next decade of AI progress. We are designing Phase 3 to be 'Liquid Ready,' anticipating the arrival of ultra-high TDP chips from NVIDIA and AMD that will require direct-to-chip or immersion cooling as standard. This hyperscale approach will allow us to capture the largest enterprise training contracts in the EMEA region, providing a scale of compute previously only available in the US or Europe. By this stage, Kenya AI Compute will serve as the anchor tenant of a new technology park in Kenya, fostering a local ecosystem of AI development and research. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure re"
+    },
+    {
+      "type": "bullets",
+      "title": "Phase 3 Expansion Goals",
+      "items": [
+        "Power Scaling: Increasing total site IT load to 3.0 MW and beyond.",
+        "Custom Infrastructure: Construction of high-efficiency, permanent data center halls.",
+        "Next-Gen Cooling: Deployment of industrial liquid cooling loops for 60kW+ racks.",
+        "Regional Peering: Establishing direct fiber interconnects with neighboring tech hubs (Addis Ababa, Kigali).",
+        "Institutional Exit: Reaching the operational scale required for a major strategic sale or IPO."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Phase 3 Vision",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/phase-3-masterplan-render.jpg",
+          "alt": "3MW Data Center Campus Render",
+          "caption": "The completed 3MW AI Compute Hub as an industrial landmark."
+        },
+        {
+          "kind": "video",
+          "src": "/media/future-of-hpc-africa.mp4",
+          "poster": "/media/scaling-poster.jpg",
+          "caption": "Our vision for 2028: High-performance computing for a whole continent."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Hyperscale Metrics",
+      "items": [
+        {
+          "label": "Projected Site Valuation",
+          "value": "$100M+"
+        },
+        {
+          "label": "Total vCPU Capacity",
+          "value": "50,000+"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Scale with Us",
+      "copy": "Be part of the final expansion phase and help us build the definitive AI infrastructure of Africa.",
+      "primary": {
+        "label": "Investor Inquiry",
+        "href": "/contact/investors"
+      },
+      "secondary": {
+        "label": "Long-term Vision",
+        "href": "/about/vision"
+      }
+    }
+  ]
+}

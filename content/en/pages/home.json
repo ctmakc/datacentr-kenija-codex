@@ -1,0 +1,91 @@
+{
+  "path": "/",
+  "meta": {
+    "title": "Powering Africa's AI Future | Kenya AI Compute Infrastructure",
+    "description": "A high-tech 1MW data center integrated with its own power plant in Kenya. We provide affordable GPU/CPU compute for AI training, inference, and DePIN networks."
+  },
+  "hero": {
+    "headline": "Converting Cheap Energy into Global AI Power",
+    "subheadline": "Kenya AI Compute is a vertically integrated infrastructure asset providing high-performance computing at 40% below market rates using local green energy.",
+    "badge": "1MW AI Infrastructure Project",
+    "cta": [
+      {
+        "label": "Explore Investment",
+        "href": "/investors",
+        "variant": "primary"
+      },
+      {
+        "label": "Buy Compute",
+        "href": "/compute",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Next Frontier of AI Infrastructure",
+      "body": "The global AI revolution is facing a massive bottleneck: the scarcity of high-density data centers and the soaring cost of electricity in traditional tech hubs. Kenya AI Compute solves this by strategically locating 1MW of IT load directly at the source of power generation in Kenya. Our project is not just a data center; it is a sophisticated energy arbitrage engine. We take electricity at $0.04/kWh and convert it into high-value digital exports—computational power for LLM training, real-time inference, and decentralized AI networks. By eliminating grid fees and middleman markups, we offer a sustainable, high-margin alternative to the overcrowded data centers of Europe and the US. Our hybrid architecture, optimized for 30% GPU and 50% CPU workloads, ensures maximum utilization and consistent dollar-denominated revenue for our investors."
+    },
+    {
+      "type": "bullets",
+      "title": "Unrivaled Competitive Advantages",
+      "items": [
+        "Energy Arbitrage: Direct integration with our own power plant secures a fixed $0.04/kWh rate.",
+        "DePIN Native: Seamlessly integrated with Render, Akash, io.net, and Bittensor for instant capacity utilization.",
+        "Scalable Modular Design: Deployment speed of 9-12 months from Phase 1 (300kW) to Phase 3 (3MW).",
+        "Currency Hedge: OPEX settled in local currency while revenue is strictly USD-denominated.",
+        "Green Compute: Leveraging Kenya’s status as a leader in geothermal and solar energy to reach a target PUE of 1.3-1.5."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Project Visualization",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/hero-datacenter-render.jpg",
+          "alt": "3D Render of Kenya AI Data Center",
+          "caption": "Our modular 1MW facility designed for extreme AI workloads."
+        },
+        {
+          "kind": "video",
+          "src": "/media/project-intro.mp4",
+          "poster": "/media/video-cover.jpg",
+          "caption": "How we turn Kenya's energy into global AI intelligence."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Core Project Metrics",
+      "items": [
+        {
+          "label": "Planned IT Load",
+          "value": "1 MW"
+        },
+        {
+          "label": "Target Energy Cost",
+          "value": "$0.04/kWh"
+        },
+        {
+          "label": "Guaranteed Uptime",
+          "value": "99.9%"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Join the Infrastructure Revolution",
+      "copy": "Whether you are an institutional investor seeking 35-50% EBITDA or an AI company looking for affordable GPU hours, we have a place for you.",
+      "primary": {
+        "label": "Request Investor Deck",
+        "href": "/resources/documents/request"
+      },
+      "secondary": {
+        "label": "View Network Partners",
+        "href": "/about/partners"
+      }
+    }
+  ]
+}

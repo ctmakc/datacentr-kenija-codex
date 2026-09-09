@@ -1,0 +1,846 @@
+{
+  "locale": "en",
+  "batch": "01",
+  "pages": [
+    {
+      "path": "/",
+      "meta": {
+        "title": "Powering Africa's AI Future | Kenya AI Compute Infrastructure",
+        "description": "A high-tech 1MW data center integrated with its own power plant in Kenya. We provide affordable GPU/CPU compute for AI training, inference, and DePIN networks."
+      },
+      "hero": {
+        "headline": "Converting Cheap Energy into Global AI Power",
+        "subheadline": "Kenya AI Compute is a vertically integrated infrastructure asset providing high-performance computing at 40% below market rates using local green energy.",
+        "badge": "1MW AI Infrastructure Project",
+        "cta": [
+          { "label": "Explore Investment", "href": "/investors", "variant": "primary" },
+          { "label": "Buy Compute", "href": "/compute", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "The Next Frontier of AI Infrastructure",
+          "body": "The global AI revolution is facing a massive bottleneck: the scarcity of high-density data centers and the soaring cost of electricity in traditional tech hubs. Kenya AI Compute solves this by strategically locating 1MW of IT load directly at the source of power generation in Kenya. Our project is not just a data center; it is a sophisticated energy arbitrage engine. We take electricity at $0.04/kWh and convert it into high-value digital exports—computational power for LLM training, real-time inference, and decentralized AI networks. By eliminating grid fees and middleman markups, we offer a sustainable, high-margin alternative to the overcrowded data centers of Europe and the US. Our hybrid architecture, optimized for 30% GPU and 50% CPU workloads, ensures maximum utilization and consistent dollar-denominated revenue for our investors."
+        },
+        {
+          "type": "bullets",
+          "title": "Unrivaled Competitive Advantages",
+          "items": [
+            "Energy Arbitrage: Direct integration with our own power plant secures a fixed $0.04/kWh rate.",
+            "DePIN Native: Seamlessly integrated with Render, Akash, io.net, and Bittensor for instant capacity utilization.",
+            "Scalable Modular Design: Deployment speed of 9-12 months from Phase 1 (300kW) to Phase 3 (3MW).",
+            "Currency Hedge: OPEX settled in local currency while revenue is strictly USD-denominated.",
+            "Green Compute: Leveraging Kenya’s status as a leader in geothermal and solar energy to reach a target PUE of 1.3-1.5."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Project Visualization",
+          "items": [
+            { "kind": "image", "src": "/media/hero-datacenter-render.jpg", "alt": "3D Render of Kenya AI Data Center", "caption": "Our modular 1MW facility designed for extreme AI workloads." },
+            { "kind": "video", "src": "/media/project-intro.mp4", "poster": "/media/video-cover.jpg", "caption": "How we turn Kenya's energy into global AI intelligence." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Core Project Metrics",
+          "items": [
+            { "label": "Planned IT Load", "value": "1 MW" },
+            { "label": "Target Energy Cost", "value": "$0.04/kWh" },
+            { "label": "Guaranteed Uptime", "value": "99.9%" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Join the Infrastructure Revolution",
+          "copy": "Whether you are an institutional investor seeking 35-50% EBITDA or an AI company looking for affordable GPU hours, we have a place for you.",
+          "primary": { "label": "Request Investor Deck", "href": "/resources/documents/request" },
+          "secondary": { "label": "View Network Partners", "href": "/about/partners" }
+        }
+      ]
+    },
+    {
+      "path": "/about/vision",
+      "meta": {
+        "title": "Mission and Long-term Vision | Kenya AI Compute",
+        "description": "Transforming Africa into a global hub for AI computation. Our mission to democratize access to high-performance computing."
+      },
+      "hero": {
+        "headline": "Democratizing AI Through Energy Efficiency",
+        "subheadline": "We believe that affordable computation is the backbone of the 21st-century economy. Our vision is to build Africa’s most efficient AI compute cluster.",
+        "badge": "Our Vision",
+        "cta": [
+          { "label": "See Our Roadmap", "href": "/about/roadmap", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "Beyond Traditional Power Generation",
+          "body": "Traditional energy projects in emerging markets often suffer from low margins and restricted local demand. Our vision flips this model by using energy as the fuel for a global digital product. By building high-density AI infrastructure in Kenya, we are creating a bridge between local natural resources and the global demand for machine learning. We aim to empower the next generation of AI researchers, developers, and startups by providing them with the compute power they need at a price point that was previously impossible. Long-term, Kenya AI Compute aims to become the pan-African backbone for AI services, replicating our modular, energy-efficient model across the continent to foster technological sovereignty and economic growth."
+        },
+        {
+          "type": "bullets",
+          "title": "Our Strategic Pillars",
+          "items": [
+            "Infrastructure First: Focusing on hard assets (GPU clusters, power plants) rather than speculative software.",
+            "Technological Neutrality: Building an open platform that supports both centralized enterprise and decentralized Web3 networks.",
+            "Sustainability: Prioritizing renewable energy sources to minimize the environmental impact of heavy AI workloads.",
+            "Localized Value: Creating high-tech employment and skill transfer within the Kenyan tech ecosystem."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "The Vision in Motion",
+          "items": [
+            { "kind": "image", "src": "/media/vision-impact-map.jpg", "alt": "Impact of AI Compute in Africa", "caption": "Visualizing our planned expansion across East Africa." },
+            { "kind": "video", "src": "/media/vision-statement.mp4", "poster": "/media/vision-poster.jpg", "caption": "A message from our founders on why the future of AI is African." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Long-term Targets",
+          "items": [
+            { "label": "Projected Network Capacity", "value": "10+ MW" },
+            { "label": "Renewable Energy Goal", "value": "100%" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Be Part of the Journey",
+          "copy": "We are seeking partners who share our belief in a decentralized and accessible AI future.",
+          "primary": { "label": "Partner With Us", "href": "/partners" },
+          "secondary": { "label": "Read Our Blog", "href": "/news/blog" }
+        }
+      ]
+    },
+    {
+      "path": "/about/team",
+      "meta": {
+        "title": "Leadership and Expertise | The Team Behind the Project",
+        "description": "Meet the experts in data center engineering, energy infrastructure, and AI technologies leading the Kenya AI Compute project."
+      },
+      "hero": {
+        "headline": "World-Class Expertise in Local Markets",
+        "subheadline": "Our leadership team combines decades of experience in international consulting, energy systems, and high-performance computing.",
+        "badge": "Our Experts",
+        "cta": [
+          { "label": "View Advisory Board", "href": "#board", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "A Multidisciplinary Approach to Infrastructure",
+          "body": "Building a 1MW data center in Kenya requires more than just technical knowledge; it requires a deep understanding of local logistics, regulatory frameworks, and global capital markets. Our team is composed of professionals who have operated in over 50 countries, bringing a wealth of experience in managing large-scale CAPEX projects. From data center architects who specialize in modular cooling systems to financial strategists with deep roots in the East African market, we have assembled the talent necessary to ensure 99.9% uptime and 35-50% EBITDA margins. We pride ourselves on engineering honesty and radical transparency, ensuring that every phase of the project is executed with precision and accountability."
+        },
+        {
+          "type": "bullets",
+          "title": "Our Key Competencies",
+          "items": [
+            "Project Initiation: Experts in economic modeling and investor positioning for multi-million dollar assets.",
+            "Technical Engineering: Specialists in Tier II/III data center design and high-density GPU cooling.",
+            "Local Governance: Deep connections with Kenyan authorities to navigate licensing and Special Economic Zone incentives.",
+            "AI/ML Operations: Specialists in optimizing hardware for LLM training and DePIN network integration."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Team at Work",
+          "items": [
+            { "kind": "image", "src": "/media/team-site-inspection.jpg", "alt": "Engineering team on site in Kenya", "caption": "Our engineers conducting final site surveys for Phase 1 construction." },
+            { "kind": "video", "src": "/media/team-values.mp4", "poster": "/media/team-poster.jpg", "caption": "The core values that drive our operational excellence." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Combined Experience",
+          "items": [
+            { "label": "Countries Operated In", "value": "50+" },
+            { "label": "Total Infrastructure CAPEX Managed", "value": "$500M+" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Work With the Best",
+          "copy": "We are always looking for talented engineers and managers to join our growing team in Nairobi and beyond.",
+          "primary": { "label": "Explore Careers", "href": "/careers" },
+          "secondary": { "label": "Contact IR Team", "href": "/contact/investors" }
+        }
+      ]
+    },
+    {
+      "path": "/about/roadmap",
+      "meta": {
+        "title": "Project Roadmap | 300kW to 3MW Milestones",
+        "description": "Follow our phased development plan: from Phase 1 construction in 2025 to Phase 3 pan-African scaling."
+      },
+      "hero": {
+        "headline": "A Clear Path to 3MW Capacity",
+        "subheadline": "We follow a de-risked, phased approach that allows for immediate revenue generation while scaling to meet global demand.",
+        "badge": "Project Timeline",
+        "cta": [
+          { "label": "View Phase 1 Details", "href": "/project/phases/phase-1", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "Phased Scaling for Maximum Stability",
+          "body": "Our roadmap is designed to minimize risk and maximize early ROI. We begin with Phase 1, a 300kW IT load cluster that serves as our proof of concept for local operations and DePIN integration. By using modular containerized units, we can go from ground-breaking to full operation within 9-12 months. Phase 2 scales this success to 1MW, reaching our target EBITDA of 35-50% through improved operational efficiency and larger-scale GPU clusters. Finally, Phase 3 takes us beyond the 3MW mark, where we transition into permanent structures and explore replication across other energy-rich regions in East Africa. This methodical progression ensures that we learn from each phase, optimizing our PUE and hardware mix as the AI market evolves."
+        },
+        {
+          "type": "bullets",
+          "title": "Key Milestones",
+          "items": [
+            "2024: Feasibility studies, site selection, and initial technical design completed.",
+            "2025: Ground-breaking and completion of Phase 1 (300kW) with immediate DePIN onboarding.",
+            "2026: Expansion to Phase 2 (1MW), achieving full operational profitability.",
+            "2027: Planning and infrastructure preparation for Phase 3 (3MW+).",
+            "2028+: Replication of the model in neighboring East African jurisdictions."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Timeline Visualization",
+          "items": [
+            { "kind": "image", "src": "/media/roadmap-infographic-en.jpg", "alt": "Project Roadmap 2024-2028", "caption": "The journey from 300kW pilot to 3MW infrastructure hub." },
+            { "kind": "video", "src": "/media/roadmap-explained.mp4", "poster": "/media/roadmap-poster.jpg", "caption": "How we manage construction and scaling timelines in the Kenyan market." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Execution Speed",
+          "items": [
+            { "label": "Time to First Revenue", "value": "9-12 Months" },
+            { "label": "Current Status", "value": "Planning & Pre-sale" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Track Our Progress",
+          "copy": "Subscribe to our investor newsletter to get monthly updates on our construction and partnership milestones.",
+          "primary": { "label": "Subscribe Now", "href": "/news" },
+          "secondary": { "label": "View Financials", "href": "/investors/financials/model" }
+        }
+      ]
+    },
+    {
+      "path": "/project/overview",
+      "meta": {
+        "title": "Project Overview | High-Density AI Data Center",
+        "description": "Comprehensive summary of the Kenya AI Compute project: energy integration, hybrid compute model, and financial targets."
+      },
+      "hero": {
+        "headline": "1MW AI Infrastructure: The Specs of Success",
+        "subheadline": "A specialized facility designed for the most demanding GPU workloads, powered by direct energy integration at $0.04/kWh.",
+        "badge": "The Core Project",
+        "cta": [
+          { "label": "Technical Specs", "href": "/datacenter", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "Vertical Integration: From Power to Compute",
+          "body": "Kenya AI Compute is not a traditional cloud provider; it is an infrastructure asset that controls its own supply chain. By integrating the data center directly with a 2MW+ hybrid power plant, we eliminate the volatility of the public grid and secure the lowest energy rates available for high-performance computing. Our facility utilizes a modular, containerized approach that allows for rapid deployment and easy maintenance. The compute architecture is a balanced hybrid: 30% dedicated to high-end GPU clusters for AI training and rendering, 50% dedicated to CPU workloads for inference and general-purpose edge computing, and 20% dedicated to high-speed NVMe storage. This mix is specifically engineered to ensure high utilization rates across both enterprise clients and decentralized DePIN protocols."
+        },
+        {
+          "type": "bullets",
+          "title": "Project Fundamentals",
+          "items": [
+            "Facility Type: Modular containerized data center with advanced environmental controls.",
+            "Energy Supply: Direct captive generation (Solar + Gas/Diesel backup) at $0.04/kWh.",
+            "Compute Profile: Hybrid 30/50/20 (GPU/CPU/Storage) for diverse revenue streams.",
+            "Reliability: Designed to Tier II/III standards with 99.9% guaranteed uptime.",
+            "Profitability: Target EBITDA of 35-50% with a 5-7 year payback period."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Facility Layout",
+          "items": [
+            { "kind": "image", "src": "/media/dc-layout-blueprint.jpg", "alt": "Data Center Blueprint", "caption": "Engineered for maximum rack density and cooling efficiency." },
+            { "kind": "video", "src": "/media/project-walkthrough.mp4", "poster": "/media/overview-poster.jpg", "caption": "A 3D flyover of the planned 1MW site in Kenya." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Financial Highlights",
+          "items": [
+            { "label": "Estimated Annual Revenue", "value": "$5M - $8M" },
+            { "label": "Total CAPEX (Phase 1+2)", "value": "$20M - $25M" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Deep Dive Into the Data",
+          "copy": "Access our full technical whitepapers and financial projections in the Investor Data Room.",
+          "primary": { "label": "Request Data Room", "href": "/investors/contact" },
+          "secondary": { "label": "Location Advantage", "href": "/project/location/kenya" }
+        }
+      ]
+    },
+    {
+      "path": "/project/location/kenya",
+      "meta": {
+        "title": "Why Kenya? | The Strategic Advantage for AI",
+        "description": "Kenya is the Silicon Savannah. Discover the benefits of political stability, global connectivity, and renewable energy."
+      },
+      "hero": {
+        "headline": "Kenya: The Silicon Savannah of AI",
+        "subheadline": "Combining cheap renewable energy, top-tier global connectivity, and a pro-tech government, Kenya is the ultimate location for AI infrastructure.",
+        "badge": "Strategic Location",
+        "cta": [
+          { "label": "View Site Details", "href": "/project/location/site", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "The Tech Hub of East Africa",
+          "body": "Kenya was chosen as our primary location due to its unique position as Africa’s digital leader. The country boasts one of the most stable political environments in the region and a legal system based on English common law, providing strong protections for foreign investors. Beyond governance, Kenya is a telecommunications powerhouse; its coastline in Mombasa is the landing point for multiple undersea fiber optic cables (SEACOM, TEAMS, EASSy), ensuring low-latency connections to Europe, the Middle East, and Asia. Furthermore, Kenya is a global leader in renewable energy, with over 90% of its electricity coming from green sources. Our project leverages this abundance to provide sustainable AI computing that meets the ESG requirements of global corporations while maintaining an unbeatable price point."
+        },
+        {
+          "type": "bullets",
+          "title": "Location Benefits",
+          "items": [
+            "Connectivity: Direct access to 4+ international undersea cables for global low-latency.",
+            "Energy: World-leading geothermal and solar capacity for green computations.",
+            "Incentives: Special Economic Zone (SEZ) status offers tax holidays and duty exemptions.",
+            "Talent: Access to a large pool of young, tech-savvy, English-speaking engineers.",
+            "Stability: The most mature business ecosystem in East Africa with transparent investment laws."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Kenya Connectivity",
+          "items": [
+            { "kind": "image", "src": "/media/kenya-cable-map.jpg", "alt": "Undersea Cable Map", "caption": "How Kenya connects Africa to the global internet backbone." },
+            { "kind": "video", "src": "/media/kenya-tech-vlog.mp4", "poster": "/media/kenya-poster.jpg", "caption": "Inside the thriving tech ecosystem of Nairobi." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Regional Context",
+          "items": [
+            { "label": "Internet Penetration", "value": "Top 5 in Africa" },
+            { "label": "Renewable Energy Share", "value": "90%+" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Explore the Site",
+          "copy": "Learn more about the specific land parcel and construction plans for our modular facility.",
+          "primary": { "label": "Site Information", "href": "/project/location/site" },
+          "secondary": { "label": "Regulatory Info", "href": "/regulatory/kenya" }
+        }
+      ]
+    },
+    {
+      "path": "/project/location/site",
+      "hero": {
+        "headline": "Optimized Site for Industrial Compute",
+        "subheadline": "Our facility is located in a high-security industrial zone with direct, zero-distance integration to power generation.",
+        "badge": "Facility Site",
+        "cta": [
+          { "label": "View Connectivity", "href": "/project/location/connectivity", "variant": "secondary" }
+        ]
+      },
+      "meta": {
+        "title": "Site Location and Logistics | Kenya AI Compute",
+        "description": "Details of our physical site in Kenya: energy integration, accessibility, and security protocols."
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "Strategic Land and Power Proximity",
+          "body": "The physical location of Kenya AI Compute was selected based on a 'Zero Loss' strategy. We are situated directly adjacent to a primary power generation station, which means our high-voltage cables have the shortest possible run to our transformers. This proximity minimizes electrical transmission loss and eliminates the need for expensive grid-level distribution infrastructure. The site itself is located within a secure industrial perimeter, providing high-level physical protection and 24/7 monitoring. We have secured enough land for the full expansion of Phase 3, allowing us to grow to 3MW and beyond without having to acquire additional property. Logistically, the site is accessible via major highways, facilitating the rapid transport of modular containers from the Port of Mombasa directly to the facility."
+        },
+        {
+          "type": "bullets",
+          "title": "Site Characteristics",
+          "items": [
+            "Proximity to Power: Less than 200 meters from the generation source.",
+            "Logistics: Direct highway access from Mombasa port for heavy equipment transport.",
+            "Security: Triple-layered perimeter security with armed response and biometric access.",
+            "Expansion Capacity: 5+ acres of secured land reserved for Phases 2 and 3.",
+            "Environment: Located in a low-risk zone for natural disasters (seismic/flooding)."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Site Inspection",
+          "items": [
+            { "kind": "image", "src": "/media/site-drone-shot.jpg", "alt": "Drone shot of the site", "caption": "The cleared site ready for foundation works of Phase 1." },
+            { "kind": "video", "src": "/media/site-logistics.mp4", "poster": "/media/site-poster.jpg", "caption": "A detailed look at the logistics and security of our location." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Site Metrics",
+          "items": [
+            { "label": "Distance to Power", "value": "< 200m" },
+            { "label": "Total Land Area", "value": "5+ Acres" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Technical Connectivity",
+          "copy": "Learn how our physical site translates into global network speed and low latency.",
+          "primary": { "label": "Network Details", "href": "/project/location/connectivity" },
+          "secondary": { "label": "Climate Data", "href": "/project/location/climate" }
+        }
+      ]
+    },
+    {
+      "path": "/project/energy/generation",
+      "meta": {
+        "title": "Energy Generation and Integration | Kenya AI Compute",
+        "description": "How our captive power generation works. Fixed energy rates at $0.04/kWh and backup power strategy."
+      },
+      "hero": {
+        "headline": "The Power Behind the Intelligence",
+        "subheadline": "We have solved the energy cost problem by becoming our own power consumer, securing rates that global cloud giants cannot match.",
+        "badge": "Captive Generation",
+        "cta": [
+          { "label": "Energy Efficiency", "href": "/project/energy/efficiency", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "Vertically Integrated Power Strategy",
+          "body": "Energy is the single largest operational cost for any data center, accounting for up to 70% of OPEX. Kenya AI Compute circumvents high public utility rates through a captive generation model. By integrating our modular data center with a dedicated power plant, we capture the 'energy arbitrage' opportunity. We generate electricity at an industrial cost of $0.04-$0.06/kWh, whereas the standard grid rates for data centers in most countries range from $0.15 to $0.25/kWh. Our hybrid generation mix primarily uses natural gas and solar, with diesel generators providing N+1 redundancy. This ensures that even in the unlikely event of a primary generation failure, our AI workloads continue to run without interruption. This strategy not only protects our margins but also offers our clients long-term price stability that is impossible to find in traditional cloud markets."
+        },
+        {
+          "type": "bullets",
+          "title": "Power Plant Specs",
+          "items": [
+            "Total Capacity: 2MW+ (Phase 1 support + Phase 2 headroom).",
+            "Energy Mix: Hybrid Solar + Gas with high-efficiency Diesel backup.",
+            "Fixed Rate: $0.04 - $0.06/kWh secured for the project duration.",
+            "Redundancy: N+1 power supply to all server modules.",
+            "Monitoring: Real-time BMS integration for load balancing and fuel efficiency."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Energy Infrastructure",
+          "items": [
+            { "kind": "image", "src": "/media/power-plant-photo.jpg", "alt": "On-site power plant", "caption": "The integrated generation unit providing direct power to the racks." },
+            { "kind": "video", "src": "/media/energy-tour.mp4", "poster": "/media/energy-poster.jpg", "caption": "A technical walkthrough of our generation and distribution system." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Energy Advantage",
+          "items": [
+            { "label": "Fixed Energy Cost", "value": "$0.04/kWh" },
+            { "label": "Vs Market Avg", "value": "-65%" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Focus on Efficiency",
+          "copy": "Cheap energy is only half the battle. Discover how we optimize every watt for maximum compute output.",
+          "primary": { "label": "PUE & Efficiency", "href": "/project/energy/efficiency" },
+          "secondary": { "label": "Sustainability", "href": "/project/energy/sustainability" }
+        }
+      ]
+    },
+    {
+      "path": "/project/energy/efficiency",
+      "meta": {
+        "title": "Energy Efficiency and PUE | Kenya AI Compute",
+        "description": "Our engineering approach to PUE. Smart cooling, load balancing, and how we achieve 1.3-1.5 efficiency."
+      },
+      "hero": {
+        "headline": "Efficiency in Every Watt",
+        "subheadline": "We don't just use cheap power; we use it wisely. Our target PUE of 1.3-1.5 sets the standard for data centers in Africa.",
+        "badge": "PUE Excellence",
+        "cta": [
+          { "label": "Cooling Tech", "href": "/datacenter/architecture/cooling", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "Maximizing Yield Through Smart Engineering",
+          "body": "Power Usage Effectiveness (PUE) is the gold standard for measuring data center efficiency. While many African data centers struggle with PUEs above 2.0 due to high ambient temperatures and outdated cooling tech, Kenya AI Compute targets a hyper-efficient range of 1.3 to 1.5. We achieve this through a combination of outside air economizers, evaporative cooling, and a strict hot/cold aisle containment strategy. By leveraging Kenya's specific climate, which features moderate temperatures and low humidity in our site location, we can utilize 'free cooling' for a significant portion of the year. Every rack is equipped with intelligent PDU units that monitor consumption down to the individual server, allowing our AI-driven BMS to dynamically adjust cooling and power distribution for maximum performance and minimum waste."
+        },
+        {
+          "type": "bullets",
+          "title": "Efficiency Drivers",
+          "items": [
+            "Hot/Cold Aisle Containment: Eliminates air mixing and reduces cooling load.",
+            "Variable Frequency Drives (VFDs): Automatically adjust fan speeds based on real-time heat load.",
+            "LED Smart Lighting: Zero-waste auxiliary power consumption.",
+            "AI-BMS: Predictive load balancing to prevent thermal hotspots.",
+            "Modular Expansion: Only cooling the active load, avoiding the 'empty hall' cooling waste."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Efficiency Dashboard",
+          "items": [
+            { "kind": "image", "src": "/media/pue-monitor-en.jpg", "alt": "PUE Monitoring Interface", "caption": "Live tracking of our energy efficiency and carbon footprint." },
+            { "kind": "video", "src": "/media/cooling-demo-en.mp4", "poster": "/media/efficiency-poster.jpg", "caption": "Technical demonstration of our modular air-flow design." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Efficiency Targets",
+          "items": [
+            { "label": "Target PUE", "value": "1.3 - 1.5" },
+            { "label": "Cooling Power Savings", "value": "30%+" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Green Compute Strategy",
+          "copy": "Efficiency is the cornerstone of our sustainability mission. See our full ESG framework.",
+          "primary": { "label": "Sustainability", "href": "/project/energy/sustainability" },
+          "secondary": { "label": "Power Architecture", "href": "/datacenter/architecture/power" }
+        }
+      ]
+    },
+    {
+      "path": "/project/phases/phase-1",
+      "meta": {
+        "title": "Phase 1: 300kW Deployment | Quick Start Strategy",
+        "description": "Phase 1 details: 300kW IT load, 2 container modules, and immediate DePIN network integration."
+      },
+      "hero": {
+        "headline": "Phase 1: Launching the Future",
+        "subheadline": "Our 300kW initial deployment focuses on immediate revenue generation through DePIN and AI rendering workloads.",
+        "badge": "Phase 1: 300kW",
+        "cta": [
+          { "label": "Phase 1 Financials", "href": "/investors/financials/capex", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "The Strategic Pilot",
+          "body": "Phase 1 is our tactical entry into the market, designed to establish operational presence and generate immediate cash flow. This phase consists of two 40ft High-Cube container modules with a combined IT load of 300kW. The hardware configuration is specifically weighted toward GPU-heavy tasks (100kW GPU, 150kW CPU, 50kW Storage) to take advantage of the high demand from networks like Render and io.net. This stage allows us to finalize all local operational procedures, train our core engineering team in Kenya, and demonstrate the efficiency of our $0.04/kWh energy model. Construction is planned for 9-12 months, with a CAPEX of $6M-$8M. This phase serves as the foundation upon which the 1MW expansion will be built."
+        },
+        {
+          "type": "bullets",
+          "title": "Phase 1 Specifications",
+          "items": [
+            "Capacity: 300kW IT load delivered via 2 modular units.",
+            "Hardware: NVIDIA-heavy GPU clusters + AMD EPYC CPU nodes.",
+            "Timeline: 9-12 months from funding to first revenue.",
+            "CAPEX: $6.0 - $8.0 Million.",
+            "Revenue Target: $1.5M - $2.5M per year at 50% utilization."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Phase 1 Visualization",
+          "items": [
+            { "kind": "image", "src": "/media/phase-1-render.jpg", "alt": "Phase 1 containers on site", "caption": "Our first two modules deployed and integrated with the power plant." },
+            { "kind": "video", "src": "/media/container-setup-en.mp4", "poster": "/media/phase-poster.jpg", "caption": "How we deploy modular compute units in record time." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Phase 1 Goals",
+          "items": [
+            { "label": "Deployment Speed", "value": "9 Months" },
+            { "label": "Target Utilization", "value": "50%+" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Investment Opportunity",
+          "copy": "Phase 1 is currently open for anchor investors seeking early entry into the project.",
+          "primary": { "label": "Invest in Phase 1", "href": "/contact/investors" },
+          "secondary": { "label": "Scaling to Phase 2", "href": "/project/phases/phase-2" }
+        }
+      ]
+    },
+    {
+      "path": "/datacenter/specifications/tier-level",
+      "meta": {
+        "title": "Tier II/III Standards and Uptime | Kenya AI Compute",
+        "description": "Understanding our reliability standards. Why Tier II+ is the optimal choice for AI and DePIN workloads."
+      },
+      "hero": {
+        "headline": "Reliability at Scale",
+        "subheadline": "We deliver 99.9%+ uptime by combining Tier II baseline infrastructure with simplified Tier III redundancies for critical power and cooling.",
+        "badge": "Infrastructure Standards",
+        "cta": [
+          { "label": "Uptime SLA", "href": "/compute/sla/uptime", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "Engineered for AI Continuity",
+          "body": "Traditional Tier IV data centers are often over-engineered for AI workloads, leading to unnecessarily high CAPEX and rental rates. Kenya AI Compute utilizes an optimized 'Tier II+' design. This means we maintain N+1 redundancy on all critical systems (UPS, cooling, power generation) while avoiding the excessive costs of full concurrent maintainability where it isn't required for machine learning tasks. Since AI training and rendering tasks are naturally fault-tolerant at the software level, our design provides the perfect balance of 99.9% uptime and low cost-per-watt. For clients requiring higher levels of security, we offer specialized racks that meet full Tier III elements, ensuring that mission-critical inference APIs remain online even during maintenance windows."
+        },
+        {
+          "type": "bullets",
+          "title": "Standard of Quality",
+          "items": [
+            "Uptime Target: 99.9%+ annual availability guaranteed.",
+            "Power Path: Dual-path power distribution to every rack.",
+            "Cooling: N+1 redundant precision air conditioning units.",
+            "Maintenance: Scheduled windows with zero impact on DePIN earnings.",
+            "Compliance: Designed with future ISO 27001 and SOC 2 certification in mind."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Reliability Diagram",
+          "items": [
+            { "kind": "image", "src": "/media/tier-diagram-en.jpg", "alt": "Tier II+ Architecture Diagram", "caption": "How we achieve high availability without the 'Tier IV tax'." },
+            { "kind": "video", "src": "/media/reliability-test.mp4", "poster": "/media/tech-poster.jpg", "caption": "Testing our failover systems: from primary generation to UPS." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Availability",
+          "items": [
+            { "label": "Guaranteed Uptime", "value": "99.9%" },
+            { "label": "Redundancy Level", "value": "N+1" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Technical Audit",
+          "copy": "Review our full engineering specifications and maintenance protocols in our technical portal.",
+          "primary": { "label": "Engineering Docs", "href": "/compute/onboarding/documentation" },
+          "secondary": { "label": "Hardware Mix", "href": "/datacenter/equipment/compute" }
+        }
+      ]
+    },
+    {
+      "path": "/compute/gpu/training",
+      "meta": {
+        "title": "GPU Training Clusters | Scalable AI Model Training",
+        "description": "High-performance GPU clusters for LLM and Deep Learning training. NVIDIA A100/H100 specs and pricing."
+      },
+      "hero": {
+        "headline": "Industrial-Scale Training Clusters",
+        "subheadline": "Accelerate your AI development with massive GPU clusters powered by $0.04/kWh energy. Scale from a single node to a full pod seamlessly.",
+        "badge": "GPU Training",
+        "cta": [
+          { "label": "Reserve a Cluster", "href": "/contact/sales", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "The Foundation for Large Models",
+          "body": "Training modern LLMs and generative models requires two things: immense compute power and low-latency interconnects. Kenya AI Compute provides both. Our GPU clusters are built on high-bandwidth Spine-Leaf architecture, ensuring that data flows freely between nodes during large-scale distributed training runs. We offer a mix of NVIDIA A100 (40GB/80GB) and H100 units, as well as AMD Instinct alternatives, allowing you to choose the price-to-performance ratio that fits your R&D budget. By taking advantage of our Kenyan energy arbitrage, we can offer reserved training instances at up to 50% less than standard cloud providers, enabling researchers to run longer experiments and train larger models for the same capital outlay."
+        },
+        {
+          "type": "bullets",
+          "title": "Training Capabilities",
+          "items": [
+            "Hardware: H100 80GB and A100 80GB clusters with NVLink support.",
+            "Networking: RDMA-enabled 100G/400G internal fabric for sync-heavy training.",
+            "Software: Pre-installed PyTorch, TensorFlow, and JAX with optimized CUDA drivers.",
+            "Storage: Local NVMe scratch space for fast checkpointing.",
+            "Pricing: On-demand from $1.00/GPU-hour, with deep discounts for reserved terms."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Training in Action",
+          "items": [
+            { "kind": "image", "src": "/media/gpu-cluster-training.jpg", "alt": "GPU Cluster for AI training", "caption": "A dedicated 8-node GPU cluster configured for LLM fine-tuning." },
+            { "kind": "video", "src": "/media/training-speed-test.mp4", "poster": "/media/compute-poster.jpg", "caption": "Benchmarking our clusters against standard cloud providers." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Price Performance",
+          "items": [
+            { "label": "GPU Hour Rate (Reserved)", "value": "$0.70 - $0.90" },
+            { "label": "Sync Bandwidth", "value": "100 - 400 Gbps" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Get a Custom Quote",
+          "copy": "Need a specific configuration or a multi-month reservation? Our architects are ready to help.",
+          "primary": { "label": "Contact Sales", "href": "/contact/sales" },
+          "secondary": { "label": "GPU Inference", "href": "/compute/gpu/inference" }
+        }
+      ]
+    },
+    {
+      "path": "/compute/depin/render-network",
+      "meta": {
+        "title": "Render Network Node Hosting | Kenya AI Compute",
+        "description": "Profit from decentralized rendering. High-yield Render Network nodes hosted in our efficient facility."
+      },
+      "hero": {
+        "headline": "Maximize Render Network Yields",
+        "subheadline": "Host your GPU nodes in our low-OPEX facility and keep more of your RNDR earnings. The ultimate location for DePIN node operators.",
+        "badge": "Render Partner",
+        "cta": [
+          { "label": "View Node Earnings", "href": "/compute/depin/tokenomics", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "The Economical Choice for DePIN Operators",
+          "body": "Profitability in the Render Network is a function of two variables: task revenue and operational cost. While hardware costs are fixed, the price you pay for energy and cooling determines your take-home profit. By hosting nodes at Kenya AI Compute, you benefit from our $0.04/kWh energy rate and professional Tier II+ infrastructure. We manage the hardware, the high-speed connectivity, and the 24/7 uptime, while you collect the rewards. Our Render-optimized racks are designed for maximum thermal stability, ensuring that your GPUs run at peak performance without thermal throttling during intense 3D rendering jobs. This is the industrialization of DePIN—moving from home-based setups to professional-grade infrastructure in the world's most energy-efficient jurisdiction."
+        },
+        {
+          "type": "bullets",
+          "title": "Our Render Node Advantage",
+          "items": [
+            "Low OPEX: Energy costs that are up to 70% lower than US/EU residential rates.",
+            "High Connectivity: 100G backbone ensures fast scene upload/download for higher task completion.",
+            "Managed Service: We handle cleaning, maintenance, and hardware swaps.",
+            "Certified Infrastructure: Our nodes receive higher reputation scores due to 99.9% uptime.",
+            "Scalability: Easily expand from 1 to 100+ nodes within our secure modules."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Rendering Performance",
+          "items": [
+            { "kind": "image", "src": "/media/render-node-monitor.jpg", "alt": "Render Network Dashboard", "caption": "Monitoring node health and RNDR earnings in real-time." },
+            { "kind": "video", "src": "/media/render-workflow-en.mp4", "poster": "/media/depin-poster.jpg", "caption": "How our facility processes Render Network tasks with zero delay." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Node Profitability",
+          "items": [
+            { "label": "Avg. Energy Savings", "value": "60%+" },
+            { "label": "Target Node Reputation", "value": "Tier 1" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Start Hosting Today",
+          "copy": "Reserve your rack space or purchase a managed node package for the Render Network.",
+          "primary": { "label": "Node Hosting Plans", "href": "/compute/depin/node-hosting" },
+          "secondary": { "label": "Akash Network", "href": "/compute/depin/akash-network" }
+        }
+      ]
+    },
+    {
+      "path": "/investors/financials/model",
+      "meta": {
+        "title": "Financial Model and Projections | Kenya AI Compute",
+        "description": "Comprehensive financial outlook: $5-8M annual revenue, 35-50% EBITDA, and conservative growth assumptions."
+      },
+      "hero": {
+        "headline": "Transparent Financials, Real Assets",
+        "subheadline": "We build our projections on conservative assumptions: 50% utilization and market-bottom pricing to ensure long-term stability.",
+        "badge": "Investment Model",
+        "cta": [
+          { "label": "Download Excel Model", "href": "/portal/investor-room/documents", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "The Anatomy of Our ROI",
+          "body": "Kenya AI Compute’s financial model is built on the principles of 'Infrastructure Realism.' We avoid the hype of perpetual GPU shortages and instead model our business on standard infrastructure cycles. Our base case assumes a conservative 45-55% average utilization of our 1MW capacity. Even at these levels, our project delivers a robust annual revenue of $5M to $8M due to our radically low operational cost structure. With OPEX locked at $2.0M-$2.8M per year—thanks to our captive $0.04/kWh energy generation—our net operating margins are significantly higher than traditional data center providers. This generates a clean, dollar-denominated cash flow that allows for a full return of capital (Payback) within 5 to 7 years, with significant upside as utilization scales toward 80% in the later years of operation."
+        },
+        {
+          "type": "bullets",
+          "title": "Financial Assumptions",
+          "items": [
+            "Revenue Streams: Diversified across GPU training, CPU cloud, storage, and DePIN tokens.",
+            "Utilization: Modeled at a conservative 50% to build in a margin of safety.",
+            "OPEX: Drastically reduced through on-site power generation and local staffing.",
+            "EBITDA: Target range of 35-50% starting from Year 2 of full 1MW operation.",
+            "Dividends: Structured for quarterly payouts after initial 24-month ramp-up."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Financial Projections",
+          "items": [
+            { "kind": "image", "src": "/media/revenue-growth-chart-en.jpg", "alt": "5-Year Revenue Projection", "caption": "Projected revenue growth as we scale from 300kW to 1MW." },
+            { "kind": "video", "src": "/media/model-walkthrough-en.mp4", "poster": "/media/financial-poster.jpg", "caption": "A deep dive into our Excel model with our CFO." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Profitability Targets",
+          "items": [
+            { "label": "Projected Annual Net Profit", "value": "$2M - $4M" },
+            { "label": "Target Payback Period", "value": "5 - 7 Years" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Analyze the Scenarios",
+          "copy": "Use our interactive scenario builder to see how utilization and energy rates impact your ROI.",
+          "primary": { "label": "Financial Scenarios", "href": "/investors/financials/scenarios" },
+          "secondary": { "label": "CAPEX Breakdown", "href": "/investors/financials/capex" }
+        }
+      ]
+    },
+    {
+      "path": "/regulatory/kenya/investment",
+      "meta": {
+        "title": "Kenya Investment Regulations | SEZ and Tax Benefits",
+        "description": "A guide for foreign investors in Kenya. Special Economic Zones, tax holidays, and profit repatriation laws."
+      },
+      "hero": {
+        "headline": "A Pro-Investment Regulatory Environment",
+        "subheadline": "Kenya offers world-class incentives for high-tech infrastructure through Special Economic Zones and robust legal protections.",
+        "badge": "Legal & Regulatory",
+        "cta": [
+          { "label": "Legal FAQ", "href": "/investors/due-diligence/faq", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "Protecting Global Capital",
+          "body": "Kenya is widely recognized as one of the most investor-friendly nations in Africa. Our project is structured to take full advantage of the Special Economic Zones (SEZ) Act, which provides a comprehensive package of fiscal and non-fiscal incentives. For investors, this means a drastically reduced corporate tax rate of 10% for the first 10 years, exemption from VAT on all project-related expenditures, and zero customs duties on imported high-tech equipment. Furthermore, Kenya has a fully liberalized capital account, meaning there are no restrictions on the repatriation of profits, dividends, or capital in USD. Our legal structure is designed to be familiar to international funds, utilizing standard Joint Venture agreements and arbitration clauses to ensure maximum transparency and security for all stakeholders."
+        },
+        {
+          "type": "bullets",
+          "title": "Incentive Framework",
+          "items": [
+            "Corporate Tax: 10% for the first decade of operation within SEZ.",
+            "Import Duties: 0% on servers, UPS systems, and specialized cooling equipment.",
+            "Profit Repatriation: 100% freedom to remit earnings globally in USD.",
+            "Investment Protection: Guaranteed against expropriation via the Foreign Investment Protection Act.",
+            "Work Permits: Facilitated entry for key technical and management personnel."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Regulatory Overview",
+          "items": [
+            { "kind": "image", "src": "/media/kenya-sez-benefits.jpg", "alt": "SEZ Benefit Summary", "caption": "The financial impact of Special Economic Zone status on project ROI." },
+            { "kind": "video", "src": "/media/legal-briefing-kenya.mp4", "poster": "/media/regulatory-poster.jpg", "caption": "Our legal counsel explains the framework of our Joint Venture." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Compliance Status",
+          "items": [
+            { "label": "Ease of Doing Business", "value": "Top 3 in Africa" },
+            { "label": "Tax Incentives Period", "value": "10 - 20 Years" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Request Legal Memorandum",
+          "copy": "For a detailed breakdown of our corporate structure and tax strategy, please contact our legal team.",
+          "primary": { "label": "Contact Legal", "href": "/investors/contact" },
+          "secondary": { "label": "Data Protection", "href": "/regulatory/kenya/data-protection" }
+        }
+      ]
+    }
+  ]
+}

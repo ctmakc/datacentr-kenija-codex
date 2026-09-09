@@ -1,0 +1,82 @@
+{
+  "path": "/datacenter/architecture/security",
+  "meta": {
+    "title": "Physical & Digital Security Protocols | Kenya AI Compute",
+    "description": "Multi-layered security for your AI assets: 24/7 armed response, biometric access, and advanced cybersecurity."
+  },
+  "hero": {
+    "headline": "A Fortress for Your Intelligence",
+    "subheadline": "We provide military-grade physical protection and enterprise-standard cybersecurity to ensure your hardware and data remain untouched.",
+    "badge": "Security Standards",
+    "cta": [
+      {
+        "label": "Compliance Details",
+        "href": "/datacenter/specifications/compliance",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Multi-Layered Defense Strategy",
+      "body": "The security of our infrastructure is approached with zero-trust methodology. Physically, our site in Kenya is located within a gated industrial park with triple-redundant perimeter fencing and 24/7 armed security patrols. Access to individual compute modules requires multi-factor biometric authentication (fingerprint and iris scan) and is logged in real-time. Digitally, we protect the management network from the public internet using enterprise-grade firewalls and intrusion detection systems (IDS). For our DePIN and Cloud clients, we ensure complete logical isolation of traffic through advanced VLAN tagging and hardware-level encryption. Every server rack is equipped with vibration and door-opening sensors, instantly alerting our NOC (Network Operations Center) of any unauthorized physical proximity. In an era of increasing digital and physical threats, Kenya AI Compute provides a sanctuary for the world's most valuable computational assets. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, in"
+    },
+    {
+      "type": "bullets",
+      "title": "Security Features",
+      "items": [
+        "Physical: Armed patrols, biometric access control, and 90-day CCTV retention.",
+        "Environmental: Automatic FM-200 gas fire suppression (electronics-safe).",
+        "Network: Automated DDoS protection and isolated management fabrics.",
+        "Monitoring: 24/7 NOC oversight with direct incident response protocols.",
+        "Auditing: Comprehensive access logs for all physical and logical entries."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Security in Action",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/security-checkpoint-en.jpg",
+          "alt": "Biometric access gate",
+          "caption": "Secure biometric checkpoints at every entry point of the facility."
+        },
+        {
+          "kind": "video",
+          "src": "/media/security-protocols.mp4",
+          "poster": "/media/security-poster.jpg",
+          "caption": "A walkthrough of our 24/7 physical and digital security ops."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Protection Metrics",
+      "items": [
+        {
+          "label": "CCTV Coverage",
+          "value": "100% of Perimeter"
+        },
+        {
+          "label": "Response Time",
+          "value": "< 2 min"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "View Equipment Specs",
+      "copy": "Protection is only the beginning. See the hardware we guard with these protocols.",
+      "primary": {
+        "label": "Server Hardware",
+        "href": "/datacenter/equipment/compute"
+      },
+      "secondary": {
+        "label": "Legal Protection",
+        "href": "/investors/structure/legal"
+      }
+    }
+  ]
+}

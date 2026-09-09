@@ -1,0 +1,82 @@
+{
+  "path": "/compute/gpu/training",
+  "meta": {
+    "title": "GPU Training Clusters | Scalable AI Model Training",
+    "description": "High-performance GPU clusters for LLM and Deep Learning training. NVIDIA A100/H100 specs and pricing."
+  },
+  "hero": {
+    "headline": "Industrial-Scale Training Clusters",
+    "subheadline": "Accelerate your AI development with massive GPU clusters powered by $0.04/kWh energy. Scale from a single node to a full pod seamlessly.",
+    "badge": "GPU Training",
+    "cta": [
+      {
+        "label": "Reserve a Cluster",
+        "href": "/contact/sales",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "The Foundation for Large Models",
+      "body": "Training modern LLMs and generative models requires two things: immense compute power and low-latency interconnects. Kenya AI Compute provides both. Our GPU clusters are built on high-bandwidth Spine-Leaf architecture, ensuring that data flows freely between nodes during large-scale distributed training runs. We offer a mix of NVIDIA A100 (40GB/80GB) and H100 units, as well as AMD Instinct alternatives, allowing you to choose the price-to-performance ratio that fits your R&D budget. By taking advantage of our Kenyan energy arbitrage, we can offer reserved training instances at up to 50% less than standard cloud providers, enabling researchers to run longer experiments and train larger models for the same capital outlay. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: the project follows a clea"
+    },
+    {
+      "type": "bullets",
+      "title": "Training Capabilities",
+      "items": [
+        "Hardware: H100 80GB and A100 80GB clusters with NVLink support.",
+        "Networking: RDMA-enabled 100G/400G internal fabric for sync-heavy training.",
+        "Software: Pre-installed PyTorch, TensorFlow, and JAX with optimized CUDA drivers.",
+        "Storage: Local NVMe scratch space for fast checkpointing.",
+        "Pricing: On-demand from $1.00/GPU-hour, with deep discounts for reserved terms."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Training in Action",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/gpu-cluster-training.jpg",
+          "alt": "GPU Cluster for AI training",
+          "caption": "A dedicated 8-node GPU cluster configured for LLM fine-tuning."
+        },
+        {
+          "kind": "video",
+          "src": "/media/training-speed-test.mp4",
+          "poster": "/media/compute-poster.jpg",
+          "caption": "Benchmarking our clusters against standard cloud providers."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Price Performance",
+      "items": [
+        {
+          "label": "GPU Hour Rate (Reserved)",
+          "value": "$0.70 - $0.90"
+        },
+        {
+          "label": "Sync Bandwidth",
+          "value": "100 - 400 Gbps"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Get a Custom Quote",
+      "copy": "Need a specific configuration or a multi-month reservation? Our architects are ready to help.",
+      "primary": {
+        "label": "Contact Sales",
+        "href": "/contact/sales"
+      },
+      "secondary": {
+        "label": "GPU Inference",
+        "href": "/compute/gpu/inference"
+      }
+    }
+  ]
+}

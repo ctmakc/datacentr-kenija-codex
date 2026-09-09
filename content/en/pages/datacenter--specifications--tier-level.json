@@ -1,0 +1,82 @@
+{
+  "path": "/datacenter/specifications/tier-level",
+  "meta": {
+    "title": "Tier II/III Standards and Uptime | Kenya AI Compute",
+    "description": "Understanding our reliability standards. Why Tier II+ is the optimal choice for AI and DePIN workloads."
+  },
+  "hero": {
+    "headline": "Reliability at Scale",
+    "subheadline": "We deliver 99.9%+ uptime by combining Tier II baseline infrastructure with simplified Tier III redundancies for critical power and cooling.",
+    "badge": "Infrastructure Standards",
+    "cta": [
+      {
+        "label": "Uptime SLA",
+        "href": "/compute/sla/uptime",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Engineered for AI Continuity",
+      "body": "Traditional Tier IV data centers are often over-engineered for AI workloads, leading to unnecessarily high CAPEX and rental rates. Kenya AI Compute utilizes an optimized 'Tier II+' design. This means we maintain N+1 redundancy on all critical systems (UPS, cooling, power generation) while avoiding the excessive costs of full concurrent maintainability where it isn't required for machine learning tasks. Since AI training and rendering tasks are naturally fault-tolerant at the software level, our design provides the perfect balance of 99.9% uptime and low cost-per-watt. For clients requiring higher levels of security, we offer specialized racks that meet full Tier III elements, ensuring that mission-critical inference APIs remain online even during maintenance windows. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: the project follows a clear rollout roadmap th"
+    },
+    {
+      "type": "bullets",
+      "title": "Standard of Quality",
+      "items": [
+        "Uptime Target: 99.9%+ annual availability guaranteed.",
+        "Power Path: Dual-path power distribution to every rack.",
+        "Cooling: N+1 redundant precision air conditioning units.",
+        "Maintenance: Scheduled windows with zero impact on DePIN earnings.",
+        "Compliance: Designed with future ISO 27001 and SOC 2 certification in mind."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Reliability Diagram",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/tier-diagram-en.jpg",
+          "alt": "Tier II+ Architecture Diagram",
+          "caption": "How we achieve high availability without the 'Tier IV tax'."
+        },
+        {
+          "kind": "video",
+          "src": "/media/reliability-test.mp4",
+          "poster": "/media/tech-poster.jpg",
+          "caption": "Testing our failover systems: from primary generation to UPS."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Availability",
+      "items": [
+        {
+          "label": "Guaranteed Uptime",
+          "value": "99.9%"
+        },
+        {
+          "label": "Redundancy Level",
+          "value": "N+1"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Technical Audit",
+      "copy": "Review our full engineering specifications and maintenance protocols in our technical portal.",
+      "primary": {
+        "label": "Engineering Docs",
+        "href": "/compute/onboarding/documentation"
+      },
+      "secondary": {
+        "label": "Hardware Mix",
+        "href": "/datacenter/equipment/compute"
+      }
+    }
+  ]
+}

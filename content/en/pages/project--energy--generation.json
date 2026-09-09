@@ -1,0 +1,82 @@
+{
+  "path": "/project/energy/generation",
+  "meta": {
+    "title": "Energy Generation and Integration | Kenya AI Compute",
+    "description": "How our captive power generation works. Fixed energy rates at $0.04/kWh and backup power strategy."
+  },
+  "hero": {
+    "headline": "The Power Behind the Intelligence",
+    "subheadline": "We have solved the energy cost problem by becoming our own power consumer, securing rates that global cloud giants cannot match.",
+    "badge": "Captive Generation",
+    "cta": [
+      {
+        "label": "Energy Efficiency",
+        "href": "/project/energy/efficiency",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Vertically Integrated Power Strategy",
+      "body": "Energy is the single largest operational cost for any data center, accounting for up to 70% of OPEX. Kenya AI Compute circumvents high public utility rates through a captive generation model. By integrating our modular data center with a dedicated power plant, we capture the 'energy arbitrage' opportunity. We generate electricity at an industrial cost of $0.04-$0.06/kWh, whereas the standard grid rates for data centers in most countries range from $0.15 to $0.25/kWh. Our hybrid generation mix primarily uses natural gas and solar, with diesel generators providing N+1 redundancy. This ensures that even in the unlikely event of a primary generation failure, our AI workloads continue to run without interruption. This strategy not only protects our margins but also offers our clients long-term price stability that is impossible to find in traditional cloud markets. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit"
+    },
+    {
+      "type": "bullets",
+      "title": "Power Plant Specs",
+      "items": [
+        "Total Capacity: 2MW+ (Phase 1 support + Phase 2 headroom).",
+        "Energy Mix: Hybrid Solar + Gas with high-efficiency Diesel backup.",
+        "Fixed Rate: $0.04 - $0.06/kWh secured for the project duration.",
+        "Redundancy: N+1 power supply to all server modules.",
+        "Monitoring: Real-time BMS integration for load balancing and fuel efficiency."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Energy Infrastructure",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/power-plant-photo.jpg",
+          "alt": "On-site power plant",
+          "caption": "The integrated generation unit providing direct power to the racks."
+        },
+        {
+          "kind": "video",
+          "src": "/media/energy-tour.mp4",
+          "poster": "/media/energy-poster.jpg",
+          "caption": "A technical walkthrough of our generation and distribution system."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Energy Advantage",
+      "items": [
+        {
+          "label": "Fixed Energy Cost",
+          "value": "$0.04/kWh"
+        },
+        {
+          "label": "Vs Market Avg",
+          "value": "-65%"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Focus on Efficiency",
+      "copy": "Cheap energy is only half the battle. Discover how we optimize every watt for maximum compute output.",
+      "primary": {
+        "label": "PUE & Efficiency",
+        "href": "/project/energy/efficiency"
+      },
+      "secondary": {
+        "label": "Sustainability",
+        "href": "/project/energy/sustainability"
+      }
+    }
+  ]
+}

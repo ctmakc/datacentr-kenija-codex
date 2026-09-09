@@ -1,0 +1,82 @@
+{
+  "path": "/portal/customer-dashboard/overview",
+  "meta": {
+    "title": "Customer Dashboard: Real-time Cloud Console",
+    "description": "The command center for your compute resources. Monitor GPU load, manage instances, and track billing in Kenya."
+  },
+  "hero": {
+    "headline": "Full Control over Your Compute",
+    "subheadline": "Monitor your active AI training runs, deploy new instances, and optimize your spend from our unified dashboard.",
+    "badge": "User Console",
+    "cta": [
+      {
+        "label": "Launch New Instance",
+        "href": "/portal/customer-dashboard/services",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Industrial-Grade Management for Modern AI Labs",
+      "body": "The Kenya AI Compute Customer Dashboard is designed for the rigorous needs of professional data scientists and infrastructure leads. We don't just show you a bill; we show you the raw performance data of your clusters. From real-time GPU thermal mapping and power draw (allowing you to verify our PUE 1.3 efficiency) to precise billing metrics for your 'Spot' and 'Reserved' instances. Our console provides a seamless bridge between your development environment and our physical hardware in Kenya. You can scale your storage volumes, configure dedicated network segments, and set up automated alerts for model training completion—all from a single, intuitive web interface. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and"
+    },
+    {
+      "type": "bullets",
+      "title": "Dashboard Features",
+      "items": [
+        "Instance Monitor: Real-time CPU/GPU load, RAM usage, and IOPS.",
+        "Thermal Map: Visual confirmation of cooling efficiency for your racks.",
+        "Snapshot Manager: Create and restore images of your training environments.",
+        "Billing Center: View current spend, credits, and download tax invoices.",
+        "Security Logs: Track all access attempts and administrative changes."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Console Interface",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/customer-dashboard-preview-en.jpg",
+          "alt": "Cloud console screenshot",
+          "caption": "A clean, data-driven interface for managing complex clusters."
+        },
+        {
+          "kind": "video",
+          "src": "/media/console-tutorial.mp4",
+          "poster": "/media/portal-poster.jpg",
+          "caption": "5-minute guide: managing your GPU resources like a pro."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "System Vitals",
+      "items": [
+        {
+          "label": "Dashboard Uptime",
+          "value": "99.99%"
+        },
+        {
+          "label": "API Response",
+          "value": "< 100ms"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Start Training Today",
+      "copy": "Unlock the power of African energy. Log in or create your account to begin deployment.",
+      "primary": {
+        "label": "Log In",
+        "href": "/portal/login"
+      },
+      "secondary": {
+        "label": "Technical Documentation",
+        "href": "/compute/onboarding/documentation"
+      }
+    }
+  ]
+}

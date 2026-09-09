@@ -1,0 +1,31 @@
+{
+  "name": "kenya-ai-compute",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test:smoke": "node scripts/smoke-test.mjs",
+    "test:verify": "node scripts/verify-local.mjs",
+    "content:validate": "node scripts/validate-content.mjs",
+    "content:ingest": "node scripts/ingest-content.mjs"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.30",
+    "@types/react": "18.2.79",
+    "@types/react-dom": "18.2.25",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.2.5",
+    "autoprefixer": "^10.4.24",
+    "postcss": "^8.5.6",
+    "tailwindcss": "3.4.4",
+    "typescript": "5.4.5"
+  }
+}

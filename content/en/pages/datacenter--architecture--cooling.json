@@ -1,0 +1,82 @@
+{
+  "path": "/datacenter/architecture/cooling",
+  "meta": {
+    "title": "Cooling & Thermal Management | Smart Airflow Design",
+    "description": "How we manage high-density heat loads. Direct expansion cooling, free cooling, and hot/cold aisle containment in Kenya."
+  },
+  "hero": {
+    "headline": "Cooling the Minds of Machines",
+    "subheadline": "Our specialized cooling architecture is designed to handle 40kW racks while maintaining a target PUE of 1.3-1.5 in a tropical climate.",
+    "badge": "Thermal Engineering",
+    "cta": [
+      {
+        "label": "Climate Data",
+        "href": "/project/location/climate",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Optimized Airflow for Maximum Performance",
+      "body": "Modern AI hardware operates at extreme thermal thresholds. A single GPU rack can generate as much heat as a small apartment building. To manage this, Kenya AI Compute utilizes a rigid Hot Aisle/Cold Aisle containment strategy within our modular units. By physically separating the chilled air from the heated exhaust, we eliminate air mixing and significantly reduce the workload on our precision cooling units (CRACs). We leverage Kenya's low-humidity climate to utilize air-side economizers, bringing in filtered outside air when temperatures are optimal. This 'Free Cooling' approach is the primary reason we can achieve a PUE (Power Usage Effectiveness) that rivals the best data centers in the world. For our 1MW Phase 2 expansion, we are also preparing liquid cooling loops for ultra-high density clusters, ensuring our facility remains future-proof as GPU wattages continue to rise. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each p"
+    },
+    {
+      "type": "bullets",
+      "title": "Thermal Control Systems",
+      "items": [
+        "Containment: Rigid hot/cold aisle separation for 0% air bypass.",
+        "Economizers: Intelligent outside air usage to reduce compressor cycles.",
+        "Redundancy: N+1 cooling units per module to ensure continuous heat rejection.",
+        "Sensors: Real-time thermal mapping using thousands of IoT sensors.",
+        "Filtration: G4/F7 grade air filtration to prevent dust accumulation on GPUs."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Thermal Management Visualization",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/cooling-airflow-diagram.jpg",
+          "alt": "Modular airflow visualization",
+          "caption": "How we move air across 40kW racks without hotspots."
+        },
+        {
+          "kind": "video",
+          "src": "/media/free-cooling-explainer.mp4",
+          "poster": "/media/efficiency-poster.jpg",
+          "caption": "The science of free cooling in the Kenyan environment."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Thermal Metrics",
+      "items": [
+        {
+          "label": "Design PUE",
+          "value": "1.3 - 1.5"
+        },
+        {
+          "label": "Max Heat Rejection",
+          "value": "1.2 MW"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Global Connectivity",
+      "copy": "Cool servers need fast data. Explore our high-speed networking and global fiber paths.",
+      "primary": {
+        "label": "Network Topology",
+        "href": "/datacenter/architecture/network"
+      },
+      "secondary": {
+        "label": "Uptime SLA",
+        "href": "/compute/sla/uptime"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "path": "/compute/depin/bittensor",
+  "meta": {
+    "title": "Bittensor Network Mining & Validation | Kenya AI Infrastructure",
+    "description": "Providing the high-performance hardware required for Bittensor subnets. Incentivizing AI intelligence from our Kenyan hub."
+  },
+  "hero": {
+    "headline": "Incentivizing Global Intelligence on Bittensor",
+    "subheadline": "We provide the physical backbone for Bittensor subnets, converting Kenyan energy into decentralized machine intelligence rewards.",
+    "badge": "Bittensor Node Hosting",
+    "cta": [
+      {
+        "label": "View Hardware Specs",
+        "href": "/datacenter/equipment/compute",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Scaling Machine Intelligence via Protocol Incentives",
+      "body": "Bittensor is a peer-to-peer intelligence market that rewards miners for providing valuable machine learning models. Kenya AI Compute facilitates this by offering specialized node-hosting services for Bittensor miners and validators. The protocol requires high-uptime GPU resources to participate in competitive subnets. Our $0.04/kWh energy advantage allows Bittensor miners operating in our facility to achieve significantly higher net margins compared to those using standard cloud services or residential power. We offer managed Bittensor setups, where our technical team handles the hardware maintenance and network optimization, while you focus on the model performance and subnet strategy. This partnership turns our Kenyan site into a critical node in the global brain that Bittensor is building. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes c"
+    },
+    {
+      "type": "bullets",
+      "title": "Bittensor Hosting Benefits",
+      "items": [
+        "Low OPEX: Maximize your TAO rewards by slashing electricity costs by up to 70%.",
+        "SLA Reliability: 99.9% uptime ensures your miners never drop out of the ranking.",
+        "High Throughput: Low-latency interconnects optimized for Bittensor's peer-to-peer data exchange.",
+        "Managed Services: 24/7 on-site support for hardware troubleshooting and swaps.",
+        "Regulatory Security: Peace of mind knowing your mining operation is in a professional SEZ environment."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Mining Operations",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/bittensor-node-monitor.jpg",
+          "alt": "Bittensor subnet performance",
+          "caption": "Monitoring Tao rewards and miner rankings in real-time."
+        },
+        {
+          "kind": "video",
+          "src": "/media/bittensor-guide.mp4",
+          "poster": "/media/depin-poster.jpg",
+          "caption": "The economics of Bittensor mining in an industrial data center."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Node Economics",
+      "items": [
+        {
+          "label": "Avg. Energy Savings",
+          "value": "65%"
+        },
+        {
+          "label": "Validator Latency",
+          "value": "< 40ms"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Start Mining Intelligence",
+      "copy": "Reserve your Bittensor-optimized rack space today and join the AI revolution.",
+      "primary": {
+        "label": "Request Hosting Quote",
+        "href": "/contact/sales"
+      },
+      "secondary": {
+        "label": "Tokenomics",
+        "href": "/compute/depin/tokenomics"
+      }
+    }
+  ]
+}

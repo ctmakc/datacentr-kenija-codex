@@ -1,0 +1,82 @@
+{
+  "path": "/market/africa/opportunity-deep-dive",
+  "meta": {
+    "title": "The 2026 Africa AI Opportunity | Deep Market Analysis",
+    "description": "Examine the macroeconomic and technical drivers behind the East African AI infrastructure boom. A deep dive for analysts."
+  },
+  "hero": {
+    "headline": "Capturing the African Digital Renaissance",
+    "subheadline": "We analyze why the confluence of mobile technology, energy abundance, and AI demand makes Kenya the definitive hub of the next decade.",
+    "badge": "Advanced Analysis",
+    "cta": [
+      {
+        "label": "Investor Thesis",
+        "href": "/investors/overview",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Infrastructure as the Key to Economic Leapfrogging",
+      "body": "Africa's tech story is often framed around apps, but the real value is shifting to the physical infrastructure layer. Our deep-dive analysis reveals that the East African Community (EAC) is currently at a critical 'Digital Inflection Point.' As fiber-to-the-home and 5G penetration explode, the backend compute capacity has not kept pace. This creates a massive opportunity for projects like Kenya AI Compute to act as the regional 'Compute Utility.' We explore how the rise of localized AI—for Swahili language models, regional agricultural analytics, and African-centric fintech—is driving a localized GPU demand that cannot be served by servers in Dublin or Marseille. By building the infrastructure here, we are not just saving costs; we are enabling a new category of African tech giants that could never exist in a high-latency environment. Additional context: the project follows a clear rollout roadmap that aligns low-cost"
+    },
+    {
+      "type": "bullets",
+      "title": "Core Opportunity Drivers",
+      "items": [
+        "Demographics: 1.4B people, the world's youngest and most tech-native population.",
+        "Energy Surplus: Untapped geothermal and solar resources perfect for AI's energy hunger.",
+        "Policy Shift: Government mandates for digital sovereignty and local data storage.",
+        "Tech Hub Effect: The compounding value of the Nairobi tech cluster ('Silicon Savannah').",
+        "Latency Edge: 80% reduction in round-trip time for regional AI applications."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Macro Trends",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/africa-tech-growth-viz.jpg",
+          "alt": "Growth of digital economy in Africa",
+          "caption": "The multi-billion dollar shift toward localized compute infrastructure."
+        },
+        {
+          "kind": "video",
+          "src": "/media/africa-opportunity-documentary.mp4",
+          "poster": "/media/market-poster.jpg",
+          "caption": "Watch: Why global VCs are pivoting to African 'Hard Tech'."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Opportunity Metrics",
+      "items": [
+        {
+          "label": "Local AI Market Growth",
+          "value": "35% CAGR"
+        },
+        {
+          "label": "Regional Latency Benefit",
+          "value": "-120 ms"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Access the Full Report",
+      "copy": "Download our 50-page market research report for a comprehensive look at the regional AI landscape.",
+      "primary": {
+        "label": "Download Full Report",
+        "href": "/resources/whitepapers"
+      },
+      "secondary": {
+        "label": "Project Overview",
+        "href": "/project/overview"
+      }
+    }
+  ]
+}

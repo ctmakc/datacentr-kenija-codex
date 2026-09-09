@@ -1,0 +1,82 @@
+{
+  "path": "/about/team/bios",
+  "meta": {
+    "title": "Leadership Biographies | Meet the Founders",
+    "description": "Detailed backgrounds of the visionaries behind Kenya AI Compute. Experts in energy, tech, and international finance."
+  },
+  "hero": {
+    "headline": "Visionaries with a Track Record",
+    "subheadline": "Our founders and lead advisors have built billion-dollar infrastructure and managed global tech portfolios. Meet the team.",
+    "badge": "Our Leaders",
+    "cta": [
+      {
+        "label": "Contact Us",
+        "href": "/contact/general",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Built on Experience, Driven by Mission",
+      "body": "The leadership of Kenya AI Compute is a diverse group of professionals united by the conviction that the next phase of the digital economy will be built in Africa. Our CEO brings over 15 years of experience in international business consulting across 50 countries, specializing in complex infrastructure modeling. Our technical leads come from the front lines of European data center design and high-density power engineering. Rounding out the team are experts in African GR (Government Relations) who have successfully navigated the regulatory landscape of Kenya's burgeoning tech sector. This combination of global strategy and local operational grit is what allows us to execute with a speed and precision that traditional firms cannot match. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional con"
+    },
+    {
+      "type": "bullets",
+      "title": "Key Leadership Bios",
+      "items": [
+        "CEO & Founder: Expert in international business consulting and infrastructure finance.",
+        "Technical Lead (CTO): Specialist in modular data center design and GPU thermal engineering.",
+        "Financial Lead (CFO): Veteran of African private equity and large-scale CAPEX management.",
+        "Operations Lead (COO): Expert in regional logistics and 24/7 technical facility management.",
+        "Regulatory Advisor: Former government consultant specializing in SEZ and digital policy."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Executive Team",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/founders-portrait.jpg",
+          "alt": "Leadership team photo",
+          "caption": "The driving force behind Africa's premier AI hub."
+        },
+        {
+          "kind": "video",
+          "src": "/media/founders-message-en.mp4",
+          "poster": "/media/team-poster.jpg",
+          "caption": "The story of why we started Kenya AI Compute."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Experience",
+      "items": [
+        {
+          "label": "Total Professional Years",
+          "value": "100+"
+        },
+        {
+          "label": "Countries Operated",
+          "value": "50+"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Join Our Journey",
+      "copy": "We are scaling our team for Phase 1. Discover how you can contribute to the mission.",
+      "primary": {
+        "label": "View Careers",
+        "href": "/careers"
+      },
+      "secondary": {
+        "label": "Advisory Board",
+        "href": "/about/team/advisory-board"
+      }
+    }
+  ]
+}

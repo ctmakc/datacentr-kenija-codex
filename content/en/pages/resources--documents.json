@@ -1,0 +1,82 @@
+{
+  "path": "/resources/documents",
+  "meta": {
+    "title": "Documents & Resource Library | Kenya AI Compute",
+    "description": "The central repository for all project files: Pitch Decks, Whitepapers, Financial Summaries, and Technical Blueprints."
+  },
+  "hero": {
+    "headline": "A Library for the Informed Partner",
+    "subheadline": "Access the comprehensive documentation that defines the future of AI infrastructure in Africa.",
+    "badge": "Resource Hub",
+    "cta": [
+      {
+        "label": "Public Downloads",
+        "href": "/resources/documents/public",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Knowledge is Power",
+      "body": "The Kenya AI Compute Resource Library is designed to provide our diverse stakeholders with exactly the level of detail they need. From high-level 'Executive Summaries' for quick review to 50-page 'Technical Design Documents' for systems architects, we believe that transparency is the best way to build a lasting ecosystem. Our documents are categorized into public resources (available for immediate download) and restricted Data Room assets (available for verified partners under NDA). We regularly update our library with new monthly progress reports, updated financial simulations, and fresh research on the global AI market. Use this hub to perform your own analysis and see why we are the leading compute infrastructure asset in the region. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: the project follows a clear rollout roadmap that"
+    },
+    {
+      "type": "bullets",
+      "title": "Library Categories",
+      "items": [
+        "Pitch Decks: Strategic overview and investment opportunity for Phase 1 and 2.",
+        "Whitepapers: Deep dives into Energy Arbitrage, DePIN, and PUE engineering.",
+        "Financial Docs: Simplified model summaries and scenario calculators.",
+        "Technical Blueprints: Site plans, network topologies, and module specs.",
+        "Legal & Regulatory: SEZ Act summaries and Joint Venture framework overviews."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Resource Navigation",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/document-icons-grid.jpg",
+          "alt": "Document library categories",
+          "caption": "Quickly find the information relevant to your role."
+        },
+        {
+          "kind": "video",
+          "src": "/media/portal-walkthrough.mp4",
+          "poster": "/media/portal-poster.jpg",
+          "caption": "How to navigate our document library and request access to restricted files."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Database Vitals",
+      "items": [
+        {
+          "label": "Total Files",
+          "value": "150+"
+        },
+        {
+          "label": "Update Frequency",
+          "value": "Weekly"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Can't find what you need?",
+      "copy": "Our support team can help you locate specific technical data or financial reports.",
+      "primary": {
+        "label": "Contact Support",
+        "href": "/contact/general"
+      },
+      "secondary": {
+        "label": "Glossary",
+        "href": "/resources/glossary"
+      }
+    }
+  ]
+}

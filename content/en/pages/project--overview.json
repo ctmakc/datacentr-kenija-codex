@@ -1,0 +1,82 @@
+{
+  "path": "/project/overview",
+  "meta": {
+    "title": "Project Overview | High-Density AI Data Center",
+    "description": "Comprehensive summary of the Kenya AI Compute project: energy integration, hybrid compute model, and financial targets."
+  },
+  "hero": {
+    "headline": "1MW AI Infrastructure: The Specs of Success",
+    "subheadline": "A specialized facility designed for the most demanding GPU workloads, powered by direct energy integration at $0.04/kWh.",
+    "badge": "The Core Project",
+    "cta": [
+      {
+        "label": "Technical Specs",
+        "href": "/datacenter",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Vertical Integration: From Power to Compute",
+      "body": "Kenya AI Compute is not a traditional cloud provider; it is an infrastructure asset that controls its own supply chain. By integrating the data center directly with a 2MW+ hybrid power plant, we eliminate the volatility of the public grid and secure the lowest energy rates available for high-performance computing. Our facility utilizes a modular, containerized approach that allows for rapid deployment and easy maintenance. The compute architecture is a balanced hybrid: 30% dedicated to high-end GPU clusters for AI training and rendering, 50% dedicated to CPU workloads for inference and general-purpose edge computing, and 20% dedicated to high-speed NVMe storage. This mix is specifically engineered to ensure high utilization rates across both enterprise clients and decentralized DePIN protocols. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, upti"
+    },
+    {
+      "type": "bullets",
+      "title": "Project Fundamentals",
+      "items": [
+        "Facility Type: Modular containerized data center with advanced environmental controls.",
+        "Energy Supply: Direct captive generation (Solar + Gas/Diesel backup) at $0.04/kWh.",
+        "Compute Profile: Hybrid 30/50/20 (GPU/CPU/Storage) for diverse revenue streams.",
+        "Reliability: Designed to Tier II/III standards with 99.9% guaranteed uptime.",
+        "Profitability: Target EBITDA of 35-50% with a 5-7 year payback period."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Facility Layout",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/dc-layout-blueprint.jpg",
+          "alt": "Data Center Blueprint",
+          "caption": "Engineered for maximum rack density and cooling efficiency."
+        },
+        {
+          "kind": "video",
+          "src": "/media/project-walkthrough.mp4",
+          "poster": "/media/overview-poster.jpg",
+          "caption": "A 3D flyover of the planned 1MW site in Kenya."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Financial Highlights",
+      "items": [
+        {
+          "label": "Estimated Annual Revenue",
+          "value": "$5M - $8M"
+        },
+        {
+          "label": "Total CAPEX (Phase 1+2)",
+          "value": "$20M - $25M"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Deep Dive Into the Data",
+      "copy": "Access our full technical whitepapers and financial projections in the Investor Data Room.",
+      "primary": {
+        "label": "Request Data Room",
+        "href": "/investors/contact"
+      },
+      "secondary": {
+        "label": "Location Advantage",
+        "href": "/project/location/kenya"
+      }
+    }
+  ]
+}

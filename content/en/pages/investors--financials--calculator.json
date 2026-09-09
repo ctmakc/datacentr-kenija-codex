@@ -1,0 +1,82 @@
+{
+  "path": "/investors/financials/calculator",
+  "meta": {
+    "title": "Interactive ROI Calculator | Investment Yield Estimator",
+    "description": "Calculate your IRR and NPV. Simulate different energy costs and utilization scenarios for the 1MW Kenya AI Compute project."
+  },
+  "hero": {
+    "headline": "Model Your Success in Real-Time",
+    "subheadline": "Infrastructure investment is a numbers game. Use our professional ROI tool to see how our energy arbitrage drives your capital growth.",
+    "badge": "Investor Tool",
+    "cta": [
+      {
+        "label": "Request Full Model",
+        "href": "/portal/investor-room/documents",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Data-Driven Decisions for Equity Partners",
+      "body": "We believe that informed investors are the best partners. Our interactive ROI calculator is designed to provide you with an immediate, high-level understanding of the project's financial mechanics. By adjusting variables such as the investment amount, the projected average utilization rate, and the exit multiple, you can see how the Kenya AI Compute model generates superior returns compared to traditional real estate or grid-bound data center assets. The tool uses our real-world OPEX projections and locked-in $0.04/kWh energy rate as its baseline, ensuring that your simulations are grounded in our technical reality. This is the same logic used in our internal 10-year financial model, now simplified for your primary evaluation. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakehold"
+    },
+    {
+      "type": "bullets",
+      "title": "What You Can Simulate",
+      "items": [
+        "Equity Stake: Calculate your ownership percentage based on your capital contribution.",
+        "Utilization impact: See how moving from 50% to 80% load impacts your IRR.",
+        "Payback Period: Estimate the exact month you achieve full capital return.",
+        "Exit Value: Model the terminal value of the asset based on current infrastructure multiples.",
+        "Sensitivity Analysis: Test the project's resilience against fluctuations in GPU rental prices."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Calculator Interface",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/calculator-screenshot-en.jpg",
+          "alt": "ROI Calculator Interface",
+          "caption": "A preview of our interactive financial modeling tool."
+        },
+        {
+          "kind": "video",
+          "src": "/media/how-to-model-roi.mp4",
+          "poster": "/media/financial-poster.jpg",
+          "caption": "Our CFO walks you through a conservative investment simulation."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Model Baseline",
+      "items": [
+        {
+          "label": "Energy Cost Basis",
+          "value": "$0.04/kWh"
+        },
+        {
+          "label": "OPEX Threshold",
+          "value": "$2.0M/yr"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Start Modeling",
+      "copy": "Access the full version of our calculator and download your results in the Investor Dashboard.",
+      "primary": {
+        "label": "Open Dashboard",
+        "href": "/portal/investor-room/dashboard"
+      },
+      "secondary": {
+        "label": "Financial Scenarios",
+        "href": "/investors/financials/scenarios"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "path": "/project/location/site",
+  "hero": {
+    "headline": "Optimized Site for Industrial Compute",
+    "subheadline": "Our facility is located in a high-security industrial zone with direct, zero-distance integration to power generation.",
+    "badge": "Facility Site",
+    "cta": [
+      {
+        "label": "View Connectivity",
+        "href": "/project/location/connectivity",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "meta": {
+    "title": "Site Location and Logistics | Kenya AI Compute",
+    "description": "Details of our physical site in Kenya: energy integration, accessibility, and security protocols."
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Strategic Land and Power Proximity",
+      "body": "The physical location of Kenya AI Compute was selected based on a 'Zero Loss' strategy. We are situated directly adjacent to a primary power generation station, which means our high-voltage cables have the shortest possible run to our transformers. This proximity minimizes electrical transmission loss and eliminates the need for expensive grid-level distribution infrastructure. The site itself is located within a secure industrial perimeter, providing high-level physical protection and 24/7 monitoring. We have secured enough land for the full expansion of Phase 3, allowing us to grow to 3MW and beyond without having to acquire additional property. Logistically, the site is accessible via major highways, facilitating the rapid transport of modular containers from the Port of Mombasa directly to the facility. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakehol"
+    },
+    {
+      "type": "bullets",
+      "title": "Site Characteristics",
+      "items": [
+        "Proximity to Power: Less than 200 meters from the generation source.",
+        "Logistics: Direct highway access from Mombasa port for heavy equipment transport.",
+        "Security: Triple-layered perimeter security with armed response and biometric access.",
+        "Expansion Capacity: 5+ acres of secured land reserved for Phases 2 and 3.",
+        "Environment: Located in a low-risk zone for natural disasters (seismic/flooding)."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Site Inspection",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/site-drone-shot.jpg",
+          "alt": "Drone shot of the site",
+          "caption": "The cleared site ready for foundation works of Phase 1."
+        },
+        {
+          "kind": "video",
+          "src": "/media/site-logistics.mp4",
+          "poster": "/media/site-poster.jpg",
+          "caption": "A detailed look at the logistics and security of our location."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Site Metrics",
+      "items": [
+        {
+          "label": "Distance to Power",
+          "value": "< 200m"
+        },
+        {
+          "label": "Total Land Area",
+          "value": "5+ Acres"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Technical Connectivity",
+      "copy": "Learn how our physical site translates into global network speed and low latency.",
+      "primary": {
+        "label": "Network Details",
+        "href": "/project/location/connectivity"
+      },
+      "secondary": {
+        "label": "Climate Data",
+        "href": "/project/location/climate"
+      }
+    }
+  ]
+}

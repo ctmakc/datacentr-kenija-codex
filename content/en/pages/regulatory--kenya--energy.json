@@ -1,0 +1,82 @@
+{
+  "path": "/regulatory/kenya/energy",
+  "meta": {
+    "title": "Energy Regulations & Licensing in Kenya | Powering AI",
+    "description": "Overview of the legal framework for captive power generation in Kenya. Licensing, grid connection, and energy sector compliance."
+  },
+  "hero": {
+    "headline": "A Stable Framework for Power Generation",
+    "subheadline": "We operate under Kenya's progressive energy laws, ensuring long-term security for our captive power generation and AI operations.",
+    "badge": "Energy Compliance",
+    "cta": [
+      {
+        "label": "Generation Specs",
+        "href": "/project/energy/generation",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Navigating the Kenyan Energy Sector",
+      "body": "Kenya's energy sector is governed by the Energy Act of 2019, which encourages private investment in generation and distribution. Our project utilizes the 'Captive Power' provision, allowing us to generate electricity primarily for our own consumption. This regulatory path is highly efficient for data centers, as it reduces dependency on the national utility (Kenya Power) while allowing for potential grid-export in future phases. We maintain full compliance with the Energy and Petroleum Regulatory Authority (EPRA), securing all necessary licenses for construction and operation. This legal clarity ensures that our $0.04/kWh energy cost is not just a technical achievement, but a legally protected competitive advantage that provides certainty to our international investors. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit econ"
+    },
+    {
+      "type": "bullets",
+      "title": "Regulatory Milestones",
+      "items": [
+        "Energy Act 2019: Full alignment with national electricity generation standards.",
+        "EPRA Licensing: Secured permits for industrial-scale captive hybrid generation.",
+        "Environmental Impact (EIA): Comprehensive NEMA approval for the integrated site.",
+        "Grid Interconnection: Negotiated PPA framework for backup and future export.",
+        "Safety Standards: Compliance with ERC and international IEEE electrical codes."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Licensing Framework",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/energy-licensing-flow.jpg",
+          "alt": "Kenya Energy Licensing Process",
+          "caption": "The transparent regulatory path for captive power in Kenya."
+        },
+        {
+          "kind": "video",
+          "src": "/media/energy-law-brief.mp4",
+          "poster": "/media/regulatory-poster.jpg",
+          "caption": "Our energy consultant explains the stability of Kenyan power PPA."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Regulatory Health",
+      "items": [
+        {
+          "label": "Permit Status",
+          "value": "Fully Licensed"
+        },
+        {
+          "label": "Legal Basis",
+          "value": "Energy Act 2019"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Download Energy Memo",
+      "copy": "Request our legal brief on the Kenyan power market and our specific licensing status.",
+      "primary": {
+        "label": "Request Memo",
+        "href": "/resources/documents/request"
+      },
+      "secondary": {
+        "label": "Sustainability",
+        "href": "/project/energy/sustainability"
+      }
+    }
+  ]
+}

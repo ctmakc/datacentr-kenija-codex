@@ -1,0 +1,82 @@
+{
+  "path": "/compute/enterprise/managed-services",
+  "meta": {
+    "title": "Managed AI Infrastructure & MLOps | Enterprise Support",
+    "description": "We don't just provide hardware; we provide the team to manage it. 24/7 MLOps, technical support, and setup in Kenya."
+  },
+  "hero": {
+    "headline": "Focus on Your Models, We Handle the Rest",
+    "subheadline": "Full-service infrastructure management for enterprise AI. From rack to stack, our engineers are your extended technical team.",
+    "badge": "Managed Solutions",
+    "cta": [
+      {
+        "label": "Enterprise SLA",
+        "href": "/compute/sla/uptime",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Your Remote Hands in the Silicon Savannah",
+      "body": "Scaling an AI project shouldn't require you to fly a team to Kenya. Our Managed Services offer enterprise clients a 'Hands-Free' infrastructure experience. Our on-site NOC engineers act as your remote hands, handling everything from physical hardware swaps and cabling to high-level OS patching and driver optimization. We provide 24/7 MLOps support, helping you monitor training runs, manage storage volumes, and optimize cluster performance for maximum ROI. Whether you are an international hedge fund running proprietary models or a tech giant expanding into Africa, our team ensures that your infrastructure in Kenya operates with the same precision and responsiveness as if it were in your own building. We take the complexity of regional operations off your plate so you can focus on the business of intelligence. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capa"
+    },
+    {
+      "type": "bullets",
+      "title": "Enterprise Managed Services",
+      "items": [
+        "24/7 Monitoring: Continuous oversight of power, cooling, and network health.",
+        "Hardware Lifecycle: Proactive parts replacement and performance tuning.",
+        "MLOps Layer: Expert assistance with Slurm, Kubernetes, and GPU orchestration.",
+        "Security Concierge: Custom firewall rules and dedicated hardware isolation.",
+        "Logistics Support: Managed import and setup for your proprietary hardware."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Managed Operations",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/managed-services-team.jpg",
+          "alt": "NOC engineers at work",
+          "caption": "Our technical team, dedicated to your infrastructure uptime."
+        },
+        {
+          "kind": "video",
+          "src": "/media/mlops-support-talk.mp4",
+          "poster": "/media/ops-poster.jpg",
+          "caption": "How our MLOps support increases your training efficiency by 20%."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Service Standards",
+      "items": [
+        {
+          "label": "Response SLA",
+          "value": "< 15 Minutes"
+        },
+        {
+          "label": "On-site Engineers",
+          "value": "24 / 7 / 365"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Request Managed Service Plan",
+      "copy": "Let’s build a custom support plan that fits your corporate workflow and security requirements.",
+      "primary": {
+        "label": "Consult an Expert",
+        "href": "/contact/sales"
+      },
+      "secondary": {
+        "label": "Private Cloud",
+        "href": "/compute/enterprise/private-cloud"
+      }
+    }
+  ]
+}

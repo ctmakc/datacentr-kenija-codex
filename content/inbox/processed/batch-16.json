@@ -1,0 +1,846 @@
+{
+  "locale": "en",
+  "batch": "05",
+  "pages": [
+    {
+      "path": "/compute/depin/gensyn",
+      "meta": {
+        "title": "Gensyn Network Integration | Verifiable AI Training",
+        "description": "Kenya AI Compute joins the Gensyn protocol. Providing hardware for verifiable, decentralized deep learning compute in East Africa."
+      },
+      "hero": {
+        "headline": "The Future of Verifiable AI on Gensyn",
+        "subheadline": "We are integrating our 1MW facility with the Gensyn protocol to power the next generation of trustless machine learning.",
+        "badge": "Gensyn Partner",
+        "cta": [
+          { "label": "Technical Roadmap", "href": "/about/roadmap", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "Decentralizing the Giant: Machine Learning Verification",
+          "body": "Gensyn is a protocol that enables a global, decentralized supercomputer where every computation is mathematically verified. Kenya AI Compute is positioning itself as a core infrastructure provider for the Gensyn network in the EMEA region. Our facility provides the stable, high-TDP environment required for Gensyn’s verification nodes and training workers. By participating in Gensyn, we contribute to a future where AI training is no longer gatekept by a few centralized entities. For our project, this means another high-utilization revenue stream that values our low energy cost and industrial-grade hardware reliability. As the protocol moves toward mainnet, our Kenyan site will be among the first to offer large-scale, verified compute blocks to global researchers."
+        },
+        {
+          "type": "bullets",
+          "title": "Gensyn Integration Features",
+          "items": [
+            "Hardware Compatibility: Optimized GPU clusters for compute-intensive verification tasks.",
+            "Protocol Alignment: Direct support for Gensyn’s probabilistic proof-of-learning.",
+            "Energy Efficiency: $0.04/kWh ensures our nodes are highly competitive in the protocol’s auction system.",
+            "Global Access: Providing a localized gateway for African AI researchers to use Gensyn resources.",
+            "Scalability: Ready to dedicate up to 30% of Phase 2 capacity to the Gensyn ecosystem."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Verifiable Compute Flow",
+          "items": [
+            { "kind": "image", "src": "/media/gensyn-network-diagram.jpg", "alt": "Gensyn protocol visualization", "caption": "How Kenya AI Compute slots into the verifiable learning cycle." },
+            { "kind": "video", "src": "/media/gensyn-explainer.mp4", "poster": "/media/depin-poster.jpg", "caption": "The importance of decentralized verification in AI's future." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Protocol Targets",
+          "items": [
+            { "label": "Target Node Class", "value": "Industrial / Solvers" },
+            { "label": "Network Uptime", "value": "99.95%" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Join the Decentralized AI Movement",
+          "copy": "Learn how our infrastructure supports the most innovative protocols in the Web3 space.",
+          "primary": { "label": "Explore DePIN", "href": "/compute/depin/overview" },
+          "secondary": { "label": "Bittensor Integration", "href": "/compute/depin/bittensor" }
+        }
+      ]
+    },
+    {
+      "path": "/compute/depin/bittensor",
+      "meta": {
+        "title": "Bittensor Network Mining & Validation | Kenya AI Infrastructure",
+        "description": "Providing the high-performance hardware required for Bittensor subnets. Incentivizing AI intelligence from our Kenyan hub."
+      },
+      "hero": {
+        "headline": "Incentivizing Global Intelligence on Bittensor",
+        "subheadline": "We provide the physical backbone for Bittensor subnets, converting Kenyan energy into decentralized machine intelligence rewards.",
+        "badge": "Bittensor Node Hosting",
+        "cta": [
+          { "label": "View Hardware Specs", "href": "/datacenter/equipment/compute", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "Scaling Machine Intelligence via Protocol Incentives",
+          "body": "Bittensor is a peer-to-peer intelligence market that rewards miners for providing valuable machine learning models. Kenya AI Compute facilitates this by offering specialized node-hosting services for Bittensor miners and validators. The protocol requires high-uptime GPU resources to participate in competitive subnets. Our $0.04/kWh energy advantage allows Bittensor miners operating in our facility to achieve significantly higher net margins compared to those using standard cloud services or residential power. We offer managed Bittensor setups, where our technical team handles the hardware maintenance and network optimization, while you focus on the model performance and subnet strategy. This partnership turns our Kenyan site into a critical node in the global brain that Bittensor is building."
+        },
+        {
+          "type": "bullets",
+          "title": "Bittensor Hosting Benefits",
+          "items": [
+            "Low OPEX: Maximize your TAO rewards by slashing electricity costs by up to 70%.",
+            "SLA Reliability: 99.9% uptime ensures your miners never drop out of the ranking.",
+            "High Throughput: Low-latency interconnects optimized for Bittensor's peer-to-peer data exchange.",
+            "Managed Services: 24/7 on-site support for hardware troubleshooting and swaps.",
+            "Regulatory Security: Peace of mind knowing your mining operation is in a professional SEZ environment."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Mining Operations",
+          "items": [
+            { "kind": "image", "src": "/media/bittensor-node-monitor.jpg", "alt": "Bittensor subnet performance", "caption": "Monitoring Tao rewards and miner rankings in real-time." },
+            { "kind": "video", "src": "/media/bittensor-guide.mp4", "poster": "/media/depin-poster.jpg", "caption": "The economics of Bittensor mining in an industrial data center." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Node Economics",
+          "items": [
+            { "label": "Avg. Energy Savings", "value": "65%" },
+            { "label": "Validator Latency", "value": "< 40ms" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Start Mining Intelligence",
+          "copy": "Reserve your Bittensor-optimized rack space today and join the AI revolution.",
+          "primary": { "label": "Request Hosting Quote", "href": "/contact/sales" },
+          "secondary": { "label": "Tokenomics", "href": "/compute/depin/tokenomics" }
+        }
+      ]
+    },
+    {
+      "path": "/partners/equipment-suppliers/tender-process",
+      "meta": {
+        "title": "Tender Process & Supplier Registration | Kenya AI Compute",
+        "description": "How to become an approved vendor. Procurement schedule, evaluation criteria, and registration form for $20M+ in equipment."
+      },
+      "hero": {
+        "headline": "Building a Global Supply Chain",
+        "subheadline": "We are seeking reliable partners to supply over $18M in compute and infrastructure hardware for our 1MW project.",
+        "badge": "Procurement Portal",
+        "cta": [
+          { "label": "Register as Supplier", "href": "/partners/equipment-suppliers/register", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "A Transparent and Fair Procurement Framework",
+          "body": "Our procurement philosophy is based on three principles: technical excellence, cost-efficiency, and logistical reliability. For the 1MW Phase, Kenya AI Compute is managing a multi-stage tender process for server hardware, networking equipment, and data center engineering systems. We encourage vendors from across the globe—especially those with a strong presence in the EMEA and Asian markets—to participate. Our evaluation criteria prioritize 'Total Cost of Ownership' (TCO), warranty terms, and the supplier's ability to provide regional support in Kenya. By registering through this portal, you will gain access to our detailed Request for Proposals (RFPs) and become part of our long-term supplier ecosystem as we scale toward our 3MW target."
+        },
+        {
+          "type": "bullets",
+          "title": "Tender Categories",
+          "items": [
+            "Compute: GPU servers (NVIDIA/AMD), CPU nodes, and specialized AI accelerators.",
+            "Storage: High-density NVMe arrays and object storage solutions.",
+            "Infrastructure: Modular containers, UPS units, and precision cooling systems.",
+            "Networking: Core/Leaf switches, fiber cabling, and security appliances.",
+            "Operations: Monitoring software, BMS integration, and on-site maintenance tools."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Procurement Timeline",
+          "items": [
+            { "kind": "image", "src": "/media/procurement-roadmap.jpg", "alt": "Hardware procurement schedule", "caption": "Key dates for the Phase 1 and Phase 2 equipment tenders." },
+            { "kind": "video", "src": "/media/supplier-onboarding.mp4", "poster": "/media/ops-poster.jpg", "caption": "Step-by-step guide to our vendor registration and bidding process." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Budget Scope",
+          "items": [
+            { "label": "Equipment Budget", "value": "$18M+" },
+            { "label": "Phase 1 Tender Status", "value": "Open" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "View Active Tenders",
+          "copy": "Check the list of current equipment requirements and submit your Expression of Interest.",
+          "primary": { "label": "Active Tenders", "href": "/partners/equipment-suppliers/categories" },
+          "secondary": { "label": "Technical Requirements", "href": "/partners/technical-partner" }
+        }
+      ]
+    },
+    {
+      "path": "/market/research",
+      "meta": {
+        "title": "Market Research & Data Sources | AI Compute Africa",
+        "description": "Access the primary data behind our project. Analysis of energy markets, GPU demand cycles, and Africa’s digital growth."
+      },
+      "hero": {
+        "headline": "The Data Behind the Silicon Savannah",
+        "subheadline": "We believe in making decisions based on hard evidence. Explore our curated research database on AI infrastructure and emerging markets.",
+        "badge": "Market Intelligence",
+        "cta": [
+          { "label": "Download Reports", "href": "/resources/whitepapers", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "Rigor in Every Assumption",
+          "body": "The Kenya AI Compute project is the result of thousands of hours of market analysis. This section provides a look into our methodology and the primary data sources we utilize to track global AI trends and local energy shifts. Our research team monitors over 50 variables—from the price of natural gas in East Africa to the utilization rates of decentralized GPU networks. We aggregate data from top-tier sources like Gartner, Bloomberg, and the World Bank, combined with our own proprietary on-the-ground surveys in the Kenyan market. This data is what fuels our financial model and ensures that we remain ahead of the curve in a rapidly evolving technological landscape."
+        },
+        {
+          "type": "bullets",
+          "title": "Our Research Focus",
+          "items": [
+            "Energy Arbitrage Logic: Comparative analysis of global industrial power rates.",
+            "GPU Demand Cycles: Tracking the shift from training to large-scale inference.",
+            "Regional FDI: Monitoring infrastructure investment flows into the East African Community.",
+            "DePIN Adoption: Real-world metrics on the growth of decentralized compute protocols.",
+            "Regulatory Shifts: Analysis of new data residency and AI laws across Africa."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Data Visualization",
+          "items": [
+            { "kind": "image", "src": "/media/market-data-viz.jpg", "alt": "AI market data dashboard", "caption": "Trends in high-density compute demand through 2030." },
+            { "kind": "video", "src": "/media/research-methodology.mp4", "poster": "/media/market-poster.jpg", "caption": "How we validate our project assumptions using global and local data." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Research Reach",
+          "items": [
+            { "label": "Data Sources Tracked", "value": "50+" },
+            { "label": "Internal Analysts", "value": "6" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Need Custom Research?",
+          "copy": "Our analytics team provides bespoke reports for our institutional partners. Contact us for a consultation.",
+          "primary": { "label": "Consult an Analyst", "href": "/contact/general" },
+          "secondary": { "label": "Executive Summary", "href": "/resources/documents/public" }
+        }
+      ]
+    },
+    {
+      "path": "/careers/culture",
+      "meta": {
+        "title": "Our Culture & Values | Life at Kenya AI Compute",
+        "description": "Radical transparency, engineering honesty, and African energy. Learn what it’s like to build the future of AI in Kenya."
+      },
+      "hero": {
+        "headline": "A Culture of Innovation and Responsibility",
+        "subheadline": "We combine the speed of a Silicon Valley startup with the operational rigor of a global infrastructure fund.",
+        "badge": "Our Culture",
+        "cta": [
+          { "label": "Join the Team", "href": "/careers/positions", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "The Foundation of Our Performance",
+          "body": "Culture at Kenya AI Compute is not a buzzword; it is our primary risk-mitigation tool. In an environment as complex as high-density AI infrastructure in an emerging market, we rely on three core pillars: Engineering Honesty, Radical Transparency, and Local Impact. We empower our team members to speak up when they see an inefficiency, we share our financial and operational goals openly across the entire organization, and we never forget that our work must contribute to the prosperity of the Kenyan people. We value curious minds that aren't afraid to get their hands dirty—whether it's debugging a 100G network fabric or coordinating logistics at the Port of Mombasa. Here, the best idea always wins, regardless of hierarchy."
+        },
+        {
+          "type": "bullets",
+          "title": "Our Core Values",
+          "items": [
+            "Data Over Opinion: We make decisions based on metrics and technical reality.",
+            "Radical Ownership: Every team member is an owner of the project's success.",
+            "Respect for Local Context: We are proud to be part of the Kenyan tech community.",
+            "Sustainability Obsession: We fight for every percentage of PUE and carbon efficiency.",
+            "Continuous Evolution: We learn, we adapt, and we scale—every single day."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Team Life",
+          "items": [
+            { "kind": "image", "src": "/media/team-offsite-nairobi.jpg", "alt": "Team bonding in Kenya", "caption": "Building trust and vision beyond the office walls." },
+            { "kind": "video", "src": "/media/culture-vlog.mp4", "poster": "/media/career-poster.jpg", "caption": "What does a typical day at Kenya AI Compute look like?" }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Team Sentiment",
+          "items": [
+            { "label": "Staff Retention", "value": "95%" },
+            { "label": "Internal Promotion Rate", "value": "30%" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Are You One of Us?",
+          "copy": "If you are driven by mission and technical excellence, we want to hear from you.",
+          "primary": { "label": "View Vacancies", "href": "/careers/positions" },
+          "secondary": { "label": "General Application", "href": "/careers/apply" }
+        }
+      ]
+    },
+    {
+      "path": "/contact/media",
+      "meta": {
+        "title": "Media & Press Inquiries | Kenya AI Compute",
+        "description": "Official contact for journalists, bloggers, and event organizers. Request interviews, press kits, or brand assets."
+      },
+      "hero": {
+        "headline": "Telling the Story of the Silicon Savannah",
+        "subheadline": "We are open to collaborating with global and regional media to share the progress of Africa's AI revolution.",
+        "badge": "Press Office",
+        "cta": [
+          { "label": "Download Media Kit", "href": "/resources/media", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "Direct Access for the Global Press",
+          "body": "Kenya AI Compute is at the center of several major global narratives: the AI infrastructure boom, the growth of the African tech economy, and the rise of sustainable 'Green Compute.' Our media relations team is equipped to provide high-quality information, data-backed insights, and executive commentary for your stories. We offer journalists direct access to our founding team and lead engineers for interviews, as well as high-resolution photo and video assets from our site in Kenya. We understand the tight deadlines of the modern news cycle and aim to respond to all qualified media inquiries within four hours. Whether you're writing a deep dive on DePIN economics or a profile on the East African tech hub, we are here to provide the context you need."
+        },
+        {
+          "type": "bullets",
+          "title": "Media Services",
+          "items": [
+            "Executive Interviews: Direct lines to our CEO, CTO, and CFO.",
+            "Fact-Checking: Verified data on 1MW project specs and Kenyan energy markets.",
+            "Visual Assets: 4K video b-roll and high-res renders of the facility.",
+            "Event Speakers: Expert contributors for AI, Infrastructure, and African tech conferences.",
+            "Press Releases: Be the first to receive our official project milestone updates."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Press Resources",
+          "items": [
+            { "kind": "image", "src": "/media/press-briefing-room.jpg", "alt": "Media briefing session", "caption": "We provide transparent updates to the global tech and finance press." },
+            { "kind": "video", "src": "/media/project-story-video.mp4", "poster": "/media/brand-poster.jpg", "caption": "A concise 3-minute video overview of our mission and progress." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Media Response",
+          "items": [
+            { "label": "Avg. Response Time", "value": "< 4 Hours" },
+            { "label": "Available Languages", "value": "EN, RU, ZH" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Submit a Media Request",
+          "copy": "Please include your outlet and deadline to help us prioritize your inquiry.",
+          "primary": { "label": "Contact PR Team", "href": "/contact/media/form" },
+          "secondary": { "label": "Latest Updates", "href": "/news/updates" }
+        }
+      ]
+    },
+    {
+      "path": "/legal/terms-of-service",
+      "meta": {
+        "title": "Terms of Service | Kenya AI Compute Platform",
+        "description": "The legal agreement governing the use of our compute services, portal, and API. Clear and fair terms for all participants."
+      },
+      "hero": {
+        "headline": "A Fair and Transparent Agreement",
+        "subheadline": "We have designed our terms to protect both our infrastructure and your digital rights, ensuring a stable environment for all.",
+        "badge": "Legal Agreement",
+        "cta": [
+          { "label": "Privacy Policy", "href": "/legal/privacy-policy", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "The Rules of the Hub",
+          "body": "These Terms of Service govern your access to and use of the Kenya AI Compute platform, including our cloud console, API, and physical colocation services. We believe that professional infrastructure requires professional legal clarity. Our terms outline the responsibilities of both parties: our commitment to providing 99.9% uptime and industrial-grade security, and your commitment to using our resources for lawful and ethical purposes. We explicitly prohibit the use of our compute power for malicious activities, but we also ensure that your right to privacy and ownership of your 'compute results' is absolute. These terms are subject to the laws of Kenya, with provisions for international arbitration, providing a secure legal foundation for our global client base."
+        },
+        {
+          "type": "bullets",
+          "title": "Key Terms Summary",
+          "items": [
+            "Acceptable Use: Clear guidelines on permitted compute activities (AI, Rendering, HPC).",
+            "Uptime SLA: Compensation protocols in the unlikely event of service interruptions.",
+            "Billing & Refunds: Transparent policies for On-Demand, Reserved, and DePIN credits.",
+            "Liability: Clearly defined boundaries for hardware and software responsibilities.",
+            "Termination: Fair procedures for account closure and data retrieval."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Legal Transparency",
+          "items": [
+            { "kind": "image", "src": "/media/legal-compliance-seal.jpg", "alt": "Legal compliance certification", "caption": "Our terms meet international standards for IT infrastructure services." },
+            { "kind": "video", "src": "/media/legal-framework-explainer.mp4", "poster": "/media/regulatory-poster.jpg", "caption": "How our legal structure protects international business interests in Kenya." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Governance",
+          "items": [
+            { "label": "Jurisdiction", "value": "Kenya / International" },
+            { "label": "Last Updated", "value": "January 2026" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Have a Legal Question?",
+          "copy": "Our legal department is happy to clarify any specific clauses for your corporate counsel.",
+          "primary": { "label": "Contact Legal", "href": "/contact/general" },
+          "secondary": { "label": "Data Protection", "href": "/regulatory/kenya/data-protection" }
+        }
+      ]
+    },
+    {
+      "path": "/compute/onboarding/verification",
+      "meta": {
+        "title": "Identity Verification & Compliance | KYC for Compute",
+        "description": "Why and how we verify our clients. Ensuring a secure and compliant environment for high-performance AI workloads."
+      },
+      "hero": {
+        "headline": "Ensuring a Secure Compute Community",
+        "subheadline": "We use a streamlined verification process to protect our infrastructure from malicious use and maintain compliance with international laws.",
+        "badge": "User Verification",
+        "cta": [
+          { "label": "Start Verification", "href": "/portal/register", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "Protecting our Infrastructure and our Clients",
+          "body": "Due to the extreme power of our GPU and CPU clusters, Kenya AI Compute adheres to strict 'Know Your Customer' (KYC) and 'Know Your Business' (KYB) protocols. This isn't just about compliance with Kenyan and international anti-money laundering (AML) laws; it's about the physical safety of our facility and the integrity of our network. By verifying our users, we ensure that our high-density resources are used for legitimate AI research, 3D rendering, and decentralized compute tasks. This process prevents our IPs from being blacklisted and ensures that our SLA remain stable for all legitimate users. We have automated this process to ensure that for most individuals and companies, verification takes less than 15 minutes, allowing you to launch your clusters without unnecessary delay."
+        },
+        {
+          "type": "bullets",
+          "title": "Verification Requirements",
+          "items": [
+            "Individual: Valid government-issued ID and a liveness check.",
+            "Business: Certificate of incorporation and proof of operational address.",
+            "Compute Purpose: A brief description of your intended use case (e.g., 'LLM training').",
+            "Payment Verification: Linking a valid payment method or verified wallet.",
+            "Sanctions Screening: Automated checks against international restricted lists."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Verification Interface",
+          "items": [
+            { "kind": "image", "src": "/media/verification-flow-preview.jpg", "alt": "Mobile verification interface", "caption": "A quick and intuitive mobile-first verification process." },
+            { "kind": "video", "src": "/media/security-onboarding-talk.mp4", "poster": "/media/portal-poster.jpg", "caption": "Why professional data centers require user verification in 2026." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Speed of Trust",
+          "items": [
+            { "label": "Avg. Verification Time", "value": "< 15 Minutes" },
+            { "label": "Success Rate", "value": "98% for verified biz" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Launch Your Cluster Safely",
+          "copy": "Join the most secure and efficient compute ecosystem in the Global South.",
+          "primary": { "label": "Register Now", "href": "/portal/register" },
+          "secondary": { "label": "Privacy Policy", "href": "/legal/privacy-policy" }
+        }
+      ]
+    },
+    {
+      "path": "/resources/faq/investors",
+      "meta": {
+        "title": "Investor FAQ | ROI, Dividends, and Deal Structure",
+        "description": "Specific answers for capital partners. Dividend cycles, equity protection, and the 5-7 year exit strategy in Kenya."
+      },
+      "hero": {
+        "headline": "Capitalizing on African AI: Your Questions Answered",
+        "subheadline": "We provide clear, data-backed answers to the most common queries from institutional and private equity partners.",
+        "badge": "Investor FAQ",
+        "cta": [
+          { "label": "Financial Model", "href": "/investors/financials/model", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "Building Investor Confidence through Clarity",
+          "body": "Investing in an infrastructure-heavy project in an emerging market requires a high degree of technical and legal due diligence. This FAQ is specifically designed for our equity partners to address the 'hard' questions of finance and governance. We cover everything from the mechanics of our quarterly dividend waterfall to the specifics of our 10-year tax holiday under the Kenyan SEZ Act. We understand that our investors are looking for 'Real Yield'—the combination of dollar-denominated cash flow and the appreciation of a hard physical asset. If you are representing a fund and require deeper analysis on our CAPEX contingency or our terminal value assumptions, our CFO is available for a 1-on-1 briefing."
+        },
+        {
+          "type": "bullets",
+          "title": "Top Investor Questions",
+          "items": [
+            "Dividend Frequency: When do I see my first return? (Projected Q8 of operation).",
+            "Currency Risk: How do I get paid? (Strictly in USD via our international SPV).",
+            "Exit Liquidity: Who buys this in 5 years? (Global Hyperscalers or Infrastructure REITs).",
+            "Asset Security: Who owns the hardware? (The Joint Venture, with clear title for investors).",
+            "Regulatory Shield: What if the local tax laws change? (Locked-in SEZ protections)."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Financial Summary",
+          "items": [
+            { "kind": "image", "src": "/media/investor-roi-visual.jpg", "alt": "ROI summary infographic", "caption": "Key financial performance targets for Phase 1 and Phase 2." },
+            { "kind": "video", "src": "/media/cfo-address-investors.mp4", "poster": "/media/financial-poster.jpg", "caption": "Our CFO answers the top 3 concerns for international funds in Africa." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Investor Metrics",
+          "items": [
+            { "label": "Target Payback", "value": "5 - 7 Years" },
+            { "label": "Target EBITDA Margin", "value": "35% - 50%" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Schedule an IR Briefing",
+          "copy": "Let’s discuss how Kenya AI Compute fits into your portfolio of high-growth infrastructure assets.",
+          "primary": { "label": "Book Call", "href": "/contact/investors/schedule" },
+          "secondary": { "label": "Legal Structure", "href": "/investors/structure/legal" }
+        }
+      ]
+    },
+    {
+      "path": "/market/ai-compute/supply",
+      "meta": {
+        "title": "The Global Compute Supply Crisis | Infrastructure Scarcity",
+        "description": "Why GPU supply is only half the battle. The critical shortage of high-density power and data center halls worldwide."
+      },
+      "hero": {
+        "headline": "Solving the Supply Side of the AI Equation",
+        "subheadline": "The world has the chips, but it lacks the 'plumbing'—the power and cooling needed to run them. We are building the plumbing in Kenya.",
+        "badge": "Supply Analysis",
+        "cta": [
+          { "label": "View Our Capacity", "href": "/compute/overview", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "The Invisible Bottleneck in AI Growth",
+          "body": "Mainstream media often focuses on the shortage of NVIDIA chips, but a more permanent and structural shortage is emerging: the shortage of high-density data center capacity. Standard data centers, built for web hosting and enterprise database storage, are not equipped to handle the 40kW-100kW per rack power requirements of modern AI clusters. Major tech hubs like Northern Virginia, Dublin, and Singapore have reached the limits of their electrical grids, leading to a freeze on new data center permits. This 'Gridlock' is our greatest opportunity. Kenya AI Compute circumvents the supply crisis by building vertically integrated capacity where power is abundant and industrial space is ready. We are providing the 'Critical Compute Real Estate' that the world's AI models are desperately searching for."
+        },
+        {
+          "type": "bullets",
+          "title": "The Supply Crisis Factors",
+          "items": [
+            "Grid Saturation: Traditional tech capitals can no longer support high-density power growth.",
+            "Legacy Infrastructure: 80% of existing data centers cannot support modern GPU cooling needs.",
+            "Permit Delays: New facility construction in the West now takes 3-5 years due to regulation.",
+            "Power Costs: High electricity prices in Europe make AI training economically unsustainable.",
+            "Geographic Concentration: 90% of compute is in 3 regions; the world needs localized diversity."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Infrastructure Deficit",
+          "items": [
+            { "kind": "image", "src": "/media/global-dc-saturation-map.jpg", "alt": "Grid saturation map of the world", "caption": "Where the world is 'Full' vs where there is room for AI growth." },
+            { "kind": "video", "src": "/media/infrastructure-shortage-report.mp4", "poster": "/media/market-poster.jpg", "caption": "Why 'Power' is more important than 'Chips' in the next phase of AI." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Supply Metrics",
+          "items": [
+            { "label": "New DC Permit Wait", "value": "18 - 36 Months (US/EU)" },
+            { "label": "Power Cost Advantage", "value": "60% Savings in Kenya" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Secure Your Future Capacity",
+          "copy": "Don't get locked out of the next AI cycle. Pre-book your 1MW capacity today.",
+          "primary": { "label": "Reserve Capacity", "href": "/contact/sales" },
+          "secondary": { "label": "Project Overview", "href": "/project/overview" }
+        }
+      ]
+    },
+    {
+      "path": "/partners/kenya-partner/requirements",
+      "meta": {
+        "title": "Local Partner Requirements | Construction & Logistics",
+        "description": "Technical and financial criteria for Kenyan partners. What we look for in power plant operators and site developers."
+      },
+      "hero": {
+        "headline": "Excellence for Africa's Digital Gateway",
+        "subheadline": "We hold our local partners to the highest international standards to ensure the success of this 1MW infrastructure asset.",
+        "badge": "Partner Standards",
+        "cta": [
+          { "label": "Apply for Partnership", "href": "/partners/kenya-partner/apply", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "The Standards of a Global AI Hub",
+          "body": "To build a facility that competes with the best in the world, our local Kenyan partners must demonstrate a commitment to operational excellence and technical precision. We are looking for established entities in the energy and construction sectors that have a proven track record of delivering multi-million dollar industrial projects on time and within budget. Our requirements go beyond simple financing; we seek partners who can navigate the local regulatory landscape with integrity, manage a skilled technical workforce, and maintain the complex systems of a 24/7 data center. In return, we offer a world-class technology transfer, international currency revenue, and a seat at the table of the most innovative infrastructure project in East Africa."
+        },
+        {
+          "type": "bullets",
+          "title": "Criteria for Kenyan Partners",
+          "items": [
+            "Energy Capacity: Proven ability to build and operate 2MW+ hybrid generation plants.",
+            "Financial Health: Audited financial statements and clear proof of capital for local CAPEX share.",
+            "Regulatory Record: Clean history of compliance with Kenyan licensing and environmental laws.",
+            "Human Capital: Access to certified mechanical and electrical engineers (Certs: KETRACO/EPRA).",
+            "Commitment: Long-term vision for scaling from 1MW to 3MW+ over the next 5 years."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Partnership Standards",
+          "items": [
+            { "kind": "image", "src": "/media/kenya-engineering-standards.jpg", "alt": "Certified Kenyan engineers on site", "caption": "We prioritize local talent with world-class certifications." },
+            { "kind": "video", "src": "/media/local-impact-interview.mp4", "poster": "/media/partner-poster.jpg", "caption": "How we maintain international Tier II/III standards in the Kenyan market." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Partner Vitals",
+          "items": [
+            { "label": "Min. Project Value Exp.", "value": "$5M+" },
+            { "label": "Target Local Staffing", "value": "80% of Operations" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Start the Evaluation Process",
+          "copy": "Submit your company profile and track record for review by our project management office.",
+          "primary": { "label": "Submit Profile", "href": "/partners/kenya-partner/apply" },
+          "secondary": { "label": "About the Project", "href": "/project/overview" }
+        }
+      ]
+    },
+    {
+      "path": "/resources/documents",
+      "meta": {
+        "title": "Documents & Resource Library | Kenya AI Compute",
+        "description": "The central repository for all project files: Pitch Decks, Whitepapers, Financial Summaries, and Technical Blueprints."
+      },
+      "hero": {
+        "headline": "A Library for the Informed Partner",
+        "subheadline": "Access the comprehensive documentation that defines the future of AI infrastructure in Africa.",
+        "badge": "Resource Hub",
+        "cta": [
+          { "label": "Public Downloads", "href": "/resources/documents/public", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "Knowledge is Power",
+          "body": "The Kenya AI Compute Resource Library is designed to provide our diverse stakeholders with exactly the level of detail they need. From high-level 'Executive Summaries' for quick review to 50-page 'Technical Design Documents' for systems architects, we believe that transparency is the best way to build a lasting ecosystem. Our documents are categorized into public resources (available for immediate download) and restricted Data Room assets (available for verified partners under NDA). We regularly update our library with new monthly progress reports, updated financial simulations, and fresh research on the global AI market. Use this hub to perform your own analysis and see why we are the leading compute infrastructure asset in the region."
+        },
+        {
+          "type": "bullets",
+          "title": "Library Categories",
+          "items": [
+            "Pitch Decks: Strategic overview and investment opportunity for Phase 1 and 2.",
+            "Whitepapers: Deep dives into Energy Arbitrage, DePIN, and PUE engineering.",
+            "Financial Docs: Simplified model summaries and scenario calculators.",
+            "Technical Blueprints: Site plans, network topologies, and module specs.",
+            "Legal & Regulatory: SEZ Act summaries and Joint Venture framework overviews."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Resource Navigation",
+          "items": [
+            { "kind": "image", "src": "/media/document-icons-grid.jpg", "alt": "Document library categories", "caption": "Quickly find the information relevant to your role." },
+            { "kind": "video", "src": "/media/portal-walkthrough.mp4", "poster": "/media/portal-poster.jpg", "caption": "How to navigate our document library and request access to restricted files." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Database Vitals",
+          "items": [
+            { "label": "Total Files", "value": "150+" },
+            { "label": "Update Frequency", "value": "Weekly" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Can't find what you need?",
+          "copy": "Our support team can help you locate specific technical data or financial reports.",
+          "primary": { "label": "Contact Support", "href": "/contact/general" },
+          "secondary": { "label": "Glossary", "href": "/resources/glossary" }
+        }
+      ]
+    },
+    {
+      "path": "/resources/media/brand-assets",
+      "meta": {
+        "title": "Official Brand Assets & Guidelines | Kenya AI Compute",
+        "description": "Download our logo kit, color palettes, and typography for official project use and media reporting."
+      },
+      "hero": {
+        "headline": "Building the Visual Identity of African AI",
+        "subheadline": "We maintain a consistent and professional brand image across all global touchpoints.",
+        "badge": "Brand Identity",
+        "cta": [
+          { "label": "Media Kit", "href": "/resources/media", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "The Look and Feel of High-Performance",
+          "body": "The Kenya AI Compute brand identity is designed to reflect our core values: technological precision, industrial stability, and the vibrant energy of the East African tech scene. Our visual language uses a primary palette of Deep Tech Blue and Cyber Cyan, balanced with the earth tones of our Kenyan roots. We provide these assets to our partners, media outlets, and contractors to ensure that every representation of our project meets our global standards for quality. Please follow our Brand Guidelines (available for download) regarding clear space, minimum size, and proper color usage to ensure the integrity of our visual identity is maintained in your communications."
+        },
+        {
+          "type": "bullets",
+          "title": "What’s in the Kit?",
+          "items": [
+            "Logos: Vector and raster versions in primary, inverse, and mono colors.",
+            "Color Palette: HEX, RGB, and CMYK values for our brand colors.",
+            "Typography: Official project fonts and usage hierarchy.",
+            "Social Templates: Approved graphics for LinkedIn, X, and Instagram updates.",
+            "Iconography: Custom technical icons for AI, Energy, and Infrastructure diagrams."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Brand Visualization",
+          "items": [
+            { "kind": "image", "src": "/media/brand-style-guide-en.jpg", "alt": "Project brand guidelines", "caption": "A preview of our visual identity and design philosophy." },
+            { "kind": "video", "src": "/media/brand-reveal.mp4", "poster": "/media/brand-poster.jpg", "caption": "The story behind the Kenya AI Compute logo and brand colors." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Asset Vitals",
+          "items": [
+            { "label": "Logo Formats", "value": "SVG, EPS, PNG" },
+            { "label": "Guidelines Version", "value": "1.2 (2026)" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Download Full Kit",
+          "copy": "Access our complete brand asset package (ZIP, 45MB) for your marketing and reporting needs.",
+          "primary": { "label": "Download Assets", "href": "/media/brand-assets-full.zip" },
+          "secondary": { "label": "Contact PR", "href": "/contact/media" }
+        }
+      ]
+    },
+    {
+      "path": "/about/story",
+      "meta": {
+        "title": "Our Story: From Idea to 1MW AI Hub | Project Genesis",
+        "description": "How a simple energy arbitrage insight became Kenya’s premier AI infrastructure project. The journey of the founders."
+      },
+      "hero": {
+        "headline": "The Journey to the Silicon Savannah",
+        "subheadline": "Every great project starts with a single insight. Ours was simple: Kenya has the energy, the world has the need for compute.",
+        "badge": "Our Story",
+        "cta": [
+          { "label": "Our Vision", "href": "/about/vision", "variant": "secondary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "Identifying the Global Compute Gap",
+          "body": "The story of Kenya AI Compute began in 2024, during a deep analysis of the global energy crisis and its impact on the booming AI sector. We observed a fundamental mismatch: while the developed world was running out of power to feed its growing GPU hunger, countries in East Africa—led by Kenya—were sitting on massive, underutilized renewable and industrial energy resources. The 'lightbulb moment' happened when we realized that instead of selling low-margin electricity to a local grid, we could build high-margin digital export engines. We spent the first 18 months assembling a world-class consortium of technical experts, securing the perfect industrial site in Kenya, and structuring a deal that protects global capital while empowering the local economy. Today, we are moving from vision to physical reality, building the first 1MW hub of what will become a pan-African AI backbone."
+        },
+        {
+          "type": "bullets",
+          "title": "Milestones of Our Story",
+          "items": [
+            "2024 Concept: Discovery of the $0.04/kWh energy arbitrage opportunity.",
+            "Consortium Build: Recruiting the top 1% of data center and energy experts.",
+            "Kenya Site Lock: Securing a multi-acre industrial parcel with direct plant access.",
+            "SEZ Approval: Achieving Special Economic Zone status for the project.",
+            "The 1MW Close: Finalizing the capital structure for Phase 1 and Phase 2."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Story Gallery",
+          "items": [
+            { "kind": "image", "src": "/media/first-site-visit-photo.jpg", "alt": "Founders on site in 2024", "caption": "Where it all began: the first survey of our site in Kenya." },
+            { "kind": "video", "src": "/media/founder-interview-story.mp4", "poster": "/media/team-poster.jpg", "caption": "The founders discuss the challenges and triumphs of the project’s early days." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "Our Growth",
+          "items": [
+            { "label": "Months in Development", "value": "24" },
+            { "label": "Project Size Growth", "value": "300kW to 3MW" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "See What's Next",
+          "copy": "The story is just beginning. Follow our roadmap as we move into active scaling.",
+          "primary": { "label": "View Roadmap", "href": "/about/roadmap" },
+          "secondary": { "label": "The Team", "href": "/about/team" }
+        }
+      ]
+    },
+    {
+      "path": "/portal/customer-dashboard/overview",
+      "meta": {
+        "title": "Customer Dashboard: Real-time Cloud Console",
+        "description": "The command center for your compute resources. Monitor GPU load, manage instances, and track billing in Kenya."
+      },
+      "hero": {
+        "headline": "Full Control over Your Compute",
+        "subheadline": "Monitor your active AI training runs, deploy new instances, and optimize your spend from our unified dashboard.",
+        "badge": "User Console",
+        "cta": [
+          { "label": "Launch New Instance", "href": "/portal/customer-dashboard/services", "variant": "primary" }
+        ]
+      },
+      "sections": [
+        {
+          "type": "text",
+          "title": "Industrial-Grade Management for Modern AI Labs",
+          "body": "The Kenya AI Compute Customer Dashboard is designed for the rigorous needs of professional data scientists and infrastructure leads. We don't just show you a bill; we show you the raw performance data of your clusters. From real-time GPU thermal mapping and power draw (allowing you to verify our PUE 1.3 efficiency) to precise billing metrics for your 'Spot' and 'Reserved' instances. Our console provides a seamless bridge between your development environment and our physical hardware in Kenya. You can scale your storage volumes, configure dedicated network segments, and set up automated alerts for model training completion—all from a single, intuitive web interface."
+        },
+        {
+          "type": "bullets",
+          "title": "Dashboard Features",
+          "items": [
+            "Instance Monitor: Real-time CPU/GPU load, RAM usage, and IOPS.",
+            "Thermal Map: Visual confirmation of cooling efficiency for your racks.",
+            "Snapshot Manager: Create and restore images of your training environments.",
+            "Billing Center: View current spend, credits, and download tax invoices.",
+            "Security Logs: Track all access attempts and administrative changes."
+          ]
+        },
+        {
+          "type": "media",
+          "title": "Console Interface",
+          "items": [
+            { "kind": "image", "src": "/media/customer-dashboard-preview-en.jpg", "alt": "Cloud console screenshot", "caption": "A clean, data-driven interface for managing complex clusters." },
+            { "kind": "video", "src": "/media/console-tutorial.mp4", "poster": "/media/portal-poster.jpg", "caption": "5-minute guide: managing your GPU resources like a pro." }
+          ]
+        },
+        {
+          "type": "stats",
+          "title": "System Vitals",
+          "items": [
+            { "label": "Dashboard Uptime", "value": "99.99%" },
+            { "label": "API Response", "value": "< 100ms" }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Start Training Today",
+          "copy": "Unlock the power of African energy. Log in or create your account to begin deployment.",
+          "primary": { "label": "Log In", "href": "/portal/login" },
+          "secondary": { "label": "Technical Documentation", "href": "/compute/onboarding/documentation" }
+        }
+      ]
+    }
+  ]
+}

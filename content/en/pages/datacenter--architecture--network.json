@@ -1,0 +1,82 @@
+{
+  "path": "/datacenter/architecture/network",
+  "meta": {
+    "title": "High-Speed Network Topology | Spine-Leaf AI Fabric",
+    "description": "Inside our 100G/400G network architecture. Low-latency inter-node communication for distributed AI training."
+  },
+  "hero": {
+    "headline": "The Neural Network of our Infrastructure",
+    "subheadline": "Built on a redundant Spine-Leaf fabric, our internal network delivers the sub-millisecond latency required for large-scale AI model synchronization.",
+    "badge": "Network Fabric",
+    "cta": [
+      {
+        "label": "View Latency Map",
+        "href": "/project/location/connectivity-deep-dive",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Ultra-Low Latency Data Fabric",
+      "body": "Large-scale AI training is not just about the speed of individual GPUs; it is about the speed at which those GPUs can talk to each other. Kenya AI Compute has implemented a non-blocking Spine-Leaf network topology that provides predictable, low-latency communication between any two ports in our facility. Our core is 400G-ready, with 100G uplinks standard for every compute node. We utilize RDMA over Converged Ethernet (RoCE v2) to allow GPUs to share memory directly across the network, bypassing the CPU bottleneck. Externally, we maintain diverse fiber routes to the international cable landing stations in Mombasa. This multi-carrier strategy ensures that your AI APIs and DePIN nodes stay connected to the global internet with the lowest possible hop count to major IXPs in Europe and the Middle East. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with c"
+    },
+    {
+      "type": "bullets",
+      "title": "Network Specifications",
+      "items": [
+        "Topology: Spine-Leaf architecture for massive horizontal scalability.",
+        "Throughput: 100 Gbps per server node with 400G core uplinks.",
+        "Interconnect: Full support for RDMA/RoCE v2 and InfiniBand options.",
+        "External: 3+ independent fiber entry points for carrier neutrality.",
+        "Security: Hardware-level DDoS mitigation and VLAN isolation."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Networking Hardware",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/network-switch-rack.jpg",
+          "alt": "100G Spine-Leaf switches",
+          "caption": "Our high-speed switching fabric designed for HPC workloads."
+        },
+        {
+          "kind": "video",
+          "src": "/media/network-speed-test.mp4",
+          "poster": "/media/network-poster.jpg",
+          "caption": "Internal benchmark results: sub-millisecond inter-rack latency."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Connectivity",
+      "items": [
+        {
+          "label": "Internal Latency",
+          "value": "< 1 ms"
+        },
+        {
+          "label": "External Bandwidth",
+          "value": "100+ Gbps"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Secure Your Data",
+      "copy": "High-speed networks require world-class security. See our physical and logical protection measures.",
+      "primary": {
+        "label": "Security Specs",
+        "href": "/datacenter/architecture/security"
+      },
+      "secondary": {
+        "label": "Storage Solutions",
+        "href": "/datacenter/equipment/storage"
+      }
+    }
+  ]
+}

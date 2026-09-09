@@ -1,0 +1,82 @@
+{
+  "path": "/resources/faq/investors",
+  "meta": {
+    "title": "Investor FAQ | ROI, Dividends, and Deal Structure",
+    "description": "Specific answers for capital partners. Dividend cycles, equity protection, and the 5-7 year exit strategy in Kenya."
+  },
+  "hero": {
+    "headline": "Capitalizing on African AI: Your Questions Answered",
+    "subheadline": "We provide clear, data-backed answers to the most common queries from institutional and private equity partners.",
+    "badge": "Investor FAQ",
+    "cta": [
+      {
+        "label": "Financial Model",
+        "href": "/investors/financials/model",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Building Investor Confidence through Clarity",
+      "body": "Investing in an infrastructure-heavy project in an emerging market requires a high degree of technical and legal due diligence. This FAQ is specifically designed for our equity partners to address the 'hard' questions of finance and governance. We cover everything from the mechanics of our quarterly dividend waterfall to the specifics of our 10-year tax holiday under the Kenyan SEZ Act. We understand that our investors are looking for 'Real Yield'—the combination of dollar-denominated cash flow and the appreciation of a hard physical asset. If you are representing a fund and require deeper analysis on our CAPEX contingency or our terminal value assumptions, our CFO is available for a 1-on-1 briefing. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track"
+    },
+    {
+      "type": "bullets",
+      "title": "Top Investor Questions",
+      "items": [
+        "Dividend Frequency: When do I see my first return? (Projected Q8 of operation).",
+        "Currency Risk: How do I get paid? (Strictly in USD via our international SPV).",
+        "Exit Liquidity: Who buys this in 5 years? (Global Hyperscalers or Infrastructure REITs).",
+        "Asset Security: Who owns the hardware? (The Joint Venture, with clear title for investors).",
+        "Regulatory Shield: What if the local tax laws change? (Locked-in SEZ protections)."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Financial Summary",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/investor-roi-visual.jpg",
+          "alt": "ROI summary infographic",
+          "caption": "Key financial performance targets for Phase 1 and Phase 2."
+        },
+        {
+          "kind": "video",
+          "src": "/media/cfo-address-investors.mp4",
+          "poster": "/media/financial-poster.jpg",
+          "caption": "Our CFO answers the top 3 concerns for international funds in Africa."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Investor Metrics",
+      "items": [
+        {
+          "label": "Target Payback",
+          "value": "5 - 7 Years"
+        },
+        {
+          "label": "Target EBITDA Margin",
+          "value": "35% - 50%"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Schedule an IR Briefing",
+      "copy": "Let’s discuss how Kenya AI Compute fits into your portfolio of high-growth infrastructure assets.",
+      "primary": {
+        "label": "Book Call",
+        "href": "/contact/investors/schedule"
+      },
+      "secondary": {
+        "label": "Legal Structure",
+        "href": "/investors/structure/legal"
+      }
+    }
+  ]
+}

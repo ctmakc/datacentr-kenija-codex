@@ -1,0 +1,82 @@
+{
+  "path": "/compute/onboarding/migration",
+  "meta": {
+    "title": "Seamless Cloud Migration Guide | Switch to Kenya AI",
+    "description": "How to move your AI workloads from AWS, GCP, or Azure to our high-efficiency facility with zero downtime."
+  },
+  "hero": {
+    "headline": "Switch to Efficiency with Zero Friction",
+    "subheadline": "Moving your AI models shouldn't be hard. Our engineering team handles the technical heavy lifting, ensuring a seamless transition to 40% lower costs.",
+    "badge": "Migration Support",
+    "cta": [
+      {
+        "label": "Request Migration Plan",
+        "href": "/contact/sales",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "A Proactive Approach to Cost Optimization",
+      "body": "Many AI startups feel 'locked in' to expensive cloud providers due to the perceived complexity of infrastructure migration. Kenya AI Compute eliminates this barrier by providing dedicated migration support. We use industry-standard orchestration tools like Kubernetes, Terraform, and Docker, making our infrastructure compatible with the environments you are already running on AWS or Google Cloud. The process begins with a 'Cloud Health Check,' where our architects analyze your current resource utilization and build a mirrored environment in our Kenyan facility. We utilize secure data transfer tunnels to sync your datasets and provide a 7-day parallel run period to verify performance and latency. Our goal is to make your move to $0.70/GPU-hour as effortless as a simple API endpoint update. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each ph"
+    },
+    {
+      "type": "bullets",
+      "title": "The Migration Workflow",
+      "items": [
+        "Infrastructure Audit: We map your current cloud dependencies and resource needs.",
+        "Mirror Setup: We deploy your stack on our GPU/CPU clusters for testing.",
+        "Data Sync: Secure, high-bandwidth transfer of your training datasets and weights.",
+        "Validation: Performance benchmarking to ensure our hardware meets or exceeds your current cloud.",
+        "Seamless Cutover: Updating your DNS or API routes to our low-latency IP transit."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Success Stories",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/migration-diagram-en.jpg",
+          "alt": "Cloud to Kenya AI Migration Flow",
+          "caption": "How we move your data and compute without service interruption."
+        },
+        {
+          "kind": "video",
+          "src": "/media/migration-case-study.mp4",
+          "poster": "/media/tutorial-poster.jpg",
+          "caption": "Case Study: How an AI lab reduced training costs by 45% in 3 days."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Migration Efficiency",
+      "items": [
+        {
+          "label": "Avg. Migration Time",
+          "value": "72 Hours"
+        },
+        {
+          "label": "Downtime Risk",
+          "value": "Near Zero"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Start Your Transition",
+      "copy": "Schedule a call with our technical lead to discuss your current cloud setup and migration timeline.",
+      "primary": {
+        "label": "Talk to Migration Lead",
+        "href": "/contact/general"
+      },
+      "secondary": {
+        "label": "Documentation",
+        "href": "/compute/onboarding/documentation"
+      }
+    }
+  ]
+}

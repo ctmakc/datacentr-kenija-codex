@@ -1,0 +1,82 @@
+{
+  "path": "/compute/onboarding/verification",
+  "meta": {
+    "title": "Identity Verification & Compliance | KYC for Compute",
+    "description": "Why and how we verify our clients. Ensuring a secure and compliant environment for high-performance AI workloads."
+  },
+  "hero": {
+    "headline": "Ensuring a Secure Compute Community",
+    "subheadline": "We use a streamlined verification process to protect our infrastructure from malicious use and maintain compliance with international laws.",
+    "badge": "User Verification",
+    "cta": [
+      {
+        "label": "Start Verification",
+        "href": "/portal/register",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Protecting our Infrastructure and our Clients",
+      "body": "Due to the extreme power of our GPU and CPU clusters, Kenya AI Compute adheres to strict 'Know Your Customer' (KYC) and 'Know Your Business' (KYB) protocols. This isn't just about compliance with Kenyan and international anti-money laundering (AML) laws; it's about the physical safety of our facility and the integrity of our network. By verifying our users, we ensure that our high-density resources are used for legitimate AI research, 3D rendering, and decentralized compute tasks. This process prevents our IPs from being blacklisted and ensures that our SLA remain stable for all legitimate users. We have automated this process to ensure that for most individuals and companies, verification takes less than 15 minutes, allowing you to launch your clusters without unnecessary delay. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so sta"
+    },
+    {
+      "type": "bullets",
+      "title": "Verification Requirements",
+      "items": [
+        "Individual: Valid government-issued ID and a liveness check.",
+        "Business: Certificate of incorporation and proof of operational address.",
+        "Compute Purpose: A brief description of your intended use case (e.g., 'LLM training').",
+        "Payment Verification: Linking a valid payment method or verified wallet.",
+        "Sanctions Screening: Automated checks against international restricted lists."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Verification Interface",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/verification-flow-preview.jpg",
+          "alt": "Mobile verification interface",
+          "caption": "A quick and intuitive mobile-first verification process."
+        },
+        {
+          "kind": "video",
+          "src": "/media/security-onboarding-talk.mp4",
+          "poster": "/media/portal-poster.jpg",
+          "caption": "Why professional data centers require user verification in 2026."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Speed of Trust",
+      "items": [
+        {
+          "label": "Avg. Verification Time",
+          "value": "< 15 Minutes"
+        },
+        {
+          "label": "Success Rate",
+          "value": "98% for verified biz"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Launch Your Cluster Safely",
+      "copy": "Join the most secure and efficient compute ecosystem in the Global South.",
+      "primary": {
+        "label": "Register Now",
+        "href": "/portal/register"
+      },
+      "secondary": {
+        "label": "Privacy Policy",
+        "href": "/legal/privacy-policy"
+      }
+    }
+  ]
+}

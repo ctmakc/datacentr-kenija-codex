@@ -1,0 +1,82 @@
+{
+  "path": "/investors/risks/mitigation",
+  "meta": {
+    "title": "Risk Mitigation Strategies | Capital Protection",
+    "description": "How we de-risk your investment: energy redundancy, dollar-denominated revenue, and DePIN protocol hedging."
+  },
+  "hero": {
+    "headline": "Securing Your Capital through Strategic Defense",
+    "subheadline": "We have identified the primary risks of operating in Kenya and AI infrastructure and built systematic safeguards for each.",
+    "badge": "Mitigation Strategy",
+    "cta": [
+      {
+        "label": "Risk Analysis",
+        "href": "/investors/risks/analysis",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "A Systematic Approach to Infrastructure Risk",
+      "body": "Investing in high-tech infrastructure in an emerging market requires more than optimism; it requires a rigorous risk management framework. Kenya AI Compute has implemented a 'defense-in-depth' strategy that covers market, technical, and geopolitical threats. To mitigate market volatility, we use DePIN protocols as a 'revenue floor,' ensuring that we are never dependent on a single corporate client. To mitigate technical risk, we utilize a modular N+1 engineering design that allows for continuous operation even during individual component failures. Geopolitical and currency risks are addressed through our strictly dollar-denominated billing model and our strategic partnerships with large, influential local entities. We view risk as a manageable variable, and our transparency on these measures is why institutional partners trust us with their capital."
+    },
+    {
+      "type": "bullets",
+      "title": "Our Key Safeguards",
+      "items": [
+        "Protocol Hedging: Direct partnerships with Render/Akash provide instant, automated capacity utilization.",
+        "Currency Locking: All compute contracts are priced in USD, insulating the project from regional inflation.",
+        "Energy Redundancy: Hybrid on-site generation (Solar/Gas/Diesel) eliminates dependency on the public grid.",
+        "Contractual Protection: JV agreements structured under international arbitration laws.",
+        "Asset Insurance: Comprehensive coverage for hardware, physical facility, and business interruption."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Mitigation Framework",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/risk-mitigation-flow.jpg",
+          "alt": "Risk Protection Diagram",
+          "caption": "How our three-tier defense strategy protects investor equity."
+        },
+        {
+          "kind": "video",
+          "src": "/media/risk-mitigation-talk.mp4",
+          "poster": "/media/risk-poster.jpg",
+          "caption": "Watch: Our CEO discusses our approach to hedging against AI market fluctuations."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Safety Vitals",
+      "items": [
+        {
+          "label": "Revenue Diversification",
+          "value": "4 Primary Streams"
+        },
+        {
+          "label": "Asset Insurance Coverage",
+          "value": "Full Replacement"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Review Legal Protections",
+      "copy": "See how our Joint Venture and SEZ status provide the final layer of legal security for your funds.",
+      "primary": {
+        "label": "Legal Structure",
+        "href": "/investors/structure/legal"
+      },
+      "secondary": {
+        "label": "Kenya Specific Risks",
+        "href": "/investors/risks/kenya-specific"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "path": "/about/partners/become-a-partner",
+  "meta": {
+    "title": "Become a Strategic Partner | Join the AI Compute Ecosystem",
+    "description": "How to join the Kenya AI Compute consortium. Opportunities for energy, tech, and local Kenyan firms."
+  },
+  "hero": {
+    "headline": "Scaling Africa's Digital Frontier Together",
+    "subheadline": "We are seeking visionary partners to expand our 1MW footprint and build the pan-African compute backbone.",
+    "badge": "Partnership Opportunity",
+    "cta": [
+      {
+        "label": "Partner RFI",
+        "href": "/partners/technical-partner/apply",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "An Ecosystem for Long-Term Value",
+      "body": "Kenya AI Compute is not a siloed project; it is a collaborative ecosystem designed to integrate local natural resources with global technological demand. We are actively expanding our network of strategic partners in three key areas: Energy, Technology, and Local Infrastructure. We offer our partners a unique entry point into the most innovative asset class in the East African market. Partners benefit from international currency revenue streams, technology transfer from global DC experts, and the opportunity to scale alongside us to 3MW and beyond. Whether you are a Kenyan construction firm, a global GPU vendor, or an institutional financier, we have a structured partnership model designed to align our long-term interests and maximize project ROI. Additional context: the project follows a clear rollout roadmap that aligns low-cost energy, infrastructure reliability, and flexible deployment models. Each phase includes checkpoints on capacity, uptime, and unit economics so stakeholders can track progress with confidence. Additional context: the project follows a cle"
+    },
+    {
+      "type": "bullets",
+      "title": "Partnership Pathways",
+      "items": [
+        "Energy Partners: Help us build and scale hybrid generation assets.",
+        "Tech Partners: Design and optimize high-density compute environments.",
+        "Local Partners: Navigate the Kenyan regulatory and logistical landscape.",
+        "Network Partners: Integrate DePIN protocols and global IP transit.",
+        "Capital Partners: Participate in our Phase 2 and Phase 3 expansion rounds."
+      ]
+    },
+    {
+      "type": "media",
+      "title": "Partner Network",
+      "items": [
+        {
+          "kind": "image",
+          "src": "/media/partnership-ecosystem-map.jpg",
+          "alt": "Project partner ecosystem",
+          "caption": "Connecting local resources with global AI demand."
+        },
+        {
+          "kind": "video",
+          "src": "/media/partnership-benefits-en.mp4",
+          "poster": "/media/team-poster.jpg",
+          "caption": "The business case for partnering with Kenya AI Compute."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Ecosystem Vitals",
+      "items": [
+        {
+          "label": "Target Active Partners",
+          "value": "20+"
+        },
+        {
+          "label": "Project Scalability",
+          "value": "10x to 10MW"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Submit a Partnership Proposal",
+      "copy": "Our project management office is ready to review your capabilities and discuss potential synergies.",
+      "primary": {
+        "label": "Contact PMO",
+        "href": "/contact/general"
+      },
+      "secondary": {
+        "label": "Full Roadmap",
+        "href": "/about/roadmap"
+      }
+    }
+  ]
+}
